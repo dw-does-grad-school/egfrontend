@@ -1,0 +1,3973 @@
+{
+  "styles": [
+    {
+      "id": "realism",
+      "label": "Realism",
+      "slug": "realism",
+      "images": [
+        {
+          "fileName": "realism-58221.jpg",
+          "relativePath": "/quiz/realism/realism-58221.jpg",
+          "artist": 97,
+          "title": "realism-58221",
+          "style": "Realism"
+        },
+        {
+          "fileName": "realism-17899.jpg",
+          "relativePath": "/quiz/realism/realism-17899.jpg",
+          "artist": 10,
+          "title": "realism-17899",
+          "style": "Realism"
+        },
+        {
+          "fileName": "realism-42012.jpg",
+          "relativePath": "/quiz/realism/realism-42012.jpg",
+          "artist": 74,
+          "title": "realism-42012",
+          "style": "Realism"
+        },
+        {
+          "fileName": "realism-50551.jpg",
+          "relativePath": "/quiz/realism/realism-50551.jpg",
+          "artist": "",
+          "title": "realism-50551",
+          "style": "Realism"
+        },
+        {
+          "fileName": "realism-76664.jpg",
+          "relativePath": "/quiz/realism/realism-76664.jpg",
+          "artist": "",
+          "title": "realism-76664",
+          "style": "Realism"
+        },
+        {
+          "fileName": "realism-65165.jpg",
+          "relativePath": "/quiz/realism/realism-65165.jpg",
+          "artist": 79,
+          "title": "realism-65165",
+          "style": "Realism"
+        },
+        {
+          "fileName": "realism-1674.jpg",
+          "relativePath": "/quiz/realism/realism-1674.jpg",
+          "artist": 1,
+          "title": "realism-1674",
+          "style": "Realism"
+        },
+        {
+          "fileName": "realism-12666.jpg",
+          "relativePath": "/quiz/realism/realism-12666.jpg",
+          "artist": 11,
+          "title": "realism-12666",
+          "style": "Realism"
+        },
+        {
+          "fileName": "realism-20217.jpg",
+          "relativePath": "/quiz/realism/realism-20217.jpg",
+          "artist": 79,
+          "title": "realism-20217",
+          "style": "Realism"
+        },
+        {
+          "fileName": "realism-26107.jpg",
+          "relativePath": "/quiz/realism/realism-26107.jpg",
+          "artist": "",
+          "title": "realism-26107",
+          "style": "Realism"
+        },
+        {
+          "fileName": "realism-7739.jpg",
+          "relativePath": "/quiz/realism/realism-7739.jpg",
+          "artist": 8,
+          "title": "realism-7739",
+          "style": "Realism"
+        },
+        {
+          "fileName": "realism-18230.jpg",
+          "relativePath": "/quiz/realism/realism-18230.jpg",
+          "artist": 8,
+          "title": "realism-18230",
+          "style": "Realism"
+        },
+        {
+          "fileName": "realism-33117.jpg",
+          "relativePath": "/quiz/realism/realism-33117.jpg",
+          "artist": 94,
+          "title": "realism-33117",
+          "style": "Realism"
+        },
+        {
+          "fileName": "realism-16530.jpg",
+          "relativePath": "/quiz/realism/realism-16530.jpg",
+          "artist": 14,
+          "title": "realism-16530",
+          "style": "Realism"
+        },
+        {
+          "fileName": "realism-50487.jpg",
+          "relativePath": "/quiz/realism/realism-50487.jpg",
+          "artist": 57,
+          "title": "realism-50487",
+          "style": "Realism"
+        },
+        {
+          "fileName": "realism-5028.jpg",
+          "relativePath": "/quiz/realism/realism-5028.jpg",
+          "artist": 8,
+          "title": "realism-5028",
+          "style": "Realism"
+        },
+        {
+          "fileName": "realism-64666.jpg",
+          "relativePath": "/quiz/realism/realism-64666.jpg",
+          "artist": "",
+          "title": "realism-64666",
+          "style": "Realism"
+        },
+        {
+          "fileName": "realism-453.jpg",
+          "relativePath": "/quiz/realism/realism-453.jpg",
+          "artist": 1,
+          "title": "realism-453",
+          "style": "Realism"
+        },
+        {
+          "fileName": "realism-42907.jpg",
+          "relativePath": "/quiz/realism/realism-42907.jpg",
+          "artist": "",
+          "title": "realism-42907",
+          "style": "Realism"
+        },
+        {
+          "fileName": "realism-11121.jpg",
+          "relativePath": "/quiz/realism/realism-11121.jpg",
+          "artist": 11,
+          "title": "realism-11121",
+          "style": "Realism"
+        }
+      ]
+    },
+    {
+      "id": "baroque",
+      "label": "Baroque",
+      "slug": "baroque",
+      "images": [
+        {
+          "fileName": "baroque-17627.jpg",
+          "relativePath": "/quiz/baroque/baroque-17627.jpg",
+          "artist": 20,
+          "title": "baroque-17627",
+          "style": "Baroque"
+        },
+        {
+          "fileName": "baroque-71644.jpg",
+          "relativePath": "/quiz/baroque/baroque-71644.jpg",
+          "artist": "",
+          "title": "baroque-71644",
+          "style": "Baroque"
+        },
+        {
+          "fileName": "baroque-73453.jpg",
+          "relativePath": "/quiz/baroque/baroque-73453.jpg",
+          "artist": "",
+          "title": "baroque-73453",
+          "style": "Baroque"
+        },
+        {
+          "fileName": "baroque-24020.jpg",
+          "relativePath": "/quiz/baroque/baroque-24020.jpg",
+          "artist": 61,
+          "title": "baroque-24020",
+          "style": "Baroque"
+        },
+        {
+          "fileName": "baroque-63539.jpg",
+          "relativePath": "/quiz/baroque/baroque-63539.jpg",
+          "artist": "",
+          "title": "baroque-63539",
+          "style": "Baroque"
+        },
+        {
+          "fileName": "baroque-31716.jpg",
+          "relativePath": "/quiz/baroque/baroque-31716.jpg",
+          "artist": "",
+          "title": "baroque-31716",
+          "style": "Baroque"
+        },
+        {
+          "fileName": "baroque-78617.jpg",
+          "relativePath": "/quiz/baroque/baroque-78617.jpg",
+          "artist": "",
+          "title": "baroque-78617",
+          "style": "Baroque"
+        },
+        {
+          "fileName": "baroque-38105.jpg",
+          "relativePath": "/quiz/baroque/baroque-38105.jpg",
+          "artist": 80,
+          "title": "baroque-38105",
+          "style": "Baroque"
+        },
+        {
+          "fileName": "baroque-21610.jpg",
+          "relativePath": "/quiz/baroque/baroque-21610.jpg",
+          "artist": 61,
+          "title": "baroque-21610",
+          "style": "Baroque"
+        },
+        {
+          "fileName": "baroque-43030.jpg",
+          "relativePath": "/quiz/baroque/baroque-43030.jpg",
+          "artist": "",
+          "title": "baroque-43030",
+          "style": "Baroque"
+        },
+        {
+          "fileName": "baroque-68214.jpg",
+          "relativePath": "/quiz/baroque/baroque-68214.jpg",
+          "artist": "",
+          "title": "baroque-68214",
+          "style": "Baroque"
+        },
+        {
+          "fileName": "baroque-17575.jpg",
+          "relativePath": "/quiz/baroque/baroque-17575.jpg",
+          "artist": 20,
+          "title": "baroque-17575",
+          "style": "Baroque"
+        },
+        {
+          "fileName": "baroque-54650.jpg",
+          "relativePath": "/quiz/baroque/baroque-54650.jpg",
+          "artist": "",
+          "title": "baroque-54650",
+          "style": "Baroque"
+        },
+        {
+          "fileName": "baroque-54737.jpg",
+          "relativePath": "/quiz/baroque/baroque-54737.jpg",
+          "artist": "",
+          "title": "baroque-54737",
+          "style": "Baroque"
+        },
+        {
+          "fileName": "baroque-55018.jpg",
+          "relativePath": "/quiz/baroque/baroque-55018.jpg",
+          "artist": "",
+          "title": "baroque-55018",
+          "style": "Baroque"
+        },
+        {
+          "fileName": "baroque-47763.jpg",
+          "relativePath": "/quiz/baroque/baroque-47763.jpg",
+          "artist": "",
+          "title": "baroque-47763",
+          "style": "Baroque"
+        },
+        {
+          "fileName": "baroque-37923.jpg",
+          "relativePath": "/quiz/baroque/baroque-37923.jpg",
+          "artist": 61,
+          "title": "baroque-37923",
+          "style": "Baroque"
+        },
+        {
+          "fileName": "baroque-76191.jpg",
+          "relativePath": "/quiz/baroque/baroque-76191.jpg",
+          "artist": "",
+          "title": "baroque-76191",
+          "style": "Baroque"
+        },
+        {
+          "fileName": "baroque-78575.jpg",
+          "relativePath": "/quiz/baroque/baroque-78575.jpg",
+          "artist": "",
+          "title": "baroque-78575",
+          "style": "Baroque"
+        },
+        {
+          "fileName": "baroque-9322.jpg",
+          "relativePath": "/quiz/baroque/baroque-9322.jpg",
+          "artist": 20,
+          "title": "baroque-9322",
+          "style": "Baroque"
+        }
+      ]
+    },
+    {
+      "id": "post-impressionism",
+      "label": "Post_Impressionism",
+      "slug": "post-impressionism",
+      "images": [
+        {
+          "fileName": "post-impressionism-58685.jpg",
+          "relativePath": "/quiz/post-impressionism/post-impressionism-58685.jpg",
+          "artist": "",
+          "title": "post-impressionism-58685",
+          "style": "Post_Impressionism"
+        },
+        {
+          "fileName": "post-impressionism-2216.jpg",
+          "relativePath": "/quiz/post-impressionism/post-impressionism-2216.jpg",
+          "artist": 22,
+          "title": "post-impressionism-2216",
+          "style": "Post_Impressionism"
+        },
+        {
+          "fileName": "post-impressionism-14248.jpg",
+          "relativePath": "/quiz/post-impressionism/post-impressionism-14248.jpg",
+          "artist": 22,
+          "title": "post-impressionism-14248",
+          "style": "Post_Impressionism"
+        },
+        {
+          "fileName": "post-impressionism-29410.jpg",
+          "relativePath": "/quiz/post-impressionism/post-impressionism-29410.jpg",
+          "artist": "",
+          "title": "post-impressionism-29410",
+          "style": "Post_Impressionism"
+        },
+        {
+          "fileName": "post-impressionism-44217.jpg",
+          "relativePath": "/quiz/post-impressionism/post-impressionism-44217.jpg",
+          "artist": 39,
+          "title": "post-impressionism-44217",
+          "style": "Post_Impressionism"
+        },
+        {
+          "fileName": "post-impressionism-25267.jpg",
+          "relativePath": "/quiz/post-impressionism/post-impressionism-25267.jpg",
+          "artist": "",
+          "title": "post-impressionism-25267",
+          "style": "Post_Impressionism"
+        },
+        {
+          "fileName": "post-impressionism-837.jpg",
+          "relativePath": "/quiz/post-impressionism/post-impressionism-837.jpg",
+          "artist": 22,
+          "title": "post-impressionism-837",
+          "style": "Post_Impressionism"
+        },
+        {
+          "fileName": "post-impressionism-49273.jpg",
+          "relativePath": "/quiz/post-impressionism/post-impressionism-49273.jpg",
+          "artist": "",
+          "title": "post-impressionism-49273",
+          "style": "Post_Impressionism"
+        },
+        {
+          "fileName": "post-impressionism-42354.jpg",
+          "relativePath": "/quiz/post-impressionism/post-impressionism-42354.jpg",
+          "artist": 59,
+          "title": "post-impressionism-42354",
+          "style": "Post_Impressionism"
+        },
+        {
+          "fileName": "post-impressionism-12138.jpg",
+          "relativePath": "/quiz/post-impressionism/post-impressionism-12138.jpg",
+          "artist": 16,
+          "title": "post-impressionism-12138",
+          "style": "Post_Impressionism"
+        },
+        {
+          "fileName": "post-impressionism-38974.jpg",
+          "relativePath": "/quiz/post-impressionism/post-impressionism-38974.jpg",
+          "artist": 59,
+          "title": "post-impressionism-38974",
+          "style": "Post_Impressionism"
+        },
+        {
+          "fileName": "post-impressionism-34816.jpg",
+          "relativePath": "/quiz/post-impressionism/post-impressionism-34816.jpg",
+          "artist": 118,
+          "title": "post-impressionism-34816",
+          "style": "Post_Impressionism"
+        },
+        {
+          "fileName": "post-impressionism-631.jpg",
+          "relativePath": "/quiz/post-impressionism/post-impressionism-631.jpg",
+          "artist": 22,
+          "title": "post-impressionism-631",
+          "style": "Post_Impressionism"
+        },
+        {
+          "fileName": "post-impressionism-10024.jpg",
+          "relativePath": "/quiz/post-impressionism/post-impressionism-10024.jpg",
+          "artist": 16,
+          "title": "post-impressionism-10024",
+          "style": "Post_Impressionism"
+        },
+        {
+          "fileName": "post-impressionism-31763.jpg",
+          "relativePath": "/quiz/post-impressionism/post-impressionism-31763.jpg",
+          "artist": "",
+          "title": "post-impressionism-31763",
+          "style": "Post_Impressionism"
+        },
+        {
+          "fileName": "post-impressionism-51598.jpg",
+          "relativePath": "/quiz/post-impressionism/post-impressionism-51598.jpg",
+          "artist": "",
+          "title": "post-impressionism-51598",
+          "style": "Post_Impressionism"
+        },
+        {
+          "fileName": "post-impressionism-42397.jpg",
+          "relativePath": "/quiz/post-impressionism/post-impressionism-42397.jpg",
+          "artist": "",
+          "title": "post-impressionism-42397",
+          "style": "Post_Impressionism"
+        },
+        {
+          "fileName": "post-impressionism-32789.jpg",
+          "relativePath": "/quiz/post-impressionism/post-impressionism-32789.jpg",
+          "artist": "",
+          "title": "post-impressionism-32789",
+          "style": "Post_Impressionism"
+        },
+        {
+          "fileName": "post-impressionism-15580.jpg",
+          "relativePath": "/quiz/post-impressionism/post-impressionism-15580.jpg",
+          "artist": 21,
+          "title": "post-impressionism-15580",
+          "style": "Post_Impressionism"
+        },
+        {
+          "fileName": "post-impressionism-31411.jpg",
+          "relativePath": "/quiz/post-impressionism/post-impressionism-31411.jpg",
+          "artist": "",
+          "title": "post-impressionism-31411",
+          "style": "Post_Impressionism"
+        }
+      ]
+    },
+    {
+      "id": "impressionism",
+      "label": "Impressionism",
+      "slug": "impressionism",
+      "images": [
+        {
+          "fileName": "impressionism-5564.jpg",
+          "relativePath": "/quiz/impressionism/impressionism-5564.jpg",
+          "artist": 17,
+          "title": "impressionism-5564",
+          "style": "Impressionism"
+        },
+        {
+          "fileName": "impressionism-2008.jpg",
+          "relativePath": "/quiz/impressionism/impressionism-2008.jpg",
+          "artist": 5,
+          "title": "impressionism-2008",
+          "style": "Impressionism"
+        },
+        {
+          "fileName": "impressionism-44707.jpg",
+          "relativePath": "/quiz/impressionism/impressionism-44707.jpg",
+          "artist": 49,
+          "title": "impressionism-44707",
+          "style": "Impressionism"
+        },
+        {
+          "fileName": "impressionism-75914.jpg",
+          "relativePath": "/quiz/impressionism/impressionism-75914.jpg",
+          "artist": "",
+          "title": "impressionism-75914",
+          "style": "Impressionism"
+        },
+        {
+          "fileName": "impressionism-4047.jpg",
+          "relativePath": "/quiz/impressionism/impressionism-4047.jpg",
+          "artist": 17,
+          "title": "impressionism-4047",
+          "style": "Impressionism"
+        },
+        {
+          "fileName": "impressionism-1584.jpg",
+          "relativePath": "/quiz/impressionism/impressionism-1584.jpg",
+          "artist": 17,
+          "title": "impressionism-1584",
+          "style": "Impressionism"
+        },
+        {
+          "fileName": "impressionism-12596.jpg",
+          "relativePath": "/quiz/impressionism/impressionism-12596.jpg",
+          "artist": 11,
+          "title": "impressionism-12596",
+          "style": "Impressionism"
+        },
+        {
+          "fileName": "impressionism-54939.jpg",
+          "relativePath": "/quiz/impressionism/impressionism-54939.jpg",
+          "artist": 51,
+          "title": "impressionism-54939",
+          "style": "Impressionism"
+        },
+        {
+          "fileName": "impressionism-60543.jpg",
+          "relativePath": "/quiz/impressionism/impressionism-60543.jpg",
+          "artist": "",
+          "title": "impressionism-60543",
+          "style": "Impressionism"
+        },
+        {
+          "fileName": "impressionism-73135.jpg",
+          "relativePath": "/quiz/impressionism/impressionism-73135.jpg",
+          "artist": "",
+          "title": "impressionism-73135",
+          "style": "Impressionism"
+        },
+        {
+          "fileName": "impressionism-59000.jpg",
+          "relativePath": "/quiz/impressionism/impressionism-59000.jpg",
+          "artist": "",
+          "title": "impressionism-59000",
+          "style": "Impressionism"
+        },
+        {
+          "fileName": "impressionism-3563.jpg",
+          "relativePath": "/quiz/impressionism/impressionism-3563.jpg",
+          "artist": 4,
+          "title": "impressionism-3563",
+          "style": "Impressionism"
+        },
+        {
+          "fileName": "impressionism-48804.jpg",
+          "relativePath": "/quiz/impressionism/impressionism-48804.jpg",
+          "artist": "",
+          "title": "impressionism-48804",
+          "style": "Impressionism"
+        },
+        {
+          "fileName": "impressionism-6822.jpg",
+          "relativePath": "/quiz/impressionism/impressionism-6822.jpg",
+          "artist": 17,
+          "title": "impressionism-6822",
+          "style": "Impressionism"
+        },
+        {
+          "fileName": "impressionism-27488.jpg",
+          "relativePath": "/quiz/impressionism/impressionism-27488.jpg",
+          "artist": "",
+          "title": "impressionism-27488",
+          "style": "Impressionism"
+        },
+        {
+          "fileName": "impressionism-35131.jpg",
+          "relativePath": "/quiz/impressionism/impressionism-35131.jpg",
+          "artist": "",
+          "title": "impressionism-35131",
+          "style": "Impressionism"
+        },
+        {
+          "fileName": "impressionism-12554.jpg",
+          "relativePath": "/quiz/impressionism/impressionism-12554.jpg",
+          "artist": 5,
+          "title": "impressionism-12554",
+          "style": "Impressionism"
+        },
+        {
+          "fileName": "impressionism-1595.jpg",
+          "relativePath": "/quiz/impressionism/impressionism-1595.jpg",
+          "artist": 4,
+          "title": "impressionism-1595",
+          "style": "Impressionism"
+        },
+        {
+          "fileName": "impressionism-7523.jpg",
+          "relativePath": "/quiz/impressionism/impressionism-7523.jpg",
+          "artist": 17,
+          "title": "impressionism-7523",
+          "style": "Impressionism"
+        },
+        {
+          "fileName": "impressionism-9511.jpg",
+          "relativePath": "/quiz/impressionism/impressionism-9511.jpg",
+          "artist": 17,
+          "title": "impressionism-9511",
+          "style": "Impressionism"
+        }
+      ]
+    },
+    {
+      "id": "romanticism",
+      "label": "Romanticism",
+      "slug": "romanticism",
+      "images": [
+        {
+          "fileName": "romanticism-53949.jpg",
+          "relativePath": "/quiz/romanticism/romanticism-53949.jpg",
+          "artist": "",
+          "title": "romanticism-53949",
+          "style": "Romanticism"
+        },
+        {
+          "fileName": "romanticism-19667.jpg",
+          "relativePath": "/quiz/romanticism/romanticism-19667.jpg",
+          "artist": 108,
+          "title": "romanticism-19667",
+          "style": "Romanticism"
+        },
+        {
+          "fileName": "romanticism-9195.jpg",
+          "relativePath": "/quiz/romanticism/romanticism-9195.jpg",
+          "artist": 9,
+          "title": "romanticism-9195",
+          "style": "Romanticism"
+        },
+        {
+          "fileName": "romanticism-64717.jpg",
+          "relativePath": "/quiz/romanticism/romanticism-64717.jpg",
+          "artist": 96,
+          "title": "romanticism-64717",
+          "style": "Romanticism"
+        },
+        {
+          "fileName": "romanticism-31544.jpg",
+          "relativePath": "/quiz/romanticism/romanticism-31544.jpg",
+          "artist": "",
+          "title": "romanticism-31544",
+          "style": "Romanticism"
+        },
+        {
+          "fileName": "romanticism-44766.jpg",
+          "relativePath": "/quiz/romanticism/romanticism-44766.jpg",
+          "artist": "",
+          "title": "romanticism-44766",
+          "style": "Romanticism"
+        },
+        {
+          "fileName": "romanticism-43968.jpg",
+          "relativePath": "/quiz/romanticism/romanticism-43968.jpg",
+          "artist": "",
+          "title": "romanticism-43968",
+          "style": "Romanticism"
+        },
+        {
+          "fileName": "romanticism-56980.jpg",
+          "relativePath": "/quiz/romanticism/romanticism-56980.jpg",
+          "artist": 113,
+          "title": "romanticism-56980",
+          "style": "Romanticism"
+        },
+        {
+          "fileName": "romanticism-26250.jpg",
+          "relativePath": "/quiz/romanticism/romanticism-26250.jpg",
+          "artist": 100,
+          "title": "romanticism-26250",
+          "style": "Romanticism"
+        },
+        {
+          "fileName": "romanticism-55711.jpg",
+          "relativePath": "/quiz/romanticism/romanticism-55711.jpg",
+          "artist": "",
+          "title": "romanticism-55711",
+          "style": "Romanticism"
+        },
+        {
+          "fileName": "romanticism-1671.jpg",
+          "relativePath": "/quiz/romanticism/romanticism-1671.jpg",
+          "artist": 7,
+          "title": "romanticism-1671",
+          "style": "Romanticism"
+        },
+        {
+          "fileName": "romanticism-45818.jpg",
+          "relativePath": "/quiz/romanticism/romanticism-45818.jpg",
+          "artist": "",
+          "title": "romanticism-45818",
+          "style": "Romanticism"
+        },
+        {
+          "fileName": "romanticism-34979.jpg",
+          "relativePath": "/quiz/romanticism/romanticism-34979.jpg",
+          "artist": 127,
+          "title": "romanticism-34979",
+          "style": "Romanticism"
+        },
+        {
+          "fileName": "romanticism-62208.jpg",
+          "relativePath": "/quiz/romanticism/romanticism-62208.jpg",
+          "artist": 88,
+          "title": "romanticism-62208",
+          "style": "Romanticism"
+        },
+        {
+          "fileName": "romanticism-54246.jpg",
+          "relativePath": "/quiz/romanticism/romanticism-54246.jpg",
+          "artist": "",
+          "title": "romanticism-54246",
+          "style": "Romanticism"
+        },
+        {
+          "fileName": "romanticism-76164.jpg",
+          "relativePath": "/quiz/romanticism/romanticism-76164.jpg",
+          "artist": "",
+          "title": "romanticism-76164",
+          "style": "Romanticism"
+        },
+        {
+          "fileName": "romanticism-70121.jpg",
+          "relativePath": "/quiz/romanticism/romanticism-70121.jpg",
+          "artist": "",
+          "title": "romanticism-70121",
+          "style": "Romanticism"
+        },
+        {
+          "fileName": "romanticism-76072.jpg",
+          "relativePath": "/quiz/romanticism/romanticism-76072.jpg",
+          "artist": "",
+          "title": "romanticism-76072",
+          "style": "Romanticism"
+        },
+        {
+          "fileName": "romanticism-33267.jpg",
+          "relativePath": "/quiz/romanticism/romanticism-33267.jpg",
+          "artist": "",
+          "title": "romanticism-33267",
+          "style": "Romanticism"
+        },
+        {
+          "fileName": "romanticism-38444.jpg",
+          "relativePath": "/quiz/romanticism/romanticism-38444.jpg",
+          "artist": "",
+          "title": "romanticism-38444",
+          "style": "Romanticism"
+        }
+      ]
+    },
+    {
+      "id": "art-nouveau",
+      "label": "Art_Nouveau",
+      "slug": "art-nouveau",
+      "images": [
+        {
+          "fileName": "art-nouveau-16362.jpg",
+          "relativePath": "/quiz/art-nouveau/art-nouveau-16362.jpg",
+          "artist": 14,
+          "title": "art-nouveau-16362",
+          "style": "Art_Nouveau"
+        },
+        {
+          "fileName": "art-nouveau-77862.jpg",
+          "relativePath": "/quiz/art-nouveau/art-nouveau-77862.jpg",
+          "artist": "",
+          "title": "art-nouveau-77862",
+          "style": "Art_Nouveau"
+        },
+        {
+          "fileName": "art-nouveau-40153.jpg",
+          "relativePath": "/quiz/art-nouveau/art-nouveau-40153.jpg",
+          "artist": "",
+          "title": "art-nouveau-40153",
+          "style": "Art_Nouveau"
+        },
+        {
+          "fileName": "art-nouveau-6784.jpg",
+          "relativePath": "/quiz/art-nouveau/art-nouveau-6784.jpg",
+          "artist": 14,
+          "title": "art-nouveau-6784",
+          "style": "Art_Nouveau"
+        },
+        {
+          "fileName": "art-nouveau-4021.jpg",
+          "relativePath": "/quiz/art-nouveau/art-nouveau-4021.jpg",
+          "artist": 14,
+          "title": "art-nouveau-4021",
+          "style": "Art_Nouveau"
+        },
+        {
+          "fileName": "art-nouveau-15326.jpg",
+          "relativePath": "/quiz/art-nouveau/art-nouveau-15326.jpg",
+          "artist": 19,
+          "title": "art-nouveau-15326",
+          "style": "Art_Nouveau"
+        },
+        {
+          "fileName": "art-nouveau-71713.jpg",
+          "relativePath": "/quiz/art-nouveau/art-nouveau-71713.jpg",
+          "artist": "",
+          "title": "art-nouveau-71713",
+          "style": "Art_Nouveau"
+        },
+        {
+          "fileName": "art-nouveau-77755.jpg",
+          "relativePath": "/quiz/art-nouveau/art-nouveau-77755.jpg",
+          "artist": "",
+          "title": "art-nouveau-77755",
+          "style": "Art_Nouveau"
+        },
+        {
+          "fileName": "art-nouveau-36414.jpg",
+          "relativePath": "/quiz/art-nouveau/art-nouveau-36414.jpg",
+          "artist": "",
+          "title": "art-nouveau-36414",
+          "style": "Art_Nouveau"
+        },
+        {
+          "fileName": "art-nouveau-69813.jpg",
+          "relativePath": "/quiz/art-nouveau/art-nouveau-69813.jpg",
+          "artist": "",
+          "title": "art-nouveau-69813",
+          "style": "Art_Nouveau"
+        },
+        {
+          "fileName": "art-nouveau-58182.jpg",
+          "relativePath": "/quiz/art-nouveau/art-nouveau-58182.jpg",
+          "artist": 41,
+          "title": "art-nouveau-58182",
+          "style": "Art_Nouveau"
+        },
+        {
+          "fileName": "art-nouveau-67864.jpg",
+          "relativePath": "/quiz/art-nouveau/art-nouveau-67864.jpg",
+          "artist": "",
+          "title": "art-nouveau-67864",
+          "style": "Art_Nouveau"
+        },
+        {
+          "fileName": "art-nouveau-40998.jpg",
+          "relativePath": "/quiz/art-nouveau/art-nouveau-40998.jpg",
+          "artist": 81,
+          "title": "art-nouveau-40998",
+          "style": "Art_Nouveau"
+        },
+        {
+          "fileName": "art-nouveau-5891.jpg",
+          "relativePath": "/quiz/art-nouveau/art-nouveau-5891.jpg",
+          "artist": 19,
+          "title": "art-nouveau-5891",
+          "style": "Art_Nouveau"
+        },
+        {
+          "fileName": "art-nouveau-47549.jpg",
+          "relativePath": "/quiz/art-nouveau/art-nouveau-47549.jpg",
+          "artist": 32,
+          "title": "art-nouveau-47549",
+          "style": "Art_Nouveau"
+        },
+        {
+          "fileName": "art-nouveau-55061.jpg",
+          "relativePath": "/quiz/art-nouveau/art-nouveau-55061.jpg",
+          "artist": "",
+          "title": "art-nouveau-55061",
+          "style": "Art_Nouveau"
+        },
+        {
+          "fileName": "art-nouveau-70944.jpg",
+          "relativePath": "/quiz/art-nouveau/art-nouveau-70944.jpg",
+          "artist": "",
+          "title": "art-nouveau-70944",
+          "style": "Art_Nouveau"
+        },
+        {
+          "fileName": "art-nouveau-75870.jpg",
+          "relativePath": "/quiz/art-nouveau/art-nouveau-75870.jpg",
+          "artist": "",
+          "title": "art-nouveau-75870",
+          "style": "Art_Nouveau"
+        },
+        {
+          "fileName": "art-nouveau-12707.jpg",
+          "relativePath": "/quiz/art-nouveau/art-nouveau-12707.jpg",
+          "artist": 19,
+          "title": "art-nouveau-12707",
+          "style": "Art_Nouveau"
+        },
+        {
+          "fileName": "art-nouveau-7168.jpg",
+          "relativePath": "/quiz/art-nouveau/art-nouveau-7168.jpg",
+          "artist": 14,
+          "title": "art-nouveau-7168",
+          "style": "Art_Nouveau"
+        }
+      ]
+    },
+    {
+      "id": "northern-renaissance",
+      "label": "Northern_Renaissance",
+      "slug": "northern-renaissance",
+      "images": [
+        {
+          "fileName": "northern-renaissance-32723.jpg",
+          "relativePath": "/quiz/northern-renaissance/northern-renaissance-32723.jpg",
+          "artist": 103,
+          "title": "northern-renaissance-32723",
+          "style": "Northern_Renaissance"
+        },
+        {
+          "fileName": "northern-renaissance-8694.jpg",
+          "relativePath": "/quiz/northern-renaissance/northern-renaissance-8694.jpg",
+          "artist": 25,
+          "title": "northern-renaissance-8694",
+          "style": "Northern_Renaissance"
+        },
+        {
+          "fileName": "northern-renaissance-56948.jpg",
+          "relativePath": "/quiz/northern-renaissance/northern-renaissance-56948.jpg",
+          "artist": "",
+          "title": "northern-renaissance-56948",
+          "style": "Northern_Renaissance"
+        },
+        {
+          "fileName": "northern-renaissance-29029.jpg",
+          "relativePath": "/quiz/northern-renaissance/northern-renaissance-29029.jpg",
+          "artist": "",
+          "title": "northern-renaissance-29029",
+          "style": "Northern_Renaissance"
+        },
+        {
+          "fileName": "northern-renaissance-19272.jpg",
+          "relativePath": "/quiz/northern-renaissance/northern-renaissance-19272.jpg",
+          "artist": 29,
+          "title": "northern-renaissance-19272",
+          "style": "Northern_Renaissance"
+        },
+        {
+          "fileName": "northern-renaissance-46670.jpg",
+          "relativePath": "/quiz/northern-renaissance/northern-renaissance-46670.jpg",
+          "artist": 23,
+          "title": "northern-renaissance-46670",
+          "style": "Northern_Renaissance"
+        },
+        {
+          "fileName": "northern-renaissance-56426.jpg",
+          "relativePath": "/quiz/northern-renaissance/northern-renaissance-56426.jpg",
+          "artist": "",
+          "title": "northern-renaissance-56426",
+          "style": "Northern_Renaissance"
+        },
+        {
+          "fileName": "northern-renaissance-7641.jpg",
+          "relativePath": "/quiz/northern-renaissance/northern-renaissance-7641.jpg",
+          "artist": 25,
+          "title": "northern-renaissance-7641",
+          "style": "Northern_Renaissance"
+        },
+        {
+          "fileName": "northern-renaissance-40354.jpg",
+          "relativePath": "/quiz/northern-renaissance/northern-renaissance-40354.jpg",
+          "artist": "",
+          "title": "northern-renaissance-40354",
+          "style": "Northern_Renaissance"
+        },
+        {
+          "fileName": "northern-renaissance-18001.jpg",
+          "relativePath": "/quiz/northern-renaissance/northern-renaissance-18001.jpg",
+          "artist": 25,
+          "title": "northern-renaissance-18001",
+          "style": "Northern_Renaissance"
+        },
+        {
+          "fileName": "northern-renaissance-66027.jpg",
+          "relativePath": "/quiz/northern-renaissance/northern-renaissance-66027.jpg",
+          "artist": "",
+          "title": "northern-renaissance-66027",
+          "style": "Northern_Renaissance"
+        },
+        {
+          "fileName": "northern-renaissance-8452.jpg",
+          "relativePath": "/quiz/northern-renaissance/northern-renaissance-8452.jpg",
+          "artist": 25,
+          "title": "northern-renaissance-8452",
+          "style": "Northern_Renaissance"
+        },
+        {
+          "fileName": "northern-renaissance-35946.jpg",
+          "relativePath": "/quiz/northern-renaissance/northern-renaissance-35946.jpg",
+          "artist": "",
+          "title": "northern-renaissance-35946",
+          "style": "Northern_Renaissance"
+        },
+        {
+          "fileName": "northern-renaissance-81102.jpg",
+          "relativePath": "/quiz/northern-renaissance/northern-renaissance-81102.jpg",
+          "artist": "",
+          "title": "northern-renaissance-81102",
+          "style": "Northern_Renaissance"
+        },
+        {
+          "fileName": "northern-renaissance-7726.jpg",
+          "relativePath": "/quiz/northern-renaissance/northern-renaissance-7726.jpg",
+          "artist": "",
+          "title": "northern-renaissance-7726",
+          "style": "Northern_Renaissance"
+        },
+        {
+          "fileName": "northern-renaissance-18067.jpg",
+          "relativePath": "/quiz/northern-renaissance/northern-renaissance-18067.jpg",
+          "artist": 25,
+          "title": "northern-renaissance-18067",
+          "style": "Northern_Renaissance"
+        },
+        {
+          "fileName": "northern-renaissance-22046.jpg",
+          "relativePath": "/quiz/northern-renaissance/northern-renaissance-22046.jpg",
+          "artist": 29,
+          "title": "northern-renaissance-22046",
+          "style": "Northern_Renaissance"
+        },
+        {
+          "fileName": "northern-renaissance-46056.jpg",
+          "relativePath": "/quiz/northern-renaissance/northern-renaissance-46056.jpg",
+          "artist": "",
+          "title": "northern-renaissance-46056",
+          "style": "Northern_Renaissance"
+        },
+        {
+          "fileName": "northern-renaissance-51784.jpg",
+          "relativePath": "/quiz/northern-renaissance/northern-renaissance-51784.jpg",
+          "artist": 103,
+          "title": "northern-renaissance-51784",
+          "style": "Northern_Renaissance"
+        },
+        {
+          "fileName": "northern-renaissance-71943.jpg",
+          "relativePath": "/quiz/northern-renaissance/northern-renaissance-71943.jpg",
+          "artist": "",
+          "title": "northern-renaissance-71943",
+          "style": "Northern_Renaissance"
+        }
+      ]
+    },
+    {
+      "id": "symbolism",
+      "label": "Symbolism",
+      "slug": "symbolism",
+      "images": [
+        {
+          "fileName": "symbolism-16488.jpg",
+          "relativePath": "/quiz/symbolism/symbolism-16488.jpg",
+          "artist": 14,
+          "title": "symbolism-16488",
+          "style": "Symbolism"
+        },
+        {
+          "fileName": "symbolism-587.jpg",
+          "relativePath": "/quiz/symbolism/symbolism-587.jpg",
+          "artist": 14,
+          "title": "symbolism-587",
+          "style": "Symbolism"
+        },
+        {
+          "fileName": "symbolism-45648.jpg",
+          "relativePath": "/quiz/symbolism/symbolism-45648.jpg",
+          "artist": "",
+          "title": "symbolism-45648",
+          "style": "Symbolism"
+        },
+        {
+          "fileName": "symbolism-76810.jpg",
+          "relativePath": "/quiz/symbolism/symbolism-76810.jpg",
+          "artist": "",
+          "title": "symbolism-76810",
+          "style": "Symbolism"
+        },
+        {
+          "fileName": "symbolism-3499.jpg",
+          "relativePath": "/quiz/symbolism/symbolism-3499.jpg",
+          "artist": 14,
+          "title": "symbolism-3499",
+          "style": "Symbolism"
+        },
+        {
+          "fileName": "symbolism-55618.jpg",
+          "relativePath": "/quiz/symbolism/symbolism-55618.jpg",
+          "artist": 34,
+          "title": "symbolism-55618",
+          "style": "Symbolism"
+        },
+        {
+          "fileName": "symbolism-79742.jpg",
+          "relativePath": "/quiz/symbolism/symbolism-79742.jpg",
+          "artist": "",
+          "title": "symbolism-79742",
+          "style": "Symbolism"
+        },
+        {
+          "fileName": "symbolism-9976.jpg",
+          "relativePath": "/quiz/symbolism/symbolism-9976.jpg",
+          "artist": 14,
+          "title": "symbolism-9976",
+          "style": "Symbolism"
+        },
+        {
+          "fileName": "symbolism-64374.jpg",
+          "relativePath": "/quiz/symbolism/symbolism-64374.jpg",
+          "artist": "",
+          "title": "symbolism-64374",
+          "style": "Symbolism"
+        },
+        {
+          "fileName": "symbolism-36353.jpg",
+          "relativePath": "/quiz/symbolism/symbolism-36353.jpg",
+          "artist": 60,
+          "title": "symbolism-36353",
+          "style": "Symbolism"
+        },
+        {
+          "fileName": "symbolism-72115.jpg",
+          "relativePath": "/quiz/symbolism/symbolism-72115.jpg",
+          "artist": "",
+          "title": "symbolism-72115",
+          "style": "Symbolism"
+        },
+        {
+          "fileName": "symbolism-76836.jpg",
+          "relativePath": "/quiz/symbolism/symbolism-76836.jpg",
+          "artist": "",
+          "title": "symbolism-76836",
+          "style": "Symbolism"
+        },
+        {
+          "fileName": "symbolism-68750.jpg",
+          "relativePath": "/quiz/symbolism/symbolism-68750.jpg",
+          "artist": "",
+          "title": "symbolism-68750",
+          "style": "Symbolism"
+        },
+        {
+          "fileName": "symbolism-49351.jpg",
+          "relativePath": "/quiz/symbolism/symbolism-49351.jpg",
+          "artist": 60,
+          "title": "symbolism-49351",
+          "style": "Symbolism"
+        },
+        {
+          "fileName": "symbolism-62340.jpg",
+          "relativePath": "/quiz/symbolism/symbolism-62340.jpg",
+          "artist": "",
+          "title": "symbolism-62340",
+          "style": "Symbolism"
+        },
+        {
+          "fileName": "symbolism-53967.jpg",
+          "relativePath": "/quiz/symbolism/symbolism-53967.jpg",
+          "artist": "",
+          "title": "symbolism-53967",
+          "style": "Symbolism"
+        },
+        {
+          "fileName": "symbolism-54657.jpg",
+          "relativePath": "/quiz/symbolism/symbolism-54657.jpg",
+          "artist": 84,
+          "title": "symbolism-54657",
+          "style": "Symbolism"
+        },
+        {
+          "fileName": "symbolism-73718.jpg",
+          "relativePath": "/quiz/symbolism/symbolism-73718.jpg",
+          "artist": "",
+          "title": "symbolism-73718",
+          "style": "Symbolism"
+        },
+        {
+          "fileName": "symbolism-54552.jpg",
+          "relativePath": "/quiz/symbolism/symbolism-54552.jpg",
+          "artist": 94,
+          "title": "symbolism-54552",
+          "style": "Symbolism"
+        },
+        {
+          "fileName": "symbolism-75109.jpg",
+          "relativePath": "/quiz/symbolism/symbolism-75109.jpg",
+          "artist": "",
+          "title": "symbolism-75109",
+          "style": "Symbolism"
+        }
+      ]
+    },
+    {
+      "id": "naive-art-primitivism",
+      "label": "Naive_Art_Primitivism",
+      "slug": "naive-art-primitivism",
+      "images": [
+        {
+          "fileName": "naive-art-primitivism-53904.jpg",
+          "relativePath": "/quiz/naive-art-primitivism/naive-art-primitivism-53904.jpg",
+          "artist": "",
+          "title": "naive-art-primitivism-53904",
+          "style": "Naive_Art_Primitivism"
+        },
+        {
+          "fileName": "naive-art-primitivism-74153.jpg",
+          "relativePath": "/quiz/naive-art-primitivism/naive-art-primitivism-74153.jpg",
+          "artist": "",
+          "title": "naive-art-primitivism-74153",
+          "style": "Naive_Art_Primitivism"
+        },
+        {
+          "fileName": "naive-art-primitivism-77333.jpg",
+          "relativePath": "/quiz/naive-art-primitivism/naive-art-primitivism-77333.jpg",
+          "artist": "",
+          "title": "naive-art-primitivism-77333",
+          "style": "Naive_Art_Primitivism"
+        },
+        {
+          "fileName": "naive-art-primitivism-7329.jpg",
+          "relativePath": "/quiz/naive-art-primitivism/naive-art-primitivism-7329.jpg",
+          "artist": 12,
+          "title": "naive-art-primitivism-7329",
+          "style": "Naive_Art_Primitivism"
+        },
+        {
+          "fileName": "naive-art-primitivism-2000.jpg",
+          "relativePath": "/quiz/naive-art-primitivism/naive-art-primitivism-2000.jpg",
+          "artist": 12,
+          "title": "naive-art-primitivism-2000",
+          "style": "Naive_Art_Primitivism"
+        },
+        {
+          "fileName": "naive-art-primitivism-4357.jpg",
+          "relativePath": "/quiz/naive-art-primitivism/naive-art-primitivism-4357.jpg",
+          "artist": 12,
+          "title": "naive-art-primitivism-4357",
+          "style": "Naive_Art_Primitivism"
+        },
+        {
+          "fileName": "naive-art-primitivism-36727.jpg",
+          "relativePath": "/quiz/naive-art-primitivism/naive-art-primitivism-36727.jpg",
+          "artist": "",
+          "title": "naive-art-primitivism-36727",
+          "style": "Naive_Art_Primitivism"
+        },
+        {
+          "fileName": "naive-art-primitivism-81381.jpg",
+          "relativePath": "/quiz/naive-art-primitivism/naive-art-primitivism-81381.jpg",
+          "artist": "",
+          "title": "naive-art-primitivism-81381",
+          "style": "Naive_Art_Primitivism"
+        },
+        {
+          "fileName": "naive-art-primitivism-11010.jpg",
+          "relativePath": "/quiz/naive-art-primitivism/naive-art-primitivism-11010.jpg",
+          "artist": 15,
+          "title": "naive-art-primitivism-11010",
+          "style": "Naive_Art_Primitivism"
+        },
+        {
+          "fileName": "naive-art-primitivism-15655.jpg",
+          "relativePath": "/quiz/naive-art-primitivism/naive-art-primitivism-15655.jpg",
+          "artist": 12,
+          "title": "naive-art-primitivism-15655",
+          "style": "Naive_Art_Primitivism"
+        },
+        {
+          "fileName": "naive-art-primitivism-59363.jpg",
+          "relativePath": "/quiz/naive-art-primitivism/naive-art-primitivism-59363.jpg",
+          "artist": 73,
+          "title": "naive-art-primitivism-59363",
+          "style": "Naive_Art_Primitivism"
+        },
+        {
+          "fileName": "naive-art-primitivism-26173.jpg",
+          "relativePath": "/quiz/naive-art-primitivism/naive-art-primitivism-26173.jpg",
+          "artist": 45,
+          "title": "naive-art-primitivism-26173",
+          "style": "Naive_Art_Primitivism"
+        },
+        {
+          "fileName": "naive-art-primitivism-45841.jpg",
+          "relativePath": "/quiz/naive-art-primitivism/naive-art-primitivism-45841.jpg",
+          "artist": "",
+          "title": "naive-art-primitivism-45841",
+          "style": "Naive_Art_Primitivism"
+        },
+        {
+          "fileName": "naive-art-primitivism-9548.jpg",
+          "relativePath": "/quiz/naive-art-primitivism/naive-art-primitivism-9548.jpg",
+          "artist": 12,
+          "title": "naive-art-primitivism-9548",
+          "style": "Naive_Art_Primitivism"
+        },
+        {
+          "fileName": "naive-art-primitivism-3226.jpg",
+          "relativePath": "/quiz/naive-art-primitivism/naive-art-primitivism-3226.jpg",
+          "artist": 12,
+          "title": "naive-art-primitivism-3226",
+          "style": "Naive_Art_Primitivism"
+        },
+        {
+          "fileName": "naive-art-primitivism-62455.jpg",
+          "relativePath": "/quiz/naive-art-primitivism/naive-art-primitivism-62455.jpg",
+          "artist": 93,
+          "title": "naive-art-primitivism-62455",
+          "style": "Naive_Art_Primitivism"
+        },
+        {
+          "fileName": "naive-art-primitivism-15729.jpg",
+          "relativePath": "/quiz/naive-art-primitivism/naive-art-primitivism-15729.jpg",
+          "artist": 12,
+          "title": "naive-art-primitivism-15729",
+          "style": "Naive_Art_Primitivism"
+        },
+        {
+          "fileName": "naive-art-primitivism-4571.jpg",
+          "relativePath": "/quiz/naive-art-primitivism/naive-art-primitivism-4571.jpg",
+          "artist": 12,
+          "title": "naive-art-primitivism-4571",
+          "style": "Naive_Art_Primitivism"
+        },
+        {
+          "fileName": "naive-art-primitivism-7421.jpg",
+          "relativePath": "/quiz/naive-art-primitivism/naive-art-primitivism-7421.jpg",
+          "artist": 12,
+          "title": "naive-art-primitivism-7421",
+          "style": "Naive_Art_Primitivism"
+        },
+        {
+          "fileName": "naive-art-primitivism-62268.jpg",
+          "relativePath": "/quiz/naive-art-primitivism/naive-art-primitivism-62268.jpg",
+          "artist": 93,
+          "title": "naive-art-primitivism-62268",
+          "style": "Naive_Art_Primitivism"
+        }
+      ]
+    },
+    {
+      "id": "expressionism",
+      "label": "Expressionism",
+      "slug": "expressionism",
+      "images": [
+        {
+          "fileName": "expressionism-22751.jpg",
+          "relativePath": "/quiz/expressionism/expressionism-22751.jpg",
+          "artist": "",
+          "title": "expressionism-22751",
+          "style": "Expressionism"
+        },
+        {
+          "fileName": "expressionism-70746.jpg",
+          "relativePath": "/quiz/expressionism/expressionism-70746.jpg",
+          "artist": "",
+          "title": "expressionism-70746",
+          "style": "Expressionism"
+        },
+        {
+          "fileName": "expressionism-5277.jpg",
+          "relativePath": "/quiz/expressionism/expressionism-5277.jpg",
+          "artist": 13,
+          "title": "expressionism-5277",
+          "style": "Expressionism"
+        },
+        {
+          "fileName": "expressionism-53515.jpg",
+          "relativePath": "/quiz/expressionism/expressionism-53515.jpg",
+          "artist": "",
+          "title": "expressionism-53515",
+          "style": "Expressionism"
+        },
+        {
+          "fileName": "expressionism-65261.jpg",
+          "relativePath": "/quiz/expressionism/expressionism-65261.jpg",
+          "artist": 104,
+          "title": "expressionism-65261",
+          "style": "Expressionism"
+        },
+        {
+          "fileName": "expressionism-49721.jpg",
+          "relativePath": "/quiz/expressionism/expressionism-49721.jpg",
+          "artist": 104,
+          "title": "expressionism-49721",
+          "style": "Expressionism"
+        },
+        {
+          "fileName": "expressionism-33237.jpg",
+          "relativePath": "/quiz/expressionism/expressionism-33237.jpg",
+          "artist": "",
+          "title": "expressionism-33237",
+          "style": "Expressionism"
+        },
+        {
+          "fileName": "expressionism-18877.jpg",
+          "relativePath": "/quiz/expressionism/expressionism-18877.jpg",
+          "artist": 15,
+          "title": "expressionism-18877",
+          "style": "Expressionism"
+        },
+        {
+          "fileName": "expressionism-51712.jpg",
+          "relativePath": "/quiz/expressionism/expressionism-51712.jpg",
+          "artist": 104,
+          "title": "expressionism-51712",
+          "style": "Expressionism"
+        },
+        {
+          "fileName": "expressionism-65819.jpg",
+          "relativePath": "/quiz/expressionism/expressionism-65819.jpg",
+          "artist": "",
+          "title": "expressionism-65819",
+          "style": "Expressionism"
+        },
+        {
+          "fileName": "expressionism-8190.jpg",
+          "relativePath": "/quiz/expressionism/expressionism-8190.jpg",
+          "artist": 15,
+          "title": "expressionism-8190",
+          "style": "Expressionism"
+        },
+        {
+          "fileName": "expressionism-58294.jpg",
+          "relativePath": "/quiz/expressionism/expressionism-58294.jpg",
+          "artist": 98,
+          "title": "expressionism-58294",
+          "style": "Expressionism"
+        },
+        {
+          "fileName": "expressionism-38253.jpg",
+          "relativePath": "/quiz/expressionism/expressionism-38253.jpg",
+          "artist": "",
+          "title": "expressionism-38253",
+          "style": "Expressionism"
+        },
+        {
+          "fileName": "expressionism-78805.jpg",
+          "relativePath": "/quiz/expressionism/expressionism-78805.jpg",
+          "artist": "",
+          "title": "expressionism-78805",
+          "style": "Expressionism"
+        },
+        {
+          "fileName": "expressionism-59012.jpg",
+          "relativePath": "/quiz/expressionism/expressionism-59012.jpg",
+          "artist": 46,
+          "title": "expressionism-59012",
+          "style": "Expressionism"
+        },
+        {
+          "fileName": "expressionism-58447.jpg",
+          "relativePath": "/quiz/expressionism/expressionism-58447.jpg",
+          "artist": "",
+          "title": "expressionism-58447",
+          "style": "Expressionism"
+        },
+        {
+          "fileName": "expressionism-49303.jpg",
+          "relativePath": "/quiz/expressionism/expressionism-49303.jpg",
+          "artist": "",
+          "title": "expressionism-49303",
+          "style": "Expressionism"
+        },
+        {
+          "fileName": "expressionism-75814.jpg",
+          "relativePath": "/quiz/expressionism/expressionism-75814.jpg",
+          "artist": "",
+          "title": "expressionism-75814",
+          "style": "Expressionism"
+        },
+        {
+          "fileName": "expressionism-22554.jpg",
+          "relativePath": "/quiz/expressionism/expressionism-22554.jpg",
+          "artist": 32,
+          "title": "expressionism-22554",
+          "style": "Expressionism"
+        },
+        {
+          "fileName": "expressionism-32864.jpg",
+          "relativePath": "/quiz/expressionism/expressionism-32864.jpg",
+          "artist": "",
+          "title": "expressionism-32864",
+          "style": "Expressionism"
+        }
+      ]
+    },
+    {
+      "id": "cubism",
+      "label": "Cubism",
+      "slug": "cubism",
+      "images": [
+        {
+          "fileName": "cubism-27987.jpg",
+          "relativePath": "/quiz/cubism/cubism-27987.jpg",
+          "artist": "",
+          "title": "cubism-27987",
+          "style": "Cubism"
+        },
+        {
+          "fileName": "cubism-17052.jpg",
+          "relativePath": "/quiz/cubism/cubism-17052.jpg",
+          "artist": 16,
+          "title": "cubism-17052",
+          "style": "Cubism"
+        },
+        {
+          "fileName": "cubism-61691.jpg",
+          "relativePath": "/quiz/cubism/cubism-61691.jpg",
+          "artist": 28,
+          "title": "cubism-61691",
+          "style": "Cubism"
+        },
+        {
+          "fileName": "cubism-2429.jpg",
+          "relativePath": "/quiz/cubism/cubism-2429.jpg",
+          "artist": 15,
+          "title": "cubism-2429",
+          "style": "Cubism"
+        },
+        {
+          "fileName": "cubism-55326.jpg",
+          "relativePath": "/quiz/cubism/cubism-55326.jpg",
+          "artist": "",
+          "title": "cubism-55326",
+          "style": "Cubism"
+        },
+        {
+          "fileName": "cubism-7432.jpg",
+          "relativePath": "/quiz/cubism/cubism-7432.jpg",
+          "artist": 12,
+          "title": "cubism-7432",
+          "style": "Cubism"
+        },
+        {
+          "fileName": "cubism-80958.jpg",
+          "relativePath": "/quiz/cubism/cubism-80958.jpg",
+          "artist": "",
+          "title": "cubism-80958",
+          "style": "Cubism"
+        },
+        {
+          "fileName": "cubism-16982.jpg",
+          "relativePath": "/quiz/cubism/cubism-16982.jpg",
+          "artist": 16,
+          "title": "cubism-16982",
+          "style": "Cubism"
+        },
+        {
+          "fileName": "cubism-74602.jpg",
+          "relativePath": "/quiz/cubism/cubism-74602.jpg",
+          "artist": "",
+          "title": "cubism-74602",
+          "style": "Cubism"
+        },
+        {
+          "fileName": "cubism-57579.jpg",
+          "relativePath": "/quiz/cubism/cubism-57579.jpg",
+          "artist": "",
+          "title": "cubism-57579",
+          "style": "Cubism"
+        },
+        {
+          "fileName": "cubism-18749.jpg",
+          "relativePath": "/quiz/cubism/cubism-18749.jpg",
+          "artist": 18,
+          "title": "cubism-18749",
+          "style": "Cubism"
+        },
+        {
+          "fileName": "cubism-20932.jpg",
+          "relativePath": "/quiz/cubism/cubism-20932.jpg",
+          "artist": 28,
+          "title": "cubism-20932",
+          "style": "Cubism"
+        },
+        {
+          "fileName": "cubism-61521.jpg",
+          "relativePath": "/quiz/cubism/cubism-61521.jpg",
+          "artist": "",
+          "title": "cubism-61521",
+          "style": "Cubism"
+        },
+        {
+          "fileName": "cubism-61514.jpg",
+          "relativePath": "/quiz/cubism/cubism-61514.jpg",
+          "artist": 91,
+          "title": "cubism-61514",
+          "style": "Cubism"
+        },
+        {
+          "fileName": "cubism-11960.jpg",
+          "relativePath": "/quiz/cubism/cubism-11960.jpg",
+          "artist": 15,
+          "title": "cubism-11960",
+          "style": "Cubism"
+        },
+        {
+          "fileName": "cubism-70337.jpg",
+          "relativePath": "/quiz/cubism/cubism-70337.jpg",
+          "artist": "",
+          "title": "cubism-70337",
+          "style": "Cubism"
+        },
+        {
+          "fileName": "cubism-29618.jpg",
+          "relativePath": "/quiz/cubism/cubism-29618.jpg",
+          "artist": 91,
+          "title": "cubism-29618",
+          "style": "Cubism"
+        },
+        {
+          "fileName": "cubism-75327.jpg",
+          "relativePath": "/quiz/cubism/cubism-75327.jpg",
+          "artist": "",
+          "title": "cubism-75327",
+          "style": "Cubism"
+        },
+        {
+          "fileName": "cubism-50326.jpg",
+          "relativePath": "/quiz/cubism/cubism-50326.jpg",
+          "artist": 28,
+          "title": "cubism-50326",
+          "style": "Cubism"
+        },
+        {
+          "fileName": "cubism-18945.jpg",
+          "relativePath": "/quiz/cubism/cubism-18945.jpg",
+          "artist": 15,
+          "title": "cubism-18945",
+          "style": "Cubism"
+        }
+      ]
+    },
+    {
+      "id": "fauvism",
+      "label": "Fauvism",
+      "slug": "fauvism",
+      "images": [
+        {
+          "fileName": "fauvism-74757.jpg",
+          "relativePath": "/quiz/fauvism/fauvism-74757.jpg",
+          "artist": "",
+          "title": "fauvism-74757",
+          "style": "Fauvism"
+        },
+        {
+          "fileName": "fauvism-60836.jpg",
+          "relativePath": "/quiz/fauvism/fauvism-60836.jpg",
+          "artist": "",
+          "title": "fauvism-60836",
+          "style": "Fauvism"
+        },
+        {
+          "fileName": "fauvism-42747.jpg",
+          "relativePath": "/quiz/fauvism/fauvism-42747.jpg",
+          "artist": "",
+          "title": "fauvism-42747",
+          "style": "Fauvism"
+        },
+        {
+          "fileName": "fauvism-47390.jpg",
+          "relativePath": "/quiz/fauvism/fauvism-47390.jpg",
+          "artist": "",
+          "title": "fauvism-47390",
+          "style": "Fauvism"
+        },
+        {
+          "fileName": "fauvism-59144.jpg",
+          "relativePath": "/quiz/fauvism/fauvism-59144.jpg",
+          "artist": 91,
+          "title": "fauvism-59144",
+          "style": "Fauvism"
+        },
+        {
+          "fileName": "fauvism-30516.jpg",
+          "relativePath": "/quiz/fauvism/fauvism-30516.jpg",
+          "artist": "",
+          "title": "fauvism-30516",
+          "style": "Fauvism"
+        },
+        {
+          "fileName": "fauvism-64210.jpg",
+          "relativePath": "/quiz/fauvism/fauvism-64210.jpg",
+          "artist": "",
+          "title": "fauvism-64210",
+          "style": "Fauvism"
+        },
+        {
+          "fileName": "fauvism-72106.jpg",
+          "relativePath": "/quiz/fauvism/fauvism-72106.jpg",
+          "artist": "",
+          "title": "fauvism-72106",
+          "style": "Fauvism"
+        },
+        {
+          "fileName": "fauvism-42559.jpg",
+          "relativePath": "/quiz/fauvism/fauvism-42559.jpg",
+          "artist": "",
+          "title": "fauvism-42559",
+          "style": "Fauvism"
+        },
+        {
+          "fileName": "fauvism-46064.jpg",
+          "relativePath": "/quiz/fauvism/fauvism-46064.jpg",
+          "artist": "",
+          "title": "fauvism-46064",
+          "style": "Fauvism"
+        },
+        {
+          "fileName": "fauvism-43763.jpg",
+          "relativePath": "/quiz/fauvism/fauvism-43763.jpg",
+          "artist": 37,
+          "title": "fauvism-43763",
+          "style": "Fauvism"
+        },
+        {
+          "fileName": "fauvism-64000.jpg",
+          "relativePath": "/quiz/fauvism/fauvism-64000.jpg",
+          "artist": "",
+          "title": "fauvism-64000",
+          "style": "Fauvism"
+        },
+        {
+          "fileName": "fauvism-44343.jpg",
+          "relativePath": "/quiz/fauvism/fauvism-44343.jpg",
+          "artist": "",
+          "title": "fauvism-44343",
+          "style": "Fauvism"
+        },
+        {
+          "fileName": "fauvism-32718.jpg",
+          "relativePath": "/quiz/fauvism/fauvism-32718.jpg",
+          "artist": "",
+          "title": "fauvism-32718",
+          "style": "Fauvism"
+        },
+        {
+          "fileName": "fauvism-11930.jpg",
+          "relativePath": "/quiz/fauvism/fauvism-11930.jpg",
+          "artist": 18,
+          "title": "fauvism-11930",
+          "style": "Fauvism"
+        },
+        {
+          "fileName": "fauvism-37039.jpg",
+          "relativePath": "/quiz/fauvism/fauvism-37039.jpg",
+          "artist": "",
+          "title": "fauvism-37039",
+          "style": "Fauvism"
+        },
+        {
+          "fileName": "fauvism-34779.jpg",
+          "relativePath": "/quiz/fauvism/fauvism-34779.jpg",
+          "artist": "",
+          "title": "fauvism-34779",
+          "style": "Fauvism"
+        },
+        {
+          "fileName": "fauvism-58101.jpg",
+          "relativePath": "/quiz/fauvism/fauvism-58101.jpg",
+          "artist": 115,
+          "title": "fauvism-58101",
+          "style": "Fauvism"
+        },
+        {
+          "fileName": "fauvism-73806.jpg",
+          "relativePath": "/quiz/fauvism/fauvism-73806.jpg",
+          "artist": "",
+          "title": "fauvism-73806",
+          "style": "Fauvism"
+        },
+        {
+          "fileName": "fauvism-50439.jpg",
+          "relativePath": "/quiz/fauvism/fauvism-50439.jpg",
+          "artist": "",
+          "title": "fauvism-50439",
+          "style": "Fauvism"
+        }
+      ]
+    },
+    {
+      "id": "analytical-cubism",
+      "label": "Analytical_Cubism",
+      "slug": "analytical-cubism",
+      "images": [
+        {
+          "fileName": "analytical-cubism-61413.jpg",
+          "relativePath": "/quiz/analytical-cubism/analytical-cubism-61413.jpg",
+          "artist": 28,
+          "title": "analytical-cubism-61413",
+          "style": "Analytical_Cubism"
+        },
+        {
+          "fileName": "analytical-cubism-12890.jpg",
+          "relativePath": "/quiz/analytical-cubism/analytical-cubism-12890.jpg",
+          "artist": 15,
+          "title": "analytical-cubism-12890",
+          "style": "Analytical_Cubism"
+        },
+        {
+          "fileName": "analytical-cubism-2013.jpg",
+          "relativePath": "/quiz/analytical-cubism/analytical-cubism-2013.jpg",
+          "artist": 15,
+          "title": "analytical-cubism-2013",
+          "style": "Analytical_Cubism"
+        },
+        {
+          "fileName": "analytical-cubism-58902.jpg",
+          "relativePath": "/quiz/analytical-cubism/analytical-cubism-58902.jpg",
+          "artist": 91,
+          "title": "analytical-cubism-58902",
+          "style": "Analytical_Cubism"
+        },
+        {
+          "fileName": "analytical-cubism-315.jpg",
+          "relativePath": "/quiz/analytical-cubism/analytical-cubism-315.jpg",
+          "artist": 15,
+          "title": "analytical-cubism-315",
+          "style": "Analytical_Cubism"
+        },
+        {
+          "fileName": "analytical-cubism-61780.jpg",
+          "relativePath": "/quiz/analytical-cubism/analytical-cubism-61780.jpg",
+          "artist": 91,
+          "title": "analytical-cubism-61780",
+          "style": "Analytical_Cubism"
+        },
+        {
+          "fileName": "analytical-cubism-33366.jpg",
+          "relativePath": "/quiz/analytical-cubism/analytical-cubism-33366.jpg",
+          "artist": "",
+          "title": "analytical-cubism-33366",
+          "style": "Analytical_Cubism"
+        },
+        {
+          "fileName": "analytical-cubism-36692.jpg",
+          "relativePath": "/quiz/analytical-cubism/analytical-cubism-36692.jpg",
+          "artist": 91,
+          "title": "analytical-cubism-36692",
+          "style": "Analytical_Cubism"
+        },
+        {
+          "fileName": "analytical-cubism-7160.jpg",
+          "relativePath": "/quiz/analytical-cubism/analytical-cubism-7160.jpg",
+          "artist": 15,
+          "title": "analytical-cubism-7160",
+          "style": "Analytical_Cubism"
+        },
+        {
+          "fileName": "analytical-cubism-35695.jpg",
+          "relativePath": "/quiz/analytical-cubism/analytical-cubism-35695.jpg",
+          "artist": 91,
+          "title": "analytical-cubism-35695",
+          "style": "Analytical_Cubism"
+        },
+        {
+          "fileName": "analytical-cubism-46224.jpg",
+          "relativePath": "/quiz/analytical-cubism/analytical-cubism-46224.jpg",
+          "artist": 28,
+          "title": "analytical-cubism-46224",
+          "style": "Analytical_Cubism"
+        },
+        {
+          "fileName": "analytical-cubism-22260.jpg",
+          "relativePath": "/quiz/analytical-cubism/analytical-cubism-22260.jpg",
+          "artist": 91,
+          "title": "analytical-cubism-22260",
+          "style": "Analytical_Cubism"
+        },
+        {
+          "fileName": "analytical-cubism-51605.jpg",
+          "relativePath": "/quiz/analytical-cubism/analytical-cubism-51605.jpg",
+          "artist": "",
+          "title": "analytical-cubism-51605",
+          "style": "Analytical_Cubism"
+        },
+        {
+          "fileName": "analytical-cubism-8365.jpg",
+          "relativePath": "/quiz/analytical-cubism/analytical-cubism-8365.jpg",
+          "artist": 15,
+          "title": "analytical-cubism-8365",
+          "style": "Analytical_Cubism"
+        },
+        {
+          "fileName": "analytical-cubism-51388.jpg",
+          "relativePath": "/quiz/analytical-cubism/analytical-cubism-51388.jpg",
+          "artist": 91,
+          "title": "analytical-cubism-51388",
+          "style": "Analytical_Cubism"
+        },
+        {
+          "fileName": "analytical-cubism-18906.jpg",
+          "relativePath": "/quiz/analytical-cubism/analytical-cubism-18906.jpg",
+          "artist": 15,
+          "title": "analytical-cubism-18906",
+          "style": "Analytical_Cubism"
+        },
+        {
+          "fileName": "analytical-cubism-34943.jpg",
+          "relativePath": "/quiz/analytical-cubism/analytical-cubism-34943.jpg",
+          "artist": 28,
+          "title": "analytical-cubism-34943",
+          "style": "Analytical_Cubism"
+        },
+        {
+          "fileName": "analytical-cubism-41905.jpg",
+          "relativePath": "/quiz/analytical-cubism/analytical-cubism-41905.jpg",
+          "artist": 91,
+          "title": "analytical-cubism-41905",
+          "style": "Analytical_Cubism"
+        },
+        {
+          "fileName": "analytical-cubism-61777.jpg",
+          "relativePath": "/quiz/analytical-cubism/analytical-cubism-61777.jpg",
+          "artist": 91,
+          "title": "analytical-cubism-61777",
+          "style": "Analytical_Cubism"
+        },
+        {
+          "fileName": "analytical-cubism-25626.jpg",
+          "relativePath": "/quiz/analytical-cubism/analytical-cubism-25626.jpg",
+          "artist": 91,
+          "title": "analytical-cubism-25626",
+          "style": "Analytical_Cubism"
+        }
+      ]
+    },
+    {
+      "id": "abstract-expressionism",
+      "label": "Abstract_Expressionism",
+      "slug": "abstract-expressionism",
+      "images": [
+        {
+          "fileName": "abstract-expressionism-34741.jpg",
+          "relativePath": "/quiz/abstract-expressionism/abstract-expressionism-34741.jpg",
+          "artist": "",
+          "title": "abstract-expressionism-34741",
+          "style": "Abstract_Expressionism"
+        },
+        {
+          "fileName": "abstract-expressionism-37465.jpg",
+          "relativePath": "/quiz/abstract-expressionism/abstract-expressionism-37465.jpg",
+          "artist": "",
+          "title": "abstract-expressionism-37465",
+          "style": "Abstract_Expressionism"
+        },
+        {
+          "fileName": "abstract-expressionism-80648.jpg",
+          "relativePath": "/quiz/abstract-expressionism/abstract-expressionism-80648.jpg",
+          "artist": "",
+          "title": "abstract-expressionism-80648",
+          "style": "Abstract_Expressionism"
+        },
+        {
+          "fileName": "abstract-expressionism-67189.jpg",
+          "relativePath": "/quiz/abstract-expressionism/abstract-expressionism-67189.jpg",
+          "artist": "",
+          "title": "abstract-expressionism-67189",
+          "style": "Abstract_Expressionism"
+        },
+        {
+          "fileName": "abstract-expressionism-48571.jpg",
+          "relativePath": "/quiz/abstract-expressionism/abstract-expressionism-48571.jpg",
+          "artist": "",
+          "title": "abstract-expressionism-48571",
+          "style": "Abstract_Expressionism"
+        },
+        {
+          "fileName": "abstract-expressionism-68129.jpg",
+          "relativePath": "/quiz/abstract-expressionism/abstract-expressionism-68129.jpg",
+          "artist": "",
+          "title": "abstract-expressionism-68129",
+          "style": "Abstract_Expressionism"
+        },
+        {
+          "fileName": "abstract-expressionism-66863.jpg",
+          "relativePath": "/quiz/abstract-expressionism/abstract-expressionism-66863.jpg",
+          "artist": "",
+          "title": "abstract-expressionism-66863",
+          "style": "Abstract_Expressionism"
+        },
+        {
+          "fileName": "abstract-expressionism-52051.jpg",
+          "relativePath": "/quiz/abstract-expressionism/abstract-expressionism-52051.jpg",
+          "artist": "",
+          "title": "abstract-expressionism-52051",
+          "style": "Abstract_Expressionism"
+        },
+        {
+          "fileName": "abstract-expressionism-27909.jpg",
+          "relativePath": "/quiz/abstract-expressionism/abstract-expressionism-27909.jpg",
+          "artist": "",
+          "title": "abstract-expressionism-27909",
+          "style": "Abstract_Expressionism"
+        },
+        {
+          "fileName": "abstract-expressionism-42594.jpg",
+          "relativePath": "/quiz/abstract-expressionism/abstract-expressionism-42594.jpg",
+          "artist": "",
+          "title": "abstract-expressionism-42594",
+          "style": "Abstract_Expressionism"
+        },
+        {
+          "fileName": "abstract-expressionism-75868.jpg",
+          "relativePath": "/quiz/abstract-expressionism/abstract-expressionism-75868.jpg",
+          "artist": "",
+          "title": "abstract-expressionism-75868",
+          "style": "Abstract_Expressionism"
+        },
+        {
+          "fileName": "abstract-expressionism-66855.jpg",
+          "relativePath": "/quiz/abstract-expressionism/abstract-expressionism-66855.jpg",
+          "artist": 27,
+          "title": "abstract-expressionism-66855",
+          "style": "Abstract_Expressionism"
+        },
+        {
+          "fileName": "abstract-expressionism-57257.jpg",
+          "relativePath": "/quiz/abstract-expressionism/abstract-expressionism-57257.jpg",
+          "artist": 37,
+          "title": "abstract-expressionism-57257",
+          "style": "Abstract_Expressionism"
+        },
+        {
+          "fileName": "abstract-expressionism-75420.jpg",
+          "relativePath": "/quiz/abstract-expressionism/abstract-expressionism-75420.jpg",
+          "artist": "",
+          "title": "abstract-expressionism-75420",
+          "style": "Abstract_Expressionism"
+        },
+        {
+          "fileName": "abstract-expressionism-66771.jpg",
+          "relativePath": "/quiz/abstract-expressionism/abstract-expressionism-66771.jpg",
+          "artist": "",
+          "title": "abstract-expressionism-66771",
+          "style": "Abstract_Expressionism"
+        },
+        {
+          "fileName": "abstract-expressionism-59346.jpg",
+          "relativePath": "/quiz/abstract-expressionism/abstract-expressionism-59346.jpg",
+          "artist": "",
+          "title": "abstract-expressionism-59346",
+          "style": "Abstract_Expressionism"
+        },
+        {
+          "fileName": "abstract-expressionism-40987.jpg",
+          "relativePath": "/quiz/abstract-expressionism/abstract-expressionism-40987.jpg",
+          "artist": "",
+          "title": "abstract-expressionism-40987",
+          "style": "Abstract_Expressionism"
+        },
+        {
+          "fileName": "abstract-expressionism-33807.jpg",
+          "relativePath": "/quiz/abstract-expressionism/abstract-expressionism-33807.jpg",
+          "artist": "",
+          "title": "abstract-expressionism-33807",
+          "style": "Abstract_Expressionism"
+        },
+        {
+          "fileName": "abstract-expressionism-21919.jpg",
+          "relativePath": "/quiz/abstract-expressionism/abstract-expressionism-21919.jpg",
+          "artist": "",
+          "title": "abstract-expressionism-21919",
+          "style": "Abstract_Expressionism"
+        },
+        {
+          "fileName": "abstract-expressionism-69660.jpg",
+          "relativePath": "/quiz/abstract-expressionism/abstract-expressionism-69660.jpg",
+          "artist": "",
+          "title": "abstract-expressionism-69660",
+          "style": "Abstract_Expressionism"
+        }
+      ]
+    },
+    {
+      "id": "synthetic-cubism",
+      "label": "Synthetic_Cubism",
+      "slug": "synthetic-cubism",
+      "images": [
+        {
+          "fileName": "synthetic-cubism-45893.jpg",
+          "relativePath": "/quiz/synthetic-cubism/synthetic-cubism-45893.jpg",
+          "artist": 28,
+          "title": "synthetic-cubism-45893",
+          "style": "Synthetic_Cubism"
+        },
+        {
+          "fileName": "synthetic-cubism-28228.jpg",
+          "relativePath": "/quiz/synthetic-cubism/synthetic-cubism-28228.jpg",
+          "artist": 28,
+          "title": "synthetic-cubism-28228",
+          "style": "Synthetic_Cubism"
+        },
+        {
+          "fileName": "synthetic-cubism-48788.jpg",
+          "relativePath": "/quiz/synthetic-cubism/synthetic-cubism-48788.jpg",
+          "artist": 91,
+          "title": "synthetic-cubism-48788",
+          "style": "Synthetic_Cubism"
+        },
+        {
+          "fileName": "synthetic-cubism-61601.jpg",
+          "relativePath": "/quiz/synthetic-cubism/synthetic-cubism-61601.jpg",
+          "artist": 28,
+          "title": "synthetic-cubism-61601",
+          "style": "Synthetic_Cubism"
+        },
+        {
+          "fileName": "synthetic-cubism-5600.jpg",
+          "relativePath": "/quiz/synthetic-cubism/synthetic-cubism-5600.jpg",
+          "artist": 15,
+          "title": "synthetic-cubism-5600",
+          "style": "Synthetic_Cubism"
+        },
+        {
+          "fileName": "synthetic-cubism-23439.jpg",
+          "relativePath": "/quiz/synthetic-cubism/synthetic-cubism-23439.jpg",
+          "artist": 28,
+          "title": "synthetic-cubism-23439",
+          "style": "Synthetic_Cubism"
+        },
+        {
+          "fileName": "synthetic-cubism-6867.jpg",
+          "relativePath": "/quiz/synthetic-cubism/synthetic-cubism-6867.jpg",
+          "artist": 15,
+          "title": "synthetic-cubism-6867",
+          "style": "Synthetic_Cubism"
+        },
+        {
+          "fileName": "synthetic-cubism-23377.jpg",
+          "relativePath": "/quiz/synthetic-cubism/synthetic-cubism-23377.jpg",
+          "artist": 91,
+          "title": "synthetic-cubism-23377",
+          "style": "Synthetic_Cubism"
+        },
+        {
+          "fileName": "synthetic-cubism-43289.jpg",
+          "relativePath": "/quiz/synthetic-cubism/synthetic-cubism-43289.jpg",
+          "artist": 28,
+          "title": "synthetic-cubism-43289",
+          "style": "Synthetic_Cubism"
+        },
+        {
+          "fileName": "synthetic-cubism-23273.jpg",
+          "relativePath": "/quiz/synthetic-cubism/synthetic-cubism-23273.jpg",
+          "artist": 28,
+          "title": "synthetic-cubism-23273",
+          "style": "Synthetic_Cubism"
+        },
+        {
+          "fileName": "synthetic-cubism-45449.jpg",
+          "relativePath": "/quiz/synthetic-cubism/synthetic-cubism-45449.jpg",
+          "artist": 91,
+          "title": "synthetic-cubism-45449",
+          "style": "Synthetic_Cubism"
+        },
+        {
+          "fileName": "synthetic-cubism-35247.jpg",
+          "relativePath": "/quiz/synthetic-cubism/synthetic-cubism-35247.jpg",
+          "artist": 28,
+          "title": "synthetic-cubism-35247",
+          "style": "Synthetic_Cubism"
+        },
+        {
+          "fileName": "synthetic-cubism-61807.jpg",
+          "relativePath": "/quiz/synthetic-cubism/synthetic-cubism-61807.jpg",
+          "artist": 28,
+          "title": "synthetic-cubism-61807",
+          "style": "Synthetic_Cubism"
+        },
+        {
+          "fileName": "synthetic-cubism-36552.jpg",
+          "relativePath": "/quiz/synthetic-cubism/synthetic-cubism-36552.jpg",
+          "artist": 91,
+          "title": "synthetic-cubism-36552",
+          "style": "Synthetic_Cubism"
+        },
+        {
+          "fileName": "synthetic-cubism-42201.jpg",
+          "relativePath": "/quiz/synthetic-cubism/synthetic-cubism-42201.jpg",
+          "artist": 28,
+          "title": "synthetic-cubism-42201",
+          "style": "Synthetic_Cubism"
+        },
+        {
+          "fileName": "synthetic-cubism-61842.jpg",
+          "relativePath": "/quiz/synthetic-cubism/synthetic-cubism-61842.jpg",
+          "artist": 91,
+          "title": "synthetic-cubism-61842",
+          "style": "Synthetic_Cubism"
+        },
+        {
+          "fileName": "synthetic-cubism-12436.jpg",
+          "relativePath": "/quiz/synthetic-cubism/synthetic-cubism-12436.jpg",
+          "artist": 15,
+          "title": "synthetic-cubism-12436",
+          "style": "Synthetic_Cubism"
+        },
+        {
+          "fileName": "synthetic-cubism-50879.jpg",
+          "relativePath": "/quiz/synthetic-cubism/synthetic-cubism-50879.jpg",
+          "artist": 28,
+          "title": "synthetic-cubism-50879",
+          "style": "Synthetic_Cubism"
+        },
+        {
+          "fileName": "synthetic-cubism-28542.jpg",
+          "relativePath": "/quiz/synthetic-cubism/synthetic-cubism-28542.jpg",
+          "artist": 91,
+          "title": "synthetic-cubism-28542",
+          "style": "Synthetic_Cubism"
+        },
+        {
+          "fileName": "synthetic-cubism-30173.jpg",
+          "relativePath": "/quiz/synthetic-cubism/synthetic-cubism-30173.jpg",
+          "artist": 28,
+          "title": "synthetic-cubism-30173",
+          "style": "Synthetic_Cubism"
+        }
+      ]
+    },
+    {
+      "id": "pointillism",
+      "label": "Pointillism",
+      "slug": "pointillism",
+      "images": [
+        {
+          "fileName": "pointillism-43090.jpg",
+          "relativePath": "/quiz/pointillism/pointillism-43090.jpg",
+          "artist": "",
+          "title": "pointillism-43090",
+          "style": "Pointillism"
+        },
+        {
+          "fileName": "pointillism-28761.jpg",
+          "relativePath": "/quiz/pointillism/pointillism-28761.jpg",
+          "artist": 63,
+          "title": "pointillism-28761",
+          "style": "Pointillism"
+        },
+        {
+          "fileName": "pointillism-34862.jpg",
+          "relativePath": "/quiz/pointillism/pointillism-34862.jpg",
+          "artist": 63,
+          "title": "pointillism-34862",
+          "style": "Pointillism"
+        },
+        {
+          "fileName": "pointillism-42135.jpg",
+          "relativePath": "/quiz/pointillism/pointillism-42135.jpg",
+          "artist": 47,
+          "title": "pointillism-42135",
+          "style": "Pointillism"
+        },
+        {
+          "fileName": "pointillism-12702.jpg",
+          "relativePath": "/quiz/pointillism/pointillism-12702.jpg",
+          "artist": 2,
+          "title": "pointillism-12702",
+          "style": "Pointillism"
+        },
+        {
+          "fileName": "pointillism-65102.jpg",
+          "relativePath": "/quiz/pointillism/pointillism-65102.jpg",
+          "artist": "",
+          "title": "pointillism-65102",
+          "style": "Pointillism"
+        },
+        {
+          "fileName": "pointillism-50635.jpg",
+          "relativePath": "/quiz/pointillism/pointillism-50635.jpg",
+          "artist": 47,
+          "title": "pointillism-50635",
+          "style": "Pointillism"
+        },
+        {
+          "fileName": "pointillism-62140.jpg",
+          "relativePath": "/quiz/pointillism/pointillism-62140.jpg",
+          "artist": "",
+          "title": "pointillism-62140",
+          "style": "Pointillism"
+        },
+        {
+          "fileName": "pointillism-57429.jpg",
+          "relativePath": "/quiz/pointillism/pointillism-57429.jpg",
+          "artist": "",
+          "title": "pointillism-57429",
+          "style": "Pointillism"
+        },
+        {
+          "fileName": "pointillism-63296.jpg",
+          "relativePath": "/quiz/pointillism/pointillism-63296.jpg",
+          "artist": "",
+          "title": "pointillism-63296",
+          "style": "Pointillism"
+        },
+        {
+          "fileName": "pointillism-59572.jpg",
+          "relativePath": "/quiz/pointillism/pointillism-59572.jpg",
+          "artist": "",
+          "title": "pointillism-59572",
+          "style": "Pointillism"
+        },
+        {
+          "fileName": "pointillism-58933.jpg",
+          "relativePath": "/quiz/pointillism/pointillism-58933.jpg",
+          "artist": 47,
+          "title": "pointillism-58933",
+          "style": "Pointillism"
+        },
+        {
+          "fileName": "pointillism-55254.jpg",
+          "relativePath": "/quiz/pointillism/pointillism-55254.jpg",
+          "artist": 47,
+          "title": "pointillism-55254",
+          "style": "Pointillism"
+        },
+        {
+          "fileName": "pointillism-3338.jpg",
+          "relativePath": "/quiz/pointillism/pointillism-3338.jpg",
+          "artist": 2,
+          "title": "pointillism-3338",
+          "style": "Pointillism"
+        },
+        {
+          "fileName": "pointillism-54749.jpg",
+          "relativePath": "/quiz/pointillism/pointillism-54749.jpg",
+          "artist": 47,
+          "title": "pointillism-54749",
+          "style": "Pointillism"
+        },
+        {
+          "fileName": "pointillism-26768.jpg",
+          "relativePath": "/quiz/pointillism/pointillism-26768.jpg",
+          "artist": 47,
+          "title": "pointillism-26768",
+          "style": "Pointillism"
+        },
+        {
+          "fileName": "pointillism-58831.jpg",
+          "relativePath": "/quiz/pointillism/pointillism-58831.jpg",
+          "artist": "",
+          "title": "pointillism-58831",
+          "style": "Pointillism"
+        },
+        {
+          "fileName": "pointillism-8304.jpg",
+          "relativePath": "/quiz/pointillism/pointillism-8304.jpg",
+          "artist": 2,
+          "title": "pointillism-8304",
+          "style": "Pointillism"
+        },
+        {
+          "fileName": "pointillism-54557.jpg",
+          "relativePath": "/quiz/pointillism/pointillism-54557.jpg",
+          "artist": 63,
+          "title": "pointillism-54557",
+          "style": "Pointillism"
+        },
+        {
+          "fileName": "pointillism-57436.jpg",
+          "relativePath": "/quiz/pointillism/pointillism-57436.jpg",
+          "artist": 47,
+          "title": "pointillism-57436",
+          "style": "Pointillism"
+        }
+      ]
+    },
+    {
+      "id": "early-renaissance",
+      "label": "Early_Renaissance",
+      "slug": "early-renaissance",
+      "images": [
+        {
+          "fileName": "early-renaissance-30452.jpg",
+          "relativePath": "/quiz/early-renaissance/early-renaissance-30452.jpg",
+          "artist": "",
+          "title": "early-renaissance-30452",
+          "style": "Early_Renaissance"
+        },
+        {
+          "fileName": "early-renaissance-56037.jpg",
+          "relativePath": "/quiz/early-renaissance/early-renaissance-56037.jpg",
+          "artist": "",
+          "title": "early-renaissance-56037",
+          "style": "Early_Renaissance"
+        },
+        {
+          "fileName": "early-renaissance-55624.jpg",
+          "relativePath": "/quiz/early-renaissance/early-renaissance-55624.jpg",
+          "artist": "",
+          "title": "early-renaissance-55624",
+          "style": "Early_Renaissance"
+        },
+        {
+          "fileName": "early-renaissance-29660.jpg",
+          "relativePath": "/quiz/early-renaissance/early-renaissance-29660.jpg",
+          "artist": "",
+          "title": "early-renaissance-29660",
+          "style": "Early_Renaissance"
+        },
+        {
+          "fileName": "early-renaissance-26144.jpg",
+          "relativePath": "/quiz/early-renaissance/early-renaissance-26144.jpg",
+          "artist": "",
+          "title": "early-renaissance-26144",
+          "style": "Early_Renaissance"
+        },
+        {
+          "fileName": "early-renaissance-40617.jpg",
+          "relativePath": "/quiz/early-renaissance/early-renaissance-40617.jpg",
+          "artist": 38,
+          "title": "early-renaissance-40617",
+          "style": "Early_Renaissance"
+        },
+        {
+          "fileName": "early-renaissance-52078.jpg",
+          "relativePath": "/quiz/early-renaissance/early-renaissance-52078.jpg",
+          "artist": "",
+          "title": "early-renaissance-52078",
+          "style": "Early_Renaissance"
+        },
+        {
+          "fileName": "early-renaissance-56798.jpg",
+          "relativePath": "/quiz/early-renaissance/early-renaissance-56798.jpg",
+          "artist": "",
+          "title": "early-renaissance-56798",
+          "style": "Early_Renaissance"
+        },
+        {
+          "fileName": "early-renaissance-56780.jpg",
+          "relativePath": "/quiz/early-renaissance/early-renaissance-56780.jpg",
+          "artist": "",
+          "title": "early-renaissance-56780",
+          "style": "Early_Renaissance"
+        },
+        {
+          "fileName": "early-renaissance-34080.jpg",
+          "relativePath": "/quiz/early-renaissance/early-renaissance-34080.jpg",
+          "artist": "",
+          "title": "early-renaissance-34080",
+          "style": "Early_Renaissance"
+        },
+        {
+          "fileName": "early-renaissance-37190.jpg",
+          "relativePath": "/quiz/early-renaissance/early-renaissance-37190.jpg",
+          "artist": "",
+          "title": "early-renaissance-37190",
+          "style": "Early_Renaissance"
+        },
+        {
+          "fileName": "early-renaissance-36982.jpg",
+          "relativePath": "/quiz/early-renaissance/early-renaissance-36982.jpg",
+          "artist": 38,
+          "title": "early-renaissance-36982",
+          "style": "Early_Renaissance"
+        },
+        {
+          "fileName": "early-renaissance-55680.jpg",
+          "relativePath": "/quiz/early-renaissance/early-renaissance-55680.jpg",
+          "artist": "",
+          "title": "early-renaissance-55680",
+          "style": "Early_Renaissance"
+        },
+        {
+          "fileName": "early-renaissance-19413.jpg",
+          "relativePath": "/quiz/early-renaissance/early-renaissance-19413.jpg",
+          "artist": 38,
+          "title": "early-renaissance-19413",
+          "style": "Early_Renaissance"
+        },
+        {
+          "fileName": "early-renaissance-35073.jpg",
+          "relativePath": "/quiz/early-renaissance/early-renaissance-35073.jpg",
+          "artist": 38,
+          "title": "early-renaissance-35073",
+          "style": "Early_Renaissance"
+        },
+        {
+          "fileName": "early-renaissance-32563.jpg",
+          "relativePath": "/quiz/early-renaissance/early-renaissance-32563.jpg",
+          "artist": 58,
+          "title": "early-renaissance-32563",
+          "style": "Early_Renaissance"
+        },
+        {
+          "fileName": "early-renaissance-55881.jpg",
+          "relativePath": "/quiz/early-renaissance/early-renaissance-55881.jpg",
+          "artist": "",
+          "title": "early-renaissance-55881",
+          "style": "Early_Renaissance"
+        },
+        {
+          "fileName": "early-renaissance-29916.jpg",
+          "relativePath": "/quiz/early-renaissance/early-renaissance-29916.jpg",
+          "artist": "",
+          "title": "early-renaissance-29916",
+          "style": "Early_Renaissance"
+        },
+        {
+          "fileName": "early-renaissance-42889.jpg",
+          "relativePath": "/quiz/early-renaissance/early-renaissance-42889.jpg",
+          "artist": "",
+          "title": "early-renaissance-42889",
+          "style": "Early_Renaissance"
+        },
+        {
+          "fileName": "early-renaissance-25963.jpg",
+          "relativePath": "/quiz/early-renaissance/early-renaissance-25963.jpg",
+          "artist": "",
+          "title": "early-renaissance-25963",
+          "style": "Early_Renaissance"
+        }
+      ]
+    },
+    {
+      "id": "color-field-painting",
+      "label": "Color_Field_Painting",
+      "slug": "color-field-painting",
+      "images": [
+        {
+          "fileName": "color-field-painting-66758.jpg",
+          "relativePath": "/quiz/color-field-painting/color-field-painting-66758.jpg",
+          "artist": "",
+          "title": "color-field-painting-66758",
+          "style": "Color_Field_Painting"
+        },
+        {
+          "fileName": "color-field-painting-50673.jpg",
+          "relativePath": "/quiz/color-field-painting/color-field-painting-50673.jpg",
+          "artist": "",
+          "title": "color-field-painting-50673",
+          "style": "Color_Field_Painting"
+        },
+        {
+          "fileName": "color-field-painting-39720.jpg",
+          "relativePath": "/quiz/color-field-painting/color-field-painting-39720.jpg",
+          "artist": 68,
+          "title": "color-field-painting-39720",
+          "style": "Color_Field_Painting"
+        },
+        {
+          "fileName": "color-field-painting-67098.jpg",
+          "relativePath": "/quiz/color-field-painting/color-field-painting-67098.jpg",
+          "artist": "",
+          "title": "color-field-painting-67098",
+          "style": "Color_Field_Painting"
+        },
+        {
+          "fileName": "color-field-painting-44927.jpg",
+          "relativePath": "/quiz/color-field-painting/color-field-painting-44927.jpg",
+          "artist": "",
+          "title": "color-field-painting-44927",
+          "style": "Color_Field_Painting"
+        },
+        {
+          "fileName": "color-field-painting-40783.jpg",
+          "relativePath": "/quiz/color-field-painting/color-field-painting-40783.jpg",
+          "artist": "",
+          "title": "color-field-painting-40783",
+          "style": "Color_Field_Painting"
+        },
+        {
+          "fileName": "color-field-painting-37052.jpg",
+          "relativePath": "/quiz/color-field-painting/color-field-painting-37052.jpg",
+          "artist": "",
+          "title": "color-field-painting-37052",
+          "style": "Color_Field_Painting"
+        },
+        {
+          "fileName": "color-field-painting-66608.jpg",
+          "relativePath": "/quiz/color-field-painting/color-field-painting-66608.jpg",
+          "artist": "",
+          "title": "color-field-painting-66608",
+          "style": "Color_Field_Painting"
+        },
+        {
+          "fileName": "color-field-painting-66557.jpg",
+          "relativePath": "/quiz/color-field-painting/color-field-painting-66557.jpg",
+          "artist": "",
+          "title": "color-field-painting-66557",
+          "style": "Color_Field_Painting"
+        },
+        {
+          "fileName": "color-field-painting-28404.jpg",
+          "relativePath": "/quiz/color-field-painting/color-field-painting-28404.jpg",
+          "artist": "",
+          "title": "color-field-painting-28404",
+          "style": "Color_Field_Painting"
+        },
+        {
+          "fileName": "color-field-painting-24621.jpg",
+          "relativePath": "/quiz/color-field-painting/color-field-painting-24621.jpg",
+          "artist": "",
+          "title": "color-field-painting-24621",
+          "style": "Color_Field_Painting"
+        },
+        {
+          "fileName": "color-field-painting-66768.jpg",
+          "relativePath": "/quiz/color-field-painting/color-field-painting-66768.jpg",
+          "artist": "",
+          "title": "color-field-painting-66768",
+          "style": "Color_Field_Painting"
+        },
+        {
+          "fileName": "color-field-painting-22986.jpg",
+          "relativePath": "/quiz/color-field-painting/color-field-painting-22986.jpg",
+          "artist": "",
+          "title": "color-field-painting-22986",
+          "style": "Color_Field_Painting"
+        },
+        {
+          "fileName": "color-field-painting-37912.jpg",
+          "relativePath": "/quiz/color-field-painting/color-field-painting-37912.jpg",
+          "artist": "",
+          "title": "color-field-painting-37912",
+          "style": "Color_Field_Painting"
+        },
+        {
+          "fileName": "color-field-painting-20441.jpg",
+          "relativePath": "/quiz/color-field-painting/color-field-painting-20441.jpg",
+          "artist": "",
+          "title": "color-field-painting-20441",
+          "style": "Color_Field_Painting"
+        },
+        {
+          "fileName": "color-field-painting-23743.jpg",
+          "relativePath": "/quiz/color-field-painting/color-field-painting-23743.jpg",
+          "artist": "",
+          "title": "color-field-painting-23743",
+          "style": "Color_Field_Painting"
+        },
+        {
+          "fileName": "color-field-painting-51698.jpg",
+          "relativePath": "/quiz/color-field-painting/color-field-painting-51698.jpg",
+          "artist": "",
+          "title": "color-field-painting-51698",
+          "style": "Color_Field_Painting"
+        },
+        {
+          "fileName": "color-field-painting-40160.jpg",
+          "relativePath": "/quiz/color-field-painting/color-field-painting-40160.jpg",
+          "artist": "",
+          "title": "color-field-painting-40160",
+          "style": "Color_Field_Painting"
+        },
+        {
+          "fileName": "color-field-painting-22707.jpg",
+          "relativePath": "/quiz/color-field-painting/color-field-painting-22707.jpg",
+          "artist": "",
+          "title": "color-field-painting-22707",
+          "style": "Color_Field_Painting"
+        },
+        {
+          "fileName": "color-field-painting-50648.jpg",
+          "relativePath": "/quiz/color-field-painting/color-field-painting-50648.jpg",
+          "artist": 27,
+          "title": "color-field-painting-50648",
+          "style": "Color_Field_Painting"
+        }
+      ]
+    },
+    {
+      "id": "new-realism",
+      "label": "New_Realism",
+      "slug": "new-realism",
+      "images": [
+        {
+          "fileName": "new-realism-60121.jpg",
+          "relativePath": "/quiz/new-realism/new-realism-60121.jpg",
+          "artist": "",
+          "title": "new-realism-60121",
+          "style": "New_Realism"
+        },
+        {
+          "fileName": "new-realism-26823.jpg",
+          "relativePath": "/quiz/new-realism/new-realism-26823.jpg",
+          "artist": "",
+          "title": "new-realism-26823",
+          "style": "New_Realism"
+        },
+        {
+          "fileName": "new-realism-20681.jpg",
+          "relativePath": "/quiz/new-realism/new-realism-20681.jpg",
+          "artist": "",
+          "title": "new-realism-20681",
+          "style": "New_Realism"
+        },
+        {
+          "fileName": "new-realism-55402.jpg",
+          "relativePath": "/quiz/new-realism/new-realism-55402.jpg",
+          "artist": "",
+          "title": "new-realism-55402",
+          "style": "New_Realism"
+        },
+        {
+          "fileName": "new-realism-46253.jpg",
+          "relativePath": "/quiz/new-realism/new-realism-46253.jpg",
+          "artist": "",
+          "title": "new-realism-46253",
+          "style": "New_Realism"
+        },
+        {
+          "fileName": "new-realism-24974.jpg",
+          "relativePath": "/quiz/new-realism/new-realism-24974.jpg",
+          "artist": "",
+          "title": "new-realism-24974",
+          "style": "New_Realism"
+        },
+        {
+          "fileName": "new-realism-40455.jpg",
+          "relativePath": "/quiz/new-realism/new-realism-40455.jpg",
+          "artist": "",
+          "title": "new-realism-40455",
+          "style": "New_Realism"
+        },
+        {
+          "fileName": "new-realism-37610.jpg",
+          "relativePath": "/quiz/new-realism/new-realism-37610.jpg",
+          "artist": "",
+          "title": "new-realism-37610",
+          "style": "New_Realism"
+        },
+        {
+          "fileName": "new-realism-65797.jpg",
+          "relativePath": "/quiz/new-realism/new-realism-65797.jpg",
+          "artist": "",
+          "title": "new-realism-65797",
+          "style": "New_Realism"
+        },
+        {
+          "fileName": "new-realism-44403.jpg",
+          "relativePath": "/quiz/new-realism/new-realism-44403.jpg",
+          "artist": "",
+          "title": "new-realism-44403",
+          "style": "New_Realism"
+        },
+        {
+          "fileName": "new-realism-59700.jpg",
+          "relativePath": "/quiz/new-realism/new-realism-59700.jpg",
+          "artist": "",
+          "title": "new-realism-59700",
+          "style": "New_Realism"
+        },
+        {
+          "fileName": "new-realism-38018.jpg",
+          "relativePath": "/quiz/new-realism/new-realism-38018.jpg",
+          "artist": "",
+          "title": "new-realism-38018",
+          "style": "New_Realism"
+        },
+        {
+          "fileName": "new-realism-34682.jpg",
+          "relativePath": "/quiz/new-realism/new-realism-34682.jpg",
+          "artist": "",
+          "title": "new-realism-34682",
+          "style": "New_Realism"
+        },
+        {
+          "fileName": "new-realism-57844.jpg",
+          "relativePath": "/quiz/new-realism/new-realism-57844.jpg",
+          "artist": "",
+          "title": "new-realism-57844",
+          "style": "New_Realism"
+        },
+        {
+          "fileName": "new-realism-52207.jpg",
+          "relativePath": "/quiz/new-realism/new-realism-52207.jpg",
+          "artist": "",
+          "title": "new-realism-52207",
+          "style": "New_Realism"
+        },
+        {
+          "fileName": "new-realism-30877.jpg",
+          "relativePath": "/quiz/new-realism/new-realism-30877.jpg",
+          "artist": "",
+          "title": "new-realism-30877",
+          "style": "New_Realism"
+        },
+        {
+          "fileName": "new-realism-30070.jpg",
+          "relativePath": "/quiz/new-realism/new-realism-30070.jpg",
+          "artist": "",
+          "title": "new-realism-30070",
+          "style": "New_Realism"
+        },
+        {
+          "fileName": "new-realism-39658.jpg",
+          "relativePath": "/quiz/new-realism/new-realism-39658.jpg",
+          "artist": "",
+          "title": "new-realism-39658",
+          "style": "New_Realism"
+        },
+        {
+          "fileName": "new-realism-31010.jpg",
+          "relativePath": "/quiz/new-realism/new-realism-31010.jpg",
+          "artist": "",
+          "title": "new-realism-31010",
+          "style": "New_Realism"
+        },
+        {
+          "fileName": "new-realism-52249.jpg",
+          "relativePath": "/quiz/new-realism/new-realism-52249.jpg",
+          "artist": "",
+          "title": "new-realism-52249",
+          "style": "New_Realism"
+        }
+      ]
+    },
+    {
+      "id": "ukiyo-e",
+      "label": "Ukiyo_e",
+      "slug": "ukiyo-e",
+      "images": [
+        {
+          "fileName": "ukiyo-e-54200.jpg",
+          "relativePath": "/quiz/ukiyo-e/ukiyo-e-54200.jpg",
+          "artist": 95,
+          "title": "ukiyo-e-54200",
+          "style": "Ukiyo_e"
+        },
+        {
+          "fileName": "ukiyo-e-23812.jpg",
+          "relativePath": "/quiz/ukiyo-e/ukiyo-e-23812.jpg",
+          "artist": 106,
+          "title": "ukiyo-e-23812",
+          "style": "Ukiyo_e"
+        },
+        {
+          "fileName": "ukiyo-e-52633.jpg",
+          "relativePath": "/quiz/ukiyo-e/ukiyo-e-52633.jpg",
+          "artist": "",
+          "title": "ukiyo-e-52633",
+          "style": "Ukiyo_e"
+        },
+        {
+          "fileName": "ukiyo-e-22267.jpg",
+          "relativePath": "/quiz/ukiyo-e/ukiyo-e-22267.jpg",
+          "artist": "",
+          "title": "ukiyo-e-22267",
+          "style": "Ukiyo_e"
+        },
+        {
+          "fileName": "ukiyo-e-54463.jpg",
+          "relativePath": "/quiz/ukiyo-e/ukiyo-e-54463.jpg",
+          "artist": "",
+          "title": "ukiyo-e-54463",
+          "style": "Ukiyo_e"
+        },
+        {
+          "fileName": "ukiyo-e-79269.jpg",
+          "relativePath": "/quiz/ukiyo-e/ukiyo-e-79269.jpg",
+          "artist": "",
+          "title": "ukiyo-e-79269",
+          "style": "Ukiyo_e"
+        },
+        {
+          "fileName": "ukiyo-e-79258.jpg",
+          "relativePath": "/quiz/ukiyo-e/ukiyo-e-79258.jpg",
+          "artist": "",
+          "title": "ukiyo-e-79258",
+          "style": "Ukiyo_e"
+        },
+        {
+          "fileName": "ukiyo-e-63496.jpg",
+          "relativePath": "/quiz/ukiyo-e/ukiyo-e-63496.jpg",
+          "artist": 106,
+          "title": "ukiyo-e-63496",
+          "style": "Ukiyo_e"
+        },
+        {
+          "fileName": "ukiyo-e-61323.jpg",
+          "relativePath": "/quiz/ukiyo-e/ukiyo-e-61323.jpg",
+          "artist": "",
+          "title": "ukiyo-e-61323",
+          "style": "Ukiyo_e"
+        },
+        {
+          "fileName": "ukiyo-e-64585.jpg",
+          "relativePath": "/quiz/ukiyo-e/ukiyo-e-64585.jpg",
+          "artist": 95,
+          "title": "ukiyo-e-64585",
+          "style": "Ukiyo_e"
+        },
+        {
+          "fileName": "ukiyo-e-30112.jpg",
+          "relativePath": "/quiz/ukiyo-e/ukiyo-e-30112.jpg",
+          "artist": "",
+          "title": "ukiyo-e-30112",
+          "style": "Ukiyo_e"
+        },
+        {
+          "fileName": "ukiyo-e-79351.jpg",
+          "relativePath": "/quiz/ukiyo-e/ukiyo-e-79351.jpg",
+          "artist": "",
+          "title": "ukiyo-e-79351",
+          "style": "Ukiyo_e"
+        },
+        {
+          "fileName": "ukiyo-e-75062.jpg",
+          "relativePath": "/quiz/ukiyo-e/ukiyo-e-75062.jpg",
+          "artist": "",
+          "title": "ukiyo-e-75062",
+          "style": "Ukiyo_e"
+        },
+        {
+          "fileName": "ukiyo-e-55446.jpg",
+          "relativePath": "/quiz/ukiyo-e/ukiyo-e-55446.jpg",
+          "artist": 106,
+          "title": "ukiyo-e-55446",
+          "style": "Ukiyo_e"
+        },
+        {
+          "fileName": "ukiyo-e-21202.jpg",
+          "relativePath": "/quiz/ukiyo-e/ukiyo-e-21202.jpg",
+          "artist": 106,
+          "title": "ukiyo-e-21202",
+          "style": "Ukiyo_e"
+        },
+        {
+          "fileName": "ukiyo-e-27817.jpg",
+          "relativePath": "/quiz/ukiyo-e/ukiyo-e-27817.jpg",
+          "artist": "",
+          "title": "ukiyo-e-27817",
+          "style": "Ukiyo_e"
+        },
+        {
+          "fileName": "ukiyo-e-75723.jpg",
+          "relativePath": "/quiz/ukiyo-e/ukiyo-e-75723.jpg",
+          "artist": "",
+          "title": "ukiyo-e-75723",
+          "style": "Ukiyo_e"
+        },
+        {
+          "fileName": "ukiyo-e-69780.jpg",
+          "relativePath": "/quiz/ukiyo-e/ukiyo-e-69780.jpg",
+          "artist": "",
+          "title": "ukiyo-e-69780",
+          "style": "Ukiyo_e"
+        },
+        {
+          "fileName": "ukiyo-e-48480.jpg",
+          "relativePath": "/quiz/ukiyo-e/ukiyo-e-48480.jpg",
+          "artist": 106,
+          "title": "ukiyo-e-48480",
+          "style": "Ukiyo_e"
+        },
+        {
+          "fileName": "ukiyo-e-70842.jpg",
+          "relativePath": "/quiz/ukiyo-e/ukiyo-e-70842.jpg",
+          "artist": "",
+          "title": "ukiyo-e-70842",
+          "style": "Ukiyo_e"
+        }
+      ]
+    },
+    {
+      "id": "rococo",
+      "label": "Rococo",
+      "slug": "rococo",
+      "images": [
+        {
+          "fileName": "rococo-49672.jpg",
+          "relativePath": "/quiz/rococo/rococo-49672.jpg",
+          "artist": "",
+          "title": "rococo-49672",
+          "style": "Rococo"
+        },
+        {
+          "fileName": "rococo-65398.jpg",
+          "relativePath": "/quiz/rococo/rococo-65398.jpg",
+          "artist": "",
+          "title": "rococo-65398",
+          "style": "Rococo"
+        },
+        {
+          "fileName": "rococo-45721.jpg",
+          "relativePath": "/quiz/rococo/rococo-45721.jpg",
+          "artist": "",
+          "title": "rococo-45721",
+          "style": "Rococo"
+        },
+        {
+          "fileName": "rococo-74573.jpg",
+          "relativePath": "/quiz/rococo/rococo-74573.jpg",
+          "artist": "",
+          "title": "rococo-74573",
+          "style": "Rococo"
+        },
+        {
+          "fileName": "rococo-38952.jpg",
+          "relativePath": "/quiz/rococo/rococo-38952.jpg",
+          "artist": "",
+          "title": "rococo-38952",
+          "style": "Rococo"
+        },
+        {
+          "fileName": "rococo-51786.jpg",
+          "relativePath": "/quiz/rococo/rococo-51786.jpg",
+          "artist": "",
+          "title": "rococo-51786",
+          "style": "Rococo"
+        },
+        {
+          "fileName": "rococo-65257.jpg",
+          "relativePath": "/quiz/rococo/rococo-65257.jpg",
+          "artist": 126,
+          "title": "rococo-65257",
+          "style": "Rococo"
+        },
+        {
+          "fileName": "rococo-23999.jpg",
+          "relativePath": "/quiz/rococo/rococo-23999.jpg",
+          "artist": "",
+          "title": "rococo-23999",
+          "style": "Rococo"
+        },
+        {
+          "fileName": "rococo-63200.jpg",
+          "relativePath": "/quiz/rococo/rococo-63200.jpg",
+          "artist": "",
+          "title": "rococo-63200",
+          "style": "Rococo"
+        },
+        {
+          "fileName": "rococo-22146.jpg",
+          "relativePath": "/quiz/rococo/rococo-22146.jpg",
+          "artist": "",
+          "title": "rococo-22146",
+          "style": "Rococo"
+        },
+        {
+          "fileName": "rococo-74094.jpg",
+          "relativePath": "/quiz/rococo/rococo-74094.jpg",
+          "artist": "",
+          "title": "rococo-74094",
+          "style": "Rococo"
+        },
+        {
+          "fileName": "rococo-43873.jpg",
+          "relativePath": "/quiz/rococo/rococo-43873.jpg",
+          "artist": 83,
+          "title": "rococo-43873",
+          "style": "Rococo"
+        },
+        {
+          "fileName": "rococo-65632.jpg",
+          "relativePath": "/quiz/rococo/rococo-65632.jpg",
+          "artist": "",
+          "title": "rococo-65632",
+          "style": "Rococo"
+        },
+        {
+          "fileName": "rococo-43036.jpg",
+          "relativePath": "/quiz/rococo/rococo-43036.jpg",
+          "artist": "",
+          "title": "rococo-43036",
+          "style": "Rococo"
+        },
+        {
+          "fileName": "rococo-38359.jpg",
+          "relativePath": "/quiz/rococo/rococo-38359.jpg",
+          "artist": "",
+          "title": "rococo-38359",
+          "style": "Rococo"
+        },
+        {
+          "fileName": "rococo-36228.jpg",
+          "relativePath": "/quiz/rococo/rococo-36228.jpg",
+          "artist": 83,
+          "title": "rococo-36228",
+          "style": "Rococo"
+        },
+        {
+          "fileName": "rococo-50568.jpg",
+          "relativePath": "/quiz/rococo/rococo-50568.jpg",
+          "artist": "",
+          "title": "rococo-50568",
+          "style": "Rococo"
+        },
+        {
+          "fileName": "rococo-69347.jpg",
+          "relativePath": "/quiz/rococo/rococo-69347.jpg",
+          "artist": "",
+          "title": "rococo-69347",
+          "style": "Rococo"
+        },
+        {
+          "fileName": "rococo-28524.jpg",
+          "relativePath": "/quiz/rococo/rococo-28524.jpg",
+          "artist": "",
+          "title": "rococo-28524",
+          "style": "Rococo"
+        },
+        {
+          "fileName": "rococo-64541.jpg",
+          "relativePath": "/quiz/rococo/rococo-64541.jpg",
+          "artist": 83,
+          "title": "rococo-64541",
+          "style": "Rococo"
+        }
+      ]
+    },
+    {
+      "id": "high-renaissance",
+      "label": "High_Renaissance",
+      "slug": "high-renaissance",
+      "images": [
+        {
+          "fileName": "high-renaissance-28916.jpg",
+          "relativePath": "/quiz/high-renaissance/high-renaissance-28916.jpg",
+          "artist": "",
+          "title": "high-renaissance-28916",
+          "style": "High_Renaissance"
+        },
+        {
+          "fileName": "high-renaissance-19278.jpg",
+          "relativePath": "/quiz/high-renaissance/high-renaissance-19278.jpg",
+          "artist": 77,
+          "title": "high-renaissance-19278",
+          "style": "High_Renaissance"
+        },
+        {
+          "fileName": "high-renaissance-34272.jpg",
+          "relativePath": "/quiz/high-renaissance/high-renaissance-34272.jpg",
+          "artist": "",
+          "title": "high-renaissance-34272",
+          "style": "High_Renaissance"
+        },
+        {
+          "fileName": "high-renaissance-27464.jpg",
+          "relativePath": "/quiz/high-renaissance/high-renaissance-27464.jpg",
+          "artist": "",
+          "title": "high-renaissance-27464",
+          "style": "High_Renaissance"
+        },
+        {
+          "fileName": "high-renaissance-56918.jpg",
+          "relativePath": "/quiz/high-renaissance/high-renaissance-56918.jpg",
+          "artist": 69,
+          "title": "high-renaissance-56918",
+          "style": "High_Renaissance"
+        },
+        {
+          "fileName": "high-renaissance-50301.jpg",
+          "relativePath": "/quiz/high-renaissance/high-renaissance-50301.jpg",
+          "artist": 24,
+          "title": "high-renaissance-50301",
+          "style": "High_Renaissance"
+        },
+        {
+          "fileName": "high-renaissance-66298.jpg",
+          "relativePath": "/quiz/high-renaissance/high-renaissance-66298.jpg",
+          "artist": "",
+          "title": "high-renaissance-66298",
+          "style": "High_Renaissance"
+        },
+        {
+          "fileName": "high-renaissance-55690.jpg",
+          "relativePath": "/quiz/high-renaissance/high-renaissance-55690.jpg",
+          "artist": "",
+          "title": "high-renaissance-55690",
+          "style": "High_Renaissance"
+        },
+        {
+          "fileName": "high-renaissance-42955.jpg",
+          "relativePath": "/quiz/high-renaissance/high-renaissance-42955.jpg",
+          "artist": "",
+          "title": "high-renaissance-42955",
+          "style": "High_Renaissance"
+        },
+        {
+          "fileName": "high-renaissance-21661.jpg",
+          "relativePath": "/quiz/high-renaissance/high-renaissance-21661.jpg",
+          "artist": 77,
+          "title": "high-renaissance-21661",
+          "style": "High_Renaissance"
+        },
+        {
+          "fileName": "high-renaissance-52847.jpg",
+          "relativePath": "/quiz/high-renaissance/high-renaissance-52847.jpg",
+          "artist": 77,
+          "title": "high-renaissance-52847",
+          "style": "High_Renaissance"
+        },
+        {
+          "fileName": "high-renaissance-40766.jpg",
+          "relativePath": "/quiz/high-renaissance/high-renaissance-40766.jpg",
+          "artist": 24,
+          "title": "high-renaissance-40766",
+          "style": "High_Renaissance"
+        },
+        {
+          "fileName": "high-renaissance-35573.jpg",
+          "relativePath": "/quiz/high-renaissance/high-renaissance-35573.jpg",
+          "artist": 77,
+          "title": "high-renaissance-35573",
+          "style": "High_Renaissance"
+        },
+        {
+          "fileName": "high-renaissance-73636.jpg",
+          "relativePath": "/quiz/high-renaissance/high-renaissance-73636.jpg",
+          "artist": "",
+          "title": "high-renaissance-73636",
+          "style": "High_Renaissance"
+        },
+        {
+          "fileName": "high-renaissance-55630.jpg",
+          "relativePath": "/quiz/high-renaissance/high-renaissance-55630.jpg",
+          "artist": 87,
+          "title": "high-renaissance-55630",
+          "style": "High_Renaissance"
+        },
+        {
+          "fileName": "high-renaissance-19853.jpg",
+          "relativePath": "/quiz/high-renaissance/high-renaissance-19853.jpg",
+          "artist": 58,
+          "title": "high-renaissance-19853",
+          "style": "High_Renaissance"
+        },
+        {
+          "fileName": "high-renaissance-62287.jpg",
+          "relativePath": "/quiz/high-renaissance/high-renaissance-62287.jpg",
+          "artist": 24,
+          "title": "high-renaissance-62287",
+          "style": "High_Renaissance"
+        },
+        {
+          "fileName": "high-renaissance-74014.jpg",
+          "relativePath": "/quiz/high-renaissance/high-renaissance-74014.jpg",
+          "artist": "",
+          "title": "high-renaissance-74014",
+          "style": "High_Renaissance"
+        },
+        {
+          "fileName": "high-renaissance-25663.jpg",
+          "relativePath": "/quiz/high-renaissance/high-renaissance-25663.jpg",
+          "artist": 87,
+          "title": "high-renaissance-25663",
+          "style": "High_Renaissance"
+        },
+        {
+          "fileName": "high-renaissance-33742.jpg",
+          "relativePath": "/quiz/high-renaissance/high-renaissance-33742.jpg",
+          "artist": "",
+          "title": "high-renaissance-33742",
+          "style": "High_Renaissance"
+        }
+      ]
+    },
+    {
+      "id": "mannerism-late-renaissance",
+      "label": "Mannerism_Late_Renaissance",
+      "slug": "mannerism-late-renaissance",
+      "images": [
+        {
+          "fileName": "mannerism-late-renaissance-52042.jpg",
+          "relativePath": "/quiz/mannerism-late-renaissance/mannerism-late-renaissance-52042.jpg",
+          "artist": 67,
+          "title": "mannerism-late-renaissance-52042",
+          "style": "Mannerism_Late_Renaissance"
+        },
+        {
+          "fileName": "mannerism-late-renaissance-44082.jpg",
+          "relativePath": "/quiz/mannerism-late-renaissance/mannerism-late-renaissance-44082.jpg",
+          "artist": "",
+          "title": "mannerism-late-renaissance-44082",
+          "style": "Mannerism_Late_Renaissance"
+        },
+        {
+          "fileName": "mannerism-late-renaissance-56075.jpg",
+          "relativePath": "/quiz/mannerism-late-renaissance/mannerism-late-renaissance-56075.jpg",
+          "artist": "",
+          "title": "mannerism-late-renaissance-56075",
+          "style": "Mannerism_Late_Renaissance"
+        },
+        {
+          "fileName": "mannerism-late-renaissance-34887.jpg",
+          "relativePath": "/quiz/mannerism-late-renaissance/mannerism-late-renaissance-34887.jpg",
+          "artist": "",
+          "title": "mannerism-late-renaissance-34887",
+          "style": "Mannerism_Late_Renaissance"
+        },
+        {
+          "fileName": "mannerism-late-renaissance-38977.jpg",
+          "relativePath": "/quiz/mannerism-late-renaissance/mannerism-late-renaissance-38977.jpg",
+          "artist": 121,
+          "title": "mannerism-late-renaissance-38977",
+          "style": "Mannerism_Late_Renaissance"
+        },
+        {
+          "fileName": "mannerism-late-renaissance-56155.jpg",
+          "relativePath": "/quiz/mannerism-late-renaissance/mannerism-late-renaissance-56155.jpg",
+          "artist": "",
+          "title": "mannerism-late-renaissance-56155",
+          "style": "Mannerism_Late_Renaissance"
+        },
+        {
+          "fileName": "mannerism-late-renaissance-35147.jpg",
+          "relativePath": "/quiz/mannerism-late-renaissance/mannerism-late-renaissance-35147.jpg",
+          "artist": 82,
+          "title": "mannerism-late-renaissance-35147",
+          "style": "Mannerism_Late_Renaissance"
+        },
+        {
+          "fileName": "mannerism-late-renaissance-56819.jpg",
+          "relativePath": "/quiz/mannerism-late-renaissance/mannerism-late-renaissance-56819.jpg",
+          "artist": 82,
+          "title": "mannerism-late-renaissance-56819",
+          "style": "Mannerism_Late_Renaissance"
+        },
+        {
+          "fileName": "mannerism-late-renaissance-49582.jpg",
+          "relativePath": "/quiz/mannerism-late-renaissance/mannerism-late-renaissance-49582.jpg",
+          "artist": 67,
+          "title": "mannerism-late-renaissance-49582",
+          "style": "Mannerism_Late_Renaissance"
+        },
+        {
+          "fileName": "mannerism-late-renaissance-44263.jpg",
+          "relativePath": "/quiz/mannerism-late-renaissance/mannerism-late-renaissance-44263.jpg",
+          "artist": "",
+          "title": "mannerism-late-renaissance-44263",
+          "style": "Mannerism_Late_Renaissance"
+        },
+        {
+          "fileName": "mannerism-late-renaissance-75848.jpg",
+          "relativePath": "/quiz/mannerism-late-renaissance/mannerism-late-renaissance-75848.jpg",
+          "artist": "",
+          "title": "mannerism-late-renaissance-75848",
+          "style": "Mannerism_Late_Renaissance"
+        },
+        {
+          "fileName": "mannerism-late-renaissance-20144.jpg",
+          "relativePath": "/quiz/mannerism-late-renaissance/mannerism-late-renaissance-20144.jpg",
+          "artist": 121,
+          "title": "mannerism-late-renaissance-20144",
+          "style": "Mannerism_Late_Renaissance"
+        },
+        {
+          "fileName": "mannerism-late-renaissance-39126.jpg",
+          "relativePath": "/quiz/mannerism-late-renaissance/mannerism-late-renaissance-39126.jpg",
+          "artist": "",
+          "title": "mannerism-late-renaissance-39126",
+          "style": "Mannerism_Late_Renaissance"
+        },
+        {
+          "fileName": "mannerism-late-renaissance-64035.jpg",
+          "relativePath": "/quiz/mannerism-late-renaissance/mannerism-late-renaissance-64035.jpg",
+          "artist": 121,
+          "title": "mannerism-late-renaissance-64035",
+          "style": "Mannerism_Late_Renaissance"
+        },
+        {
+          "fileName": "mannerism-late-renaissance-78493.jpg",
+          "relativePath": "/quiz/mannerism-late-renaissance/mannerism-late-renaissance-78493.jpg",
+          "artist": "",
+          "title": "mannerism-late-renaissance-78493",
+          "style": "Mannerism_Late_Renaissance"
+        },
+        {
+          "fileName": "mannerism-late-renaissance-45215.jpg",
+          "relativePath": "/quiz/mannerism-late-renaissance/mannerism-late-renaissance-45215.jpg",
+          "artist": 67,
+          "title": "mannerism-late-renaissance-45215",
+          "style": "Mannerism_Late_Renaissance"
+        },
+        {
+          "fileName": "mannerism-late-renaissance-73242.jpg",
+          "relativePath": "/quiz/mannerism-late-renaissance/mannerism-late-renaissance-73242.jpg",
+          "artist": "",
+          "title": "mannerism-late-renaissance-73242",
+          "style": "Mannerism_Late_Renaissance"
+        },
+        {
+          "fileName": "mannerism-late-renaissance-75864.jpg",
+          "relativePath": "/quiz/mannerism-late-renaissance/mannerism-late-renaissance-75864.jpg",
+          "artist": "",
+          "title": "mannerism-late-renaissance-75864",
+          "style": "Mannerism_Late_Renaissance"
+        },
+        {
+          "fileName": "mannerism-late-renaissance-56362.jpg",
+          "relativePath": "/quiz/mannerism-late-renaissance/mannerism-late-renaissance-56362.jpg",
+          "artist": "",
+          "title": "mannerism-late-renaissance-56362",
+          "style": "Mannerism_Late_Renaissance"
+        },
+        {
+          "fileName": "mannerism-late-renaissance-73892.jpg",
+          "relativePath": "/quiz/mannerism-late-renaissance/mannerism-late-renaissance-73892.jpg",
+          "artist": "",
+          "title": "mannerism-late-renaissance-73892",
+          "style": "Mannerism_Late_Renaissance"
+        }
+      ]
+    },
+    {
+      "id": "pop-art",
+      "label": "Pop_Art",
+      "slug": "pop-art",
+      "images": [
+        {
+          "fileName": "pop-art-38386.jpg",
+          "relativePath": "/quiz/pop-art/pop-art-38386.jpg",
+          "artist": "",
+          "title": "pop-art-38386",
+          "style": "Pop_Art"
+        },
+        {
+          "fileName": "pop-art-73354.jpg",
+          "relativePath": "/quiz/pop-art/pop-art-73354.jpg",
+          "artist": "",
+          "title": "pop-art-73354",
+          "style": "Pop_Art"
+        },
+        {
+          "fileName": "pop-art-80825.jpg",
+          "relativePath": "/quiz/pop-art/pop-art-80825.jpg",
+          "artist": "",
+          "title": "pop-art-80825",
+          "style": "Pop_Art"
+        },
+        {
+          "fileName": "pop-art-70653.jpg",
+          "relativePath": "/quiz/pop-art/pop-art-70653.jpg",
+          "artist": "",
+          "title": "pop-art-70653",
+          "style": "Pop_Art"
+        },
+        {
+          "fileName": "pop-art-75872.jpg",
+          "relativePath": "/quiz/pop-art/pop-art-75872.jpg",
+          "artist": "",
+          "title": "pop-art-75872",
+          "style": "Pop_Art"
+        },
+        {
+          "fileName": "pop-art-27667.jpg",
+          "relativePath": "/quiz/pop-art/pop-art-27667.jpg",
+          "artist": "",
+          "title": "pop-art-27667",
+          "style": "Pop_Art"
+        },
+        {
+          "fileName": "pop-art-44473.jpg",
+          "relativePath": "/quiz/pop-art/pop-art-44473.jpg",
+          "artist": "",
+          "title": "pop-art-44473",
+          "style": "Pop_Art"
+        },
+        {
+          "fileName": "pop-art-72187.jpg",
+          "relativePath": "/quiz/pop-art/pop-art-72187.jpg",
+          "artist": "",
+          "title": "pop-art-72187",
+          "style": "Pop_Art"
+        },
+        {
+          "fileName": "pop-art-80795.jpg",
+          "relativePath": "/quiz/pop-art/pop-art-80795.jpg",
+          "artist": "",
+          "title": "pop-art-80795",
+          "style": "Pop_Art"
+        },
+        {
+          "fileName": "pop-art-69568.jpg",
+          "relativePath": "/quiz/pop-art/pop-art-69568.jpg",
+          "artist": "",
+          "title": "pop-art-69568",
+          "style": "Pop_Art"
+        },
+        {
+          "fileName": "pop-art-61707.jpg",
+          "relativePath": "/quiz/pop-art/pop-art-61707.jpg",
+          "artist": "",
+          "title": "pop-art-61707",
+          "style": "Pop_Art"
+        },
+        {
+          "fileName": "pop-art-37937.jpg",
+          "relativePath": "/quiz/pop-art/pop-art-37937.jpg",
+          "artist": "",
+          "title": "pop-art-37937",
+          "style": "Pop_Art"
+        },
+        {
+          "fileName": "pop-art-80721.jpg",
+          "relativePath": "/quiz/pop-art/pop-art-80721.jpg",
+          "artist": "",
+          "title": "pop-art-80721",
+          "style": "Pop_Art"
+        },
+        {
+          "fileName": "pop-art-80824.jpg",
+          "relativePath": "/quiz/pop-art/pop-art-80824.jpg",
+          "artist": "",
+          "title": "pop-art-80824",
+          "style": "Pop_Art"
+        },
+        {
+          "fileName": "pop-art-28248.jpg",
+          "relativePath": "/quiz/pop-art/pop-art-28248.jpg",
+          "artist": 52,
+          "title": "pop-art-28248",
+          "style": "Pop_Art"
+        },
+        {
+          "fileName": "pop-art-80715.jpg",
+          "relativePath": "/quiz/pop-art/pop-art-80715.jpg",
+          "artist": "",
+          "title": "pop-art-80715",
+          "style": "Pop_Art"
+        },
+        {
+          "fileName": "pop-art-47986.jpg",
+          "relativePath": "/quiz/pop-art/pop-art-47986.jpg",
+          "artist": "",
+          "title": "pop-art-47986",
+          "style": "Pop_Art"
+        },
+        {
+          "fileName": "pop-art-68380.jpg",
+          "relativePath": "/quiz/pop-art/pop-art-68380.jpg",
+          "artist": "",
+          "title": "pop-art-68380",
+          "style": "Pop_Art"
+        },
+        {
+          "fileName": "pop-art-80775.jpg",
+          "relativePath": "/quiz/pop-art/pop-art-80775.jpg",
+          "artist": "",
+          "title": "pop-art-80775",
+          "style": "Pop_Art"
+        },
+        {
+          "fileName": "pop-art-24427.jpg",
+          "relativePath": "/quiz/pop-art/pop-art-24427.jpg",
+          "artist": 52,
+          "title": "pop-art-24427",
+          "style": "Pop_Art"
+        }
+      ]
+    },
+    {
+      "id": "contemporary-realism",
+      "label": "Contemporary_Realism",
+      "slug": "contemporary-realism",
+      "images": [
+        {
+          "fileName": "contemporary-realism-45456.jpg",
+          "relativePath": "/quiz/contemporary-realism/contemporary-realism-45456.jpg",
+          "artist": "",
+          "title": "contemporary-realism-45456",
+          "style": "Contemporary_Realism"
+        },
+        {
+          "fileName": "contemporary-realism-25742.jpg",
+          "relativePath": "/quiz/contemporary-realism/contemporary-realism-25742.jpg",
+          "artist": "",
+          "title": "contemporary-realism-25742",
+          "style": "Contemporary_Realism"
+        },
+        {
+          "fileName": "contemporary-realism-53186.jpg",
+          "relativePath": "/quiz/contemporary-realism/contemporary-realism-53186.jpg",
+          "artist": "",
+          "title": "contemporary-realism-53186",
+          "style": "Contemporary_Realism"
+        },
+        {
+          "fileName": "contemporary-realism-24019.jpg",
+          "relativePath": "/quiz/contemporary-realism/contemporary-realism-24019.jpg",
+          "artist": "",
+          "title": "contemporary-realism-24019",
+          "style": "Contemporary_Realism"
+        },
+        {
+          "fileName": "contemporary-realism-23379.jpg",
+          "relativePath": "/quiz/contemporary-realism/contemporary-realism-23379.jpg",
+          "artist": "",
+          "title": "contemporary-realism-23379",
+          "style": "Contemporary_Realism"
+        },
+        {
+          "fileName": "contemporary-realism-27537.jpg",
+          "relativePath": "/quiz/contemporary-realism/contemporary-realism-27537.jpg",
+          "artist": "",
+          "title": "contemporary-realism-27537",
+          "style": "Contemporary_Realism"
+        },
+        {
+          "fileName": "contemporary-realism-39679.jpg",
+          "relativePath": "/quiz/contemporary-realism/contemporary-realism-39679.jpg",
+          "artist": "",
+          "title": "contemporary-realism-39679",
+          "style": "Contemporary_Realism"
+        },
+        {
+          "fileName": "contemporary-realism-73562.jpg",
+          "relativePath": "/quiz/contemporary-realism/contemporary-realism-73562.jpg",
+          "artist": "",
+          "title": "contemporary-realism-73562",
+          "style": "Contemporary_Realism"
+        },
+        {
+          "fileName": "contemporary-realism-57620.jpg",
+          "relativePath": "/quiz/contemporary-realism/contemporary-realism-57620.jpg",
+          "artist": "",
+          "title": "contemporary-realism-57620",
+          "style": "Contemporary_Realism"
+        },
+        {
+          "fileName": "contemporary-realism-60493.jpg",
+          "relativePath": "/quiz/contemporary-realism/contemporary-realism-60493.jpg",
+          "artist": "",
+          "title": "contemporary-realism-60493",
+          "style": "Contemporary_Realism"
+        },
+        {
+          "fileName": "contemporary-realism-68601.jpg",
+          "relativePath": "/quiz/contemporary-realism/contemporary-realism-68601.jpg",
+          "artist": "",
+          "title": "contemporary-realism-68601",
+          "style": "Contemporary_Realism"
+        },
+        {
+          "fileName": "contemporary-realism-33838.jpg",
+          "relativePath": "/quiz/contemporary-realism/contemporary-realism-33838.jpg",
+          "artist": "",
+          "title": "contemporary-realism-33838",
+          "style": "Contemporary_Realism"
+        },
+        {
+          "fileName": "contemporary-realism-22196.jpg",
+          "relativePath": "/quiz/contemporary-realism/contemporary-realism-22196.jpg",
+          "artist": "",
+          "title": "contemporary-realism-22196",
+          "style": "Contemporary_Realism"
+        },
+        {
+          "fileName": "contemporary-realism-61137.jpg",
+          "relativePath": "/quiz/contemporary-realism/contemporary-realism-61137.jpg",
+          "artist": "",
+          "title": "contemporary-realism-61137",
+          "style": "Contemporary_Realism"
+        },
+        {
+          "fileName": "contemporary-realism-53558.jpg",
+          "relativePath": "/quiz/contemporary-realism/contemporary-realism-53558.jpg",
+          "artist": "",
+          "title": "contemporary-realism-53558",
+          "style": "Contemporary_Realism"
+        },
+        {
+          "fileName": "contemporary-realism-45853.jpg",
+          "relativePath": "/quiz/contemporary-realism/contemporary-realism-45853.jpg",
+          "artist": "",
+          "title": "contemporary-realism-45853",
+          "style": "Contemporary_Realism"
+        },
+        {
+          "fileName": "contemporary-realism-60397.jpg",
+          "relativePath": "/quiz/contemporary-realism/contemporary-realism-60397.jpg",
+          "artist": "",
+          "title": "contemporary-realism-60397",
+          "style": "Contemporary_Realism"
+        },
+        {
+          "fileName": "contemporary-realism-71209.jpg",
+          "relativePath": "/quiz/contemporary-realism/contemporary-realism-71209.jpg",
+          "artist": "",
+          "title": "contemporary-realism-71209",
+          "style": "Contemporary_Realism"
+        },
+        {
+          "fileName": "contemporary-realism-29950.jpg",
+          "relativePath": "/quiz/contemporary-realism/contemporary-realism-29950.jpg",
+          "artist": "",
+          "title": "contemporary-realism-29950",
+          "style": "Contemporary_Realism"
+        },
+        {
+          "fileName": "contemporary-realism-27290.jpg",
+          "relativePath": "/quiz/contemporary-realism/contemporary-realism-27290.jpg",
+          "artist": "",
+          "title": "contemporary-realism-27290",
+          "style": "Contemporary_Realism"
+        }
+      ]
+    },
+    {
+      "id": "minimalism",
+      "label": "Minimalism",
+      "slug": "minimalism",
+      "images": [
+        {
+          "fileName": "minimalism-43038.jpg",
+          "relativePath": "/quiz/minimalism/minimalism-43038.jpg",
+          "artist": "",
+          "title": "minimalism-43038",
+          "style": "Minimalism"
+        },
+        {
+          "fileName": "minimalism-38029.jpg",
+          "relativePath": "/quiz/minimalism/minimalism-38029.jpg",
+          "artist": 68,
+          "title": "minimalism-38029",
+          "style": "Minimalism"
+        },
+        {
+          "fileName": "minimalism-69744.jpg",
+          "relativePath": "/quiz/minimalism/minimalism-69744.jpg",
+          "artist": "",
+          "title": "minimalism-69744",
+          "style": "Minimalism"
+        },
+        {
+          "fileName": "minimalism-81174.jpg",
+          "relativePath": "/quiz/minimalism/minimalism-81174.jpg",
+          "artist": "",
+          "title": "minimalism-81174",
+          "style": "Minimalism"
+        },
+        {
+          "fileName": "minimalism-29197.jpg",
+          "relativePath": "/quiz/minimalism/minimalism-29197.jpg",
+          "artist": "",
+          "title": "minimalism-29197",
+          "style": "Minimalism"
+        },
+        {
+          "fileName": "minimalism-67284.jpg",
+          "relativePath": "/quiz/minimalism/minimalism-67284.jpg",
+          "artist": "",
+          "title": "minimalism-67284",
+          "style": "Minimalism"
+        },
+        {
+          "fileName": "minimalism-49161.jpg",
+          "relativePath": "/quiz/minimalism/minimalism-49161.jpg",
+          "artist": "",
+          "title": "minimalism-49161",
+          "style": "Minimalism"
+        },
+        {
+          "fileName": "minimalism-19251.jpg",
+          "relativePath": "/quiz/minimalism/minimalism-19251.jpg",
+          "artist": "",
+          "title": "minimalism-19251",
+          "style": "Minimalism"
+        },
+        {
+          "fileName": "minimalism-35623.jpg",
+          "relativePath": "/quiz/minimalism/minimalism-35623.jpg",
+          "artist": "",
+          "title": "minimalism-35623",
+          "style": "Minimalism"
+        },
+        {
+          "fileName": "minimalism-39566.jpg",
+          "relativePath": "/quiz/minimalism/minimalism-39566.jpg",
+          "artist": "",
+          "title": "minimalism-39566",
+          "style": "Minimalism"
+        },
+        {
+          "fileName": "minimalism-66333.jpg",
+          "relativePath": "/quiz/minimalism/minimalism-66333.jpg",
+          "artist": "",
+          "title": "minimalism-66333",
+          "style": "Minimalism"
+        },
+        {
+          "fileName": "minimalism-66926.jpg",
+          "relativePath": "/quiz/minimalism/minimalism-66926.jpg",
+          "artist": "",
+          "title": "minimalism-66926",
+          "style": "Minimalism"
+        },
+        {
+          "fileName": "minimalism-69026.jpg",
+          "relativePath": "/quiz/minimalism/minimalism-69026.jpg",
+          "artist": "",
+          "title": "minimalism-69026",
+          "style": "Minimalism"
+        },
+        {
+          "fileName": "minimalism-47474.jpg",
+          "relativePath": "/quiz/minimalism/minimalism-47474.jpg",
+          "artist": "",
+          "title": "minimalism-47474",
+          "style": "Minimalism"
+        },
+        {
+          "fileName": "minimalism-48553.jpg",
+          "relativePath": "/quiz/minimalism/minimalism-48553.jpg",
+          "artist": "",
+          "title": "minimalism-48553",
+          "style": "Minimalism"
+        },
+        {
+          "fileName": "minimalism-52651.jpg",
+          "relativePath": "/quiz/minimalism/minimalism-52651.jpg",
+          "artist": "",
+          "title": "minimalism-52651",
+          "style": "Minimalism"
+        },
+        {
+          "fileName": "minimalism-66781.jpg",
+          "relativePath": "/quiz/minimalism/minimalism-66781.jpg",
+          "artist": "",
+          "title": "minimalism-66781",
+          "style": "Minimalism"
+        },
+        {
+          "fileName": "minimalism-77281.jpg",
+          "relativePath": "/quiz/minimalism/minimalism-77281.jpg",
+          "artist": "",
+          "title": "minimalism-77281",
+          "style": "Minimalism"
+        },
+        {
+          "fileName": "minimalism-67458.jpg",
+          "relativePath": "/quiz/minimalism/minimalism-67458.jpg",
+          "artist": "",
+          "title": "minimalism-67458",
+          "style": "Minimalism"
+        },
+        {
+          "fileName": "minimalism-67272.jpg",
+          "relativePath": "/quiz/minimalism/minimalism-67272.jpg",
+          "artist": "",
+          "title": "minimalism-67272",
+          "style": "Minimalism"
+        }
+      ]
+    },
+    {
+      "id": "action-painting",
+      "label": "Action_painting",
+      "slug": "action-painting",
+      "images": [
+        {
+          "fileName": "action-painting-37044.jpg",
+          "relativePath": "/quiz/action-painting/action-painting-37044.jpg",
+          "artist": "",
+          "title": "action-painting-37044",
+          "style": "Action_painting"
+        },
+        {
+          "fileName": "action-painting-20458.jpg",
+          "relativePath": "/quiz/action-painting/action-painting-20458.jpg",
+          "artist": "",
+          "title": "action-painting-20458",
+          "style": "Action_painting"
+        },
+        {
+          "fileName": "action-painting-37202.jpg",
+          "relativePath": "/quiz/action-painting/action-painting-37202.jpg",
+          "artist": "",
+          "title": "action-painting-37202",
+          "style": "Action_painting"
+        },
+        {
+          "fileName": "action-painting-67605.jpg",
+          "relativePath": "/quiz/action-painting/action-painting-67605.jpg",
+          "artist": "",
+          "title": "action-painting-67605",
+          "style": "Action_painting"
+        },
+        {
+          "fileName": "action-painting-28046.jpg",
+          "relativePath": "/quiz/action-painting/action-painting-28046.jpg",
+          "artist": "",
+          "title": "action-painting-28046",
+          "style": "Action_painting"
+        },
+        {
+          "fileName": "action-painting-30450.jpg",
+          "relativePath": "/quiz/action-painting/action-painting-30450.jpg",
+          "artist": "",
+          "title": "action-painting-30450",
+          "style": "Action_painting"
+        },
+        {
+          "fileName": "action-painting-34022.jpg",
+          "relativePath": "/quiz/action-painting/action-painting-34022.jpg",
+          "artist": "",
+          "title": "action-painting-34022",
+          "style": "Action_painting"
+        },
+        {
+          "fileName": "action-painting-40520.jpg",
+          "relativePath": "/quiz/action-painting/action-painting-40520.jpg",
+          "artist": "",
+          "title": "action-painting-40520",
+          "style": "Action_painting"
+        },
+        {
+          "fileName": "action-painting-21739.jpg",
+          "relativePath": "/quiz/action-painting/action-painting-21739.jpg",
+          "artist": "",
+          "title": "action-painting-21739",
+          "style": "Action_painting"
+        },
+        {
+          "fileName": "action-painting-40488.jpg",
+          "relativePath": "/quiz/action-painting/action-painting-40488.jpg",
+          "artist": "",
+          "title": "action-painting-40488",
+          "style": "Action_painting"
+        },
+        {
+          "fileName": "action-painting-45722.jpg",
+          "relativePath": "/quiz/action-painting/action-painting-45722.jpg",
+          "artist": "",
+          "title": "action-painting-45722",
+          "style": "Action_painting"
+        },
+        {
+          "fileName": "action-painting-67647.jpg",
+          "relativePath": "/quiz/action-painting/action-painting-67647.jpg",
+          "artist": "",
+          "title": "action-painting-67647",
+          "style": "Action_painting"
+        },
+        {
+          "fileName": "action-painting-66544.jpg",
+          "relativePath": "/quiz/action-painting/action-painting-66544.jpg",
+          "artist": "",
+          "title": "action-painting-66544",
+          "style": "Action_painting"
+        },
+        {
+          "fileName": "action-painting-22795.jpg",
+          "relativePath": "/quiz/action-painting/action-painting-22795.jpg",
+          "artist": "",
+          "title": "action-painting-22795",
+          "style": "Action_painting"
+        },
+        {
+          "fileName": "action-painting-66546.jpg",
+          "relativePath": "/quiz/action-painting/action-painting-66546.jpg",
+          "artist": "",
+          "title": "action-painting-66546",
+          "style": "Action_painting"
+        },
+        {
+          "fileName": "action-painting-67188.jpg",
+          "relativePath": "/quiz/action-painting/action-painting-67188.jpg",
+          "artist": "",
+          "title": "action-painting-67188",
+          "style": "Action_painting"
+        },
+        {
+          "fileName": "action-painting-66338.jpg",
+          "relativePath": "/quiz/action-painting/action-painting-66338.jpg",
+          "artist": "",
+          "title": "action-painting-66338",
+          "style": "Action_painting"
+        },
+        {
+          "fileName": "action-painting-66913.jpg",
+          "relativePath": "/quiz/action-painting/action-painting-66913.jpg",
+          "artist": "",
+          "title": "action-painting-66913",
+          "style": "Action_painting"
+        },
+        {
+          "fileName": "action-painting-41934.jpg",
+          "relativePath": "/quiz/action-painting/action-painting-41934.jpg",
+          "artist": "",
+          "title": "action-painting-41934",
+          "style": "Action_painting"
+        },
+        {
+          "fileName": "action-painting-24218.jpg",
+          "relativePath": "/quiz/action-painting/action-painting-24218.jpg",
+          "artist": "",
+          "title": "action-painting-24218",
+          "style": "Action_painting"
+        }
+      ]
+    }
+  ]
+}

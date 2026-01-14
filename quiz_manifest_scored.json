@@ -1,0 +1,3927 @@
+{
+  "styles": [
+    {
+      "name": "abstract-expressionism",
+      "images": [
+        {
+          "relativePath": "abstract-expressionism/abstract-expressionism-21919.jpg",
+          "embedding_index": 0,
+          "rep_score": 0.916593,
+          "disc_score": 0.479688,
+          "quiz_weight": 0.698141
+        },
+        {
+          "relativePath": "abstract-expressionism/abstract-expressionism-27909.jpg",
+          "embedding_index": 1,
+          "rep_score": 0.924478,
+          "disc_score": 0.482487,
+          "quiz_weight": 0.703483
+        },
+        {
+          "relativePath": "abstract-expressionism/abstract-expressionism-33807.jpg",
+          "embedding_index": 2,
+          "rep_score": 0.89162,
+          "disc_score": 0.500423,
+          "quiz_weight": 0.696021
+        },
+        {
+          "relativePath": "abstract-expressionism/abstract-expressionism-34741.jpg",
+          "embedding_index": 3,
+          "rep_score": 0.799946,
+          "disc_score": 0.56612,
+          "quiz_weight": 0.683033
+        },
+        {
+          "relativePath": "abstract-expressionism/abstract-expressionism-37465.jpg",
+          "embedding_index": 4,
+          "rep_score": 0.887753,
+          "disc_score": 0.506292,
+          "quiz_weight": 0.697023
+        },
+        {
+          "relativePath": "abstract-expressionism/abstract-expressionism-40987.jpg",
+          "embedding_index": 5,
+          "rep_score": 0.851838,
+          "disc_score": 0.526384,
+          "quiz_weight": 0.689111
+        },
+        {
+          "relativePath": "abstract-expressionism/abstract-expressionism-42594.jpg",
+          "embedding_index": 6,
+          "rep_score": 0.905959,
+          "disc_score": 0.464171,
+          "quiz_weight": 0.685065
+        },
+        {
+          "relativePath": "abstract-expressionism/abstract-expressionism-48571.jpg",
+          "embedding_index": 7,
+          "rep_score": 0.873007,
+          "disc_score": 0.584087,
+          "quiz_weight": 0.728547
+        },
+        {
+          "relativePath": "abstract-expressionism/abstract-expressionism-52051.jpg",
+          "embedding_index": 8,
+          "rep_score": 0.896871,
+          "disc_score": 0.461212,
+          "quiz_weight": 0.679041
+        },
+        {
+          "relativePath": "abstract-expressionism/abstract-expressionism-57257.jpg",
+          "embedding_index": 9,
+          "rep_score": 0.871375,
+          "disc_score": 0.456023,
+          "quiz_weight": 0.663699
+        },
+        {
+          "relativePath": "abstract-expressionism/abstract-expressionism-59346.jpg",
+          "embedding_index": 10,
+          "rep_score": 0.840593,
+          "disc_score": 0.486183,
+          "quiz_weight": 0.663388
+        },
+        {
+          "relativePath": "abstract-expressionism/abstract-expressionism-66771.jpg",
+          "embedding_index": 11,
+          "rep_score": 0.849761,
+          "disc_score": 0.63135,
+          "quiz_weight": 0.740556
+        },
+        {
+          "relativePath": "abstract-expressionism/abstract-expressionism-66855.jpg",
+          "embedding_index": 12,
+          "rep_score": 0.89877,
+          "disc_score": 0.562929,
+          "quiz_weight": 0.730849
+        },
+        {
+          "relativePath": "abstract-expressionism/abstract-expressionism-66863.jpg",
+          "embedding_index": 13,
+          "rep_score": 0.788348,
+          "disc_score": 0.565277,
+          "quiz_weight": 0.676813
+        },
+        {
+          "relativePath": "abstract-expressionism/abstract-expressionism-67189.jpg",
+          "embedding_index": 14,
+          "rep_score": 0.879008,
+          "disc_score": 0.607468,
+          "quiz_weight": 0.743238
+        },
+        {
+          "relativePath": "abstract-expressionism/abstract-expressionism-68129.jpg",
+          "embedding_index": 15,
+          "rep_score": 0.875519,
+          "disc_score": 0.537732,
+          "quiz_weight": 0.706625
+        },
+        {
+          "relativePath": "abstract-expressionism/abstract-expressionism-69660.jpg",
+          "embedding_index": 16,
+          "rep_score": 0.897942,
+          "disc_score": 0.499161,
+          "quiz_weight": 0.698551
+        },
+        {
+          "relativePath": "abstract-expressionism/abstract-expressionism-75420.jpg",
+          "embedding_index": 17,
+          "rep_score": 0.82424,
+          "disc_score": 0.584792,
+          "quiz_weight": 0.704516
+        },
+        {
+          "relativePath": "abstract-expressionism/abstract-expressionism-75868.jpg",
+          "embedding_index": 18,
+          "rep_score": 0.799903,
+          "disc_score": 0.535,
+          "quiz_weight": 0.667451
+        },
+        {
+          "relativePath": "abstract-expressionism/abstract-expressionism-80648.jpg",
+          "embedding_index": 19,
+          "rep_score": 0.870739,
+          "disc_score": 0.532871,
+          "quiz_weight": 0.701805
+        }
+      ]
+    },
+    {
+      "name": "action-painting",
+      "images": [
+        {
+          "relativePath": "action-painting/action-painting-20458.jpg",
+          "embedding_index": 20,
+          "rep_score": 0.92117,
+          "disc_score": 0.572884,
+          "quiz_weight": 0.747027
+        },
+        {
+          "relativePath": "action-painting/action-painting-21739.jpg",
+          "embedding_index": 21,
+          "rep_score": 0.938638,
+          "disc_score": 0.566873,
+          "quiz_weight": 0.752756
+        },
+        {
+          "relativePath": "action-painting/action-painting-22795.jpg",
+          "embedding_index": 22,
+          "rep_score": 0.924772,
+          "disc_score": 0.503327,
+          "quiz_weight": 0.71405
+        },
+        {
+          "relativePath": "action-painting/action-painting-24218.jpg",
+          "embedding_index": 23,
+          "rep_score": 0.904385,
+          "disc_score": 0.576526,
+          "quiz_weight": 0.740456
+        },
+        {
+          "relativePath": "action-painting/action-painting-28046.jpg",
+          "embedding_index": 24,
+          "rep_score": 0.915933,
+          "disc_score": 0.592404,
+          "quiz_weight": 0.754168
+        },
+        {
+          "relativePath": "action-painting/action-painting-30450.jpg",
+          "embedding_index": 25,
+          "rep_score": 0.931752,
+          "disc_score": 0.544972,
+          "quiz_weight": 0.738362
+        },
+        {
+          "relativePath": "action-painting/action-painting-34022.jpg",
+          "embedding_index": 26,
+          "rep_score": 0.930388,
+          "disc_score": 0.561795,
+          "quiz_weight": 0.746091
+        },
+        {
+          "relativePath": "action-painting/action-painting-37044.jpg",
+          "embedding_index": 27,
+          "rep_score": 0.901711,
+          "disc_score": 0.53897,
+          "quiz_weight": 0.720341
+        },
+        {
+          "relativePath": "action-painting/action-painting-37202.jpg",
+          "embedding_index": 28,
+          "rep_score": 0.913393,
+          "disc_score": 0.571268,
+          "quiz_weight": 0.74233
+        },
+        {
+          "relativePath": "action-painting/action-painting-40488.jpg",
+          "embedding_index": 29,
+          "rep_score": 0.920861,
+          "disc_score": 0.557267,
+          "quiz_weight": 0.739064
+        },
+        {
+          "relativePath": "action-painting/action-painting-40520.jpg",
+          "embedding_index": 30,
+          "rep_score": 0.917845,
+          "disc_score": 0.538128,
+          "quiz_weight": 0.727986
+        },
+        {
+          "relativePath": "action-painting/action-painting-41934.jpg",
+          "embedding_index": 31,
+          "rep_score": 0.908464,
+          "disc_score": 0.523363,
+          "quiz_weight": 0.715914
+        },
+        {
+          "relativePath": "action-painting/action-painting-45722.jpg",
+          "embedding_index": 32,
+          "rep_score": 0.931,
+          "disc_score": 0.574897,
+          "quiz_weight": 0.752948
+        },
+        {
+          "relativePath": "action-painting/action-painting-66338.jpg",
+          "embedding_index": 33,
+          "rep_score": 0.92655,
+          "disc_score": 0.590848,
+          "quiz_weight": 0.758699
+        },
+        {
+          "relativePath": "action-painting/action-painting-66544.jpg",
+          "embedding_index": 34,
+          "rep_score": 0.916607,
+          "disc_score": 0.535144,
+          "quiz_weight": 0.725875
+        },
+        {
+          "relativePath": "action-painting/action-painting-66546.jpg",
+          "embedding_index": 35,
+          "rep_score": 0.910232,
+          "disc_score": 0.587404,
+          "quiz_weight": 0.748818
+        },
+        {
+          "relativePath": "action-painting/action-painting-66913.jpg",
+          "embedding_index": 36,
+          "rep_score": 0.935742,
+          "disc_score": 0.571185,
+          "quiz_weight": 0.753463
+        },
+        {
+          "relativePath": "action-painting/action-painting-67188.jpg",
+          "embedding_index": 37,
+          "rep_score": 0.933025,
+          "disc_score": 0.590072,
+          "quiz_weight": 0.761548
+        },
+        {
+          "relativePath": "action-painting/action-painting-67605.jpg",
+          "embedding_index": 38,
+          "rep_score": 0.929174,
+          "disc_score": 0.582754,
+          "quiz_weight": 0.755964
+        },
+        {
+          "relativePath": "action-painting/action-painting-67647.jpg",
+          "embedding_index": 39,
+          "rep_score": 0.925672,
+          "disc_score": 0.574171,
+          "quiz_weight": 0.749922
+        }
+      ]
+    },
+    {
+      "name": "analytical-cubism",
+      "images": [
+        {
+          "relativePath": "analytical-cubism/analytical-cubism-12890.jpg",
+          "embedding_index": 40,
+          "rep_score": 0.938477,
+          "disc_score": 0.600365,
+          "quiz_weight": 0.769421
+        },
+        {
+          "relativePath": "analytical-cubism/analytical-cubism-18906.jpg",
+          "embedding_index": 41,
+          "rep_score": 0.957884,
+          "disc_score": 0.660599,
+          "quiz_weight": 0.809241
+        },
+        {
+          "relativePath": "analytical-cubism/analytical-cubism-2013.jpg",
+          "embedding_index": 42,
+          "rep_score": 0.966224,
+          "disc_score": 0.60735,
+          "quiz_weight": 0.786787
+        },
+        {
+          "relativePath": "analytical-cubism/analytical-cubism-22260.jpg",
+          "embedding_index": 43,
+          "rep_score": 0.923025,
+          "disc_score": 0.611278,
+          "quiz_weight": 0.767151
+        },
+        {
+          "relativePath": "analytical-cubism/analytical-cubism-25626.jpg",
+          "embedding_index": 44,
+          "rep_score": 0.910029,
+          "disc_score": 0.600989,
+          "quiz_weight": 0.755509
+        },
+        {
+          "relativePath": "analytical-cubism/analytical-cubism-315.jpg",
+          "embedding_index": 45,
+          "rep_score": 0.953822,
+          "disc_score": 0.561935,
+          "quiz_weight": 0.757879
+        },
+        {
+          "relativePath": "analytical-cubism/analytical-cubism-33366.jpg",
+          "embedding_index": 46,
+          "rep_score": 0.932775,
+          "disc_score": 0.63411,
+          "quiz_weight": 0.783443
+        },
+        {
+          "relativePath": "analytical-cubism/analytical-cubism-34943.jpg",
+          "embedding_index": 47,
+          "rep_score": 0.905014,
+          "disc_score": 0.522027,
+          "quiz_weight": 0.713521
+        },
+        {
+          "relativePath": "analytical-cubism/analytical-cubism-35695.jpg",
+          "embedding_index": 48,
+          "rep_score": 0.929421,
+          "disc_score": 0.6004,
+          "quiz_weight": 0.76491
+        },
+        {
+          "relativePath": "analytical-cubism/analytical-cubism-36692.jpg",
+          "embedding_index": 49,
+          "rep_score": 0.939672,
+          "disc_score": 0.603168,
+          "quiz_weight": 0.77142
+        },
+        {
+          "relativePath": "analytical-cubism/analytical-cubism-41905.jpg",
+          "embedding_index": 50,
+          "rep_score": 0.935657,
+          "disc_score": 0.609125,
+          "quiz_weight": 0.772391
+        },
+        {
+          "relativePath": "analytical-cubism/analytical-cubism-46224.jpg",
+          "embedding_index": 51,
+          "rep_score": 0.881149,
+          "disc_score": 0.455738,
+          "quiz_weight": 0.668443
+        },
+        {
+          "relativePath": "analytical-cubism/analytical-cubism-51388.jpg",
+          "embedding_index": 52,
+          "rep_score": 0.952867,
+          "disc_score": 0.541595,
+          "quiz_weight": 0.747231
+        },
+        {
+          "relativePath": "analytical-cubism/analytical-cubism-51605.jpg",
+          "embedding_index": 53,
+          "rep_score": 0.942492,
+          "disc_score": 0.550399,
+          "quiz_weight": 0.746445
+        },
+        {
+          "relativePath": "analytical-cubism/analytical-cubism-58902.jpg",
+          "embedding_index": 54,
+          "rep_score": 0.920645,
+          "disc_score": 0.546026,
+          "quiz_weight": 0.733336
+        },
+        {
+          "relativePath": "analytical-cubism/analytical-cubism-61413.jpg",
+          "embedding_index": 55,
+          "rep_score": 0.956086,
+          "disc_score": 0.519095,
+          "quiz_weight": 0.73759
+        },
+        {
+          "relativePath": "analytical-cubism/analytical-cubism-61777.jpg",
+          "embedding_index": 56,
+          "rep_score": 0.960848,
+          "disc_score": 0.634399,
+          "quiz_weight": 0.797623
+        },
+        {
+          "relativePath": "analytical-cubism/analytical-cubism-61780.jpg",
+          "embedding_index": 57,
+          "rep_score": 0.945021,
+          "disc_score": 0.507182,
+          "quiz_weight": 0.726101
+        },
+        {
+          "relativePath": "analytical-cubism/analytical-cubism-7160.jpg",
+          "embedding_index": 58,
+          "rep_score": 0.926094,
+          "disc_score": 0.575061,
+          "quiz_weight": 0.750578
+        },
+        {
+          "relativePath": "analytical-cubism/analytical-cubism-8365.jpg",
+          "embedding_index": 59,
+          "rep_score": 0.908408,
+          "disc_score": 0.562817,
+          "quiz_weight": 0.735612
+        }
+      ]
+    },
+    {
+      "name": "art-nouveau",
+      "images": [
+        {
+          "relativePath": "art-nouveau/art-nouveau-12707.jpg",
+          "embedding_index": 60,
+          "rep_score": 0.848946,
+          "disc_score": 0.631309,
+          "quiz_weight": 0.740128
+        },
+        {
+          "relativePath": "art-nouveau/art-nouveau-15326.jpg",
+          "embedding_index": 61,
+          "rep_score": 0.822445,
+          "disc_score": 0.715532,
+          "quiz_weight": 0.768989
+        },
+        {
+          "relativePath": "art-nouveau/art-nouveau-16362.jpg",
+          "embedding_index": 62,
+          "rep_score": 0.836653,
+          "disc_score": 0.527295,
+          "quiz_weight": 0.681974
+        },
+        {
+          "relativePath": "art-nouveau/art-nouveau-36414.jpg",
+          "embedding_index": 63,
+          "rep_score": 0.808274,
+          "disc_score": 0.447131,
+          "quiz_weight": 0.627702
+        },
+        {
+          "relativePath": "art-nouveau/art-nouveau-40153.jpg",
+          "embedding_index": 64,
+          "rep_score": 0.874606,
+          "disc_score": 0.503152,
+          "quiz_weight": 0.688879
+        },
+        {
+          "relativePath": "art-nouveau/art-nouveau-4021.jpg",
+          "embedding_index": 65,
+          "rep_score": 0.833051,
+          "disc_score": 0.597662,
+          "quiz_weight": 0.715356
+        },
+        {
+          "relativePath": "art-nouveau/art-nouveau-40998.jpg",
+          "embedding_index": 66,
+          "rep_score": 0.857705,
+          "disc_score": 0.517131,
+          "quiz_weight": 0.687418
+        },
+        {
+          "relativePath": "art-nouveau/art-nouveau-47549.jpg",
+          "embedding_index": 67,
+          "rep_score": 0.826903,
+          "disc_score": 0.376485,
+          "quiz_weight": 0.601694
+        },
+        {
+          "relativePath": "art-nouveau/art-nouveau-55061.jpg",
+          "embedding_index": 68,
+          "rep_score": 0.84282,
+          "disc_score": 0.528508,
+          "quiz_weight": 0.685664
+        },
+        {
+          "relativePath": "art-nouveau/art-nouveau-58182.jpg",
+          "embedding_index": 69,
+          "rep_score": 0.826319,
+          "disc_score": 0.63798,
+          "quiz_weight": 0.73215
+        },
+        {
+          "relativePath": "art-nouveau/art-nouveau-5891.jpg",
+          "embedding_index": 70,
+          "rep_score": 0.849723,
+          "disc_score": 0.658328,
+          "quiz_weight": 0.754025
+        },
+        {
+          "relativePath": "art-nouveau/art-nouveau-6784.jpg",
+          "embedding_index": 71,
+          "rep_score": 0.794298,
+          "disc_score": 0.340349,
+          "quiz_weight": 0.567324
+        },
+        {
+          "relativePath": "art-nouveau/art-nouveau-67864.jpg",
+          "embedding_index": 72,
+          "rep_score": 0.867391,
+          "disc_score": 0.437409,
+          "quiz_weight": 0.6524
+        },
+        {
+          "relativePath": "art-nouveau/art-nouveau-69813.jpg",
+          "embedding_index": 73,
+          "rep_score": 0.835848,
+          "disc_score": 0.643114,
+          "quiz_weight": 0.739481
+        },
+        {
+          "relativePath": "art-nouveau/art-nouveau-70944.jpg",
+          "embedding_index": 74,
+          "rep_score": 0.722214,
+          "disc_score": 0.602746,
+          "quiz_weight": 0.66248
+        },
+        {
+          "relativePath": "art-nouveau/art-nouveau-7168.jpg",
+          "embedding_index": 75,
+          "rep_score": 0.859857,
+          "disc_score": 0.613537,
+          "quiz_weight": 0.736697
+        },
+        {
+          "relativePath": "art-nouveau/art-nouveau-71713.jpg",
+          "embedding_index": 76,
+          "rep_score": 0.809704,
+          "disc_score": 0.474986,
+          "quiz_weight": 0.642345
+        },
+        {
+          "relativePath": "art-nouveau/art-nouveau-75870.jpg",
+          "embedding_index": 77,
+          "rep_score": 0.87061,
+          "disc_score": 0.604867,
+          "quiz_weight": 0.737738
+        },
+        {
+          "relativePath": "art-nouveau/art-nouveau-77755.jpg",
+          "embedding_index": 78,
+          "rep_score": 0.822963,
+          "disc_score": 0.653297,
+          "quiz_weight": 0.73813
+        },
+        {
+          "relativePath": "art-nouveau/art-nouveau-77862.jpg",
+          "embedding_index": 79,
+          "rep_score": 0.8694,
+          "disc_score": 0.555032,
+          "quiz_weight": 0.712216
+        }
+      ]
+    },
+    {
+      "name": "baroque",
+      "images": [
+        {
+          "relativePath": "baroque/baroque-17575.jpg",
+          "embedding_index": 80,
+          "rep_score": 0.841998,
+          "disc_score": 0.537998,
+          "quiz_weight": 0.689998
+        },
+        {
+          "relativePath": "baroque/baroque-17627.jpg",
+          "embedding_index": 81,
+          "rep_score": 0.865494,
+          "disc_score": 0.527507,
+          "quiz_weight": 0.696501
+        },
+        {
+          "relativePath": "baroque/baroque-21610.jpg",
+          "embedding_index": 82,
+          "rep_score": 0.887541,
+          "disc_score": 0.517274,
+          "quiz_weight": 0.702407
+        },
+        {
+          "relativePath": "baroque/baroque-24020.jpg",
+          "embedding_index": 83,
+          "rep_score": 0.881315,
+          "disc_score": 0.586553,
+          "quiz_weight": 0.733934
+        },
+        {
+          "relativePath": "baroque/baroque-31716.jpg",
+          "embedding_index": 84,
+          "rep_score": 0.906912,
+          "disc_score": 0.509977,
+          "quiz_weight": 0.708445
+        },
+        {
+          "relativePath": "baroque/baroque-37923.jpg",
+          "embedding_index": 85,
+          "rep_score": 0.870759,
+          "disc_score": 0.385186,
+          "quiz_weight": 0.627973
+        },
+        {
+          "relativePath": "baroque/baroque-38105.jpg",
+          "embedding_index": 86,
+          "rep_score": 0.849656,
+          "disc_score": 0.395798,
+          "quiz_weight": 0.622727
+        },
+        {
+          "relativePath": "baroque/baroque-43030.jpg",
+          "embedding_index": 87,
+          "rep_score": 0.864257,
+          "disc_score": 0.458727,
+          "quiz_weight": 0.661492
+        },
+        {
+          "relativePath": "baroque/baroque-47763.jpg",
+          "embedding_index": 88,
+          "rep_score": 0.85583,
+          "disc_score": 0.501783,
+          "quiz_weight": 0.678807
+        },
+        {
+          "relativePath": "baroque/baroque-54650.jpg",
+          "embedding_index": 89,
+          "rep_score": 0.882192,
+          "disc_score": 0.562678,
+          "quiz_weight": 0.722435
+        },
+        {
+          "relativePath": "baroque/baroque-54737.jpg",
+          "embedding_index": 90,
+          "rep_score": 0.875208,
+          "disc_score": 0.660711,
+          "quiz_weight": 0.76796
+        },
+        {
+          "relativePath": "baroque/baroque-55018.jpg",
+          "embedding_index": 91,
+          "rep_score": 0.868054,
+          "disc_score": 0.625282,
+          "quiz_weight": 0.746668
+        },
+        {
+          "relativePath": "baroque/baroque-63539.jpg",
+          "embedding_index": 92,
+          "rep_score": 0.840358,
+          "disc_score": 0.551209,
+          "quiz_weight": 0.695784
+        },
+        {
+          "relativePath": "baroque/baroque-68214.jpg",
+          "embedding_index": 93,
+          "rep_score": 0.869581,
+          "disc_score": 0.614179,
+          "quiz_weight": 0.74188
+        },
+        {
+          "relativePath": "baroque/baroque-71644.jpg",
+          "embedding_index": 94,
+          "rep_score": 0.86406,
+          "disc_score": 0.562401,
+          "quiz_weight": 0.713231
+        },
+        {
+          "relativePath": "baroque/baroque-73453.jpg",
+          "embedding_index": 95,
+          "rep_score": 0.879586,
+          "disc_score": 0.561386,
+          "quiz_weight": 0.720486
+        },
+        {
+          "relativePath": "baroque/baroque-76191.jpg",
+          "embedding_index": 96,
+          "rep_score": 0.852146,
+          "disc_score": 0.480282,
+          "quiz_weight": 0.666214
+        },
+        {
+          "relativePath": "baroque/baroque-78575.jpg",
+          "embedding_index": 97,
+          "rep_score": 0.859403,
+          "disc_score": 0.637962,
+          "quiz_weight": 0.748682
+        },
+        {
+          "relativePath": "baroque/baroque-78617.jpg",
+          "embedding_index": 98,
+          "rep_score": 0.880753,
+          "disc_score": 0.543714,
+          "quiz_weight": 0.712234
+        },
+        {
+          "relativePath": "baroque/baroque-9322.jpg",
+          "embedding_index": 99,
+          "rep_score": 0.895288,
+          "disc_score": 0.509659,
+          "quiz_weight": 0.702473
+        }
+      ]
+    },
+    {
+      "name": "color-field-painting",
+      "images": [
+        {
+          "relativePath": "color-field-painting/color-field-painting-20441.jpg",
+          "embedding_index": 100,
+          "rep_score": 0.867242,
+          "disc_score": 0.449107,
+          "quiz_weight": 0.658175
+        },
+        {
+          "relativePath": "color-field-painting/color-field-painting-22707.jpg",
+          "embedding_index": 101,
+          "rep_score": 0.895434,
+          "disc_score": 0.560884,
+          "quiz_weight": 0.728159
+        },
+        {
+          "relativePath": "color-field-painting/color-field-painting-22986.jpg",
+          "embedding_index": 102,
+          "rep_score": 0.877073,
+          "disc_score": 0.652764,
+          "quiz_weight": 0.764919
+        },
+        {
+          "relativePath": "color-field-painting/color-field-painting-23743.jpg",
+          "embedding_index": 103,
+          "rep_score": 0.920093,
+          "disc_score": 0.58615,
+          "quiz_weight": 0.753121
+        },
+        {
+          "relativePath": "color-field-painting/color-field-painting-24621.jpg",
+          "embedding_index": 104,
+          "rep_score": 0.87822,
+          "disc_score": 0.499693,
+          "quiz_weight": 0.688956
+        },
+        {
+          "relativePath": "color-field-painting/color-field-painting-28404.jpg",
+          "embedding_index": 105,
+          "rep_score": 0.876275,
+          "disc_score": 0.62012,
+          "quiz_weight": 0.748198
+        },
+        {
+          "relativePath": "color-field-painting/color-field-painting-37052.jpg",
+          "embedding_index": 106,
+          "rep_score": 0.843145,
+          "disc_score": 0.478346,
+          "quiz_weight": 0.660746
+        },
+        {
+          "relativePath": "color-field-painting/color-field-painting-37912.jpg",
+          "embedding_index": 107,
+          "rep_score": 0.932284,
+          "disc_score": 0.62598,
+          "quiz_weight": 0.779132
+        },
+        {
+          "relativePath": "color-field-painting/color-field-painting-39720.jpg",
+          "embedding_index": 108,
+          "rep_score": 0.915787,
+          "disc_score": 0.611078,
+          "quiz_weight": 0.763432
+        },
+        {
+          "relativePath": "color-field-painting/color-field-painting-40160.jpg",
+          "embedding_index": 109,
+          "rep_score": 0.866282,
+          "disc_score": 0.654172,
+          "quiz_weight": 0.760227
+        },
+        {
+          "relativePath": "color-field-painting/color-field-painting-40783.jpg",
+          "embedding_index": 110,
+          "rep_score": 0.933065,
+          "disc_score": 0.69452,
+          "quiz_weight": 0.813793
+        },
+        {
+          "relativePath": "color-field-painting/color-field-painting-44927.jpg",
+          "embedding_index": 111,
+          "rep_score": 0.834177,
+          "disc_score": 0.532951,
+          "quiz_weight": 0.683564
+        },
+        {
+          "relativePath": "color-field-painting/color-field-painting-50648.jpg",
+          "embedding_index": 112,
+          "rep_score": 0.889511,
+          "disc_score": 0.551988,
+          "quiz_weight": 0.72075
+        },
+        {
+          "relativePath": "color-field-painting/color-field-painting-50673.jpg",
+          "embedding_index": 113,
+          "rep_score": 0.860843,
+          "disc_score": 0.570937,
+          "quiz_weight": 0.71589
+        },
+        {
+          "relativePath": "color-field-painting/color-field-painting-51698.jpg",
+          "embedding_index": 114,
+          "rep_score": 0.872466,
+          "disc_score": 0.65008,
+          "quiz_weight": 0.761273
+        },
+        {
+          "relativePath": "color-field-painting/color-field-painting-66557.jpg",
+          "embedding_index": 115,
+          "rep_score": 0.931773,
+          "disc_score": 0.676449,
+          "quiz_weight": 0.804111
+        },
+        {
+          "relativePath": "color-field-painting/color-field-painting-66608.jpg",
+          "embedding_index": 116,
+          "rep_score": 0.869848,
+          "disc_score": 0.377668,
+          "quiz_weight": 0.623758
+        },
+        {
+          "relativePath": "color-field-painting/color-field-painting-66758.jpg",
+          "embedding_index": 117,
+          "rep_score": 0.925362,
+          "disc_score": 0.6248,
+          "quiz_weight": 0.775081
+        },
+        {
+          "relativePath": "color-field-painting/color-field-painting-66768.jpg",
+          "embedding_index": 118,
+          "rep_score": 0.850235,
+          "disc_score": 0.654533,
+          "quiz_weight": 0.752384
+        },
+        {
+          "relativePath": "color-field-painting/color-field-painting-67098.jpg",
+          "embedding_index": 119,
+          "rep_score": 0.887263,
+          "disc_score": 0.503127,
+          "quiz_weight": 0.695195
+        }
+      ]
+    },
+    {
+      "name": "contemporary-realism",
+      "images": [
+        {
+          "relativePath": "contemporary-realism/contemporary-realism-22196.jpg",
+          "embedding_index": 120,
+          "rep_score": 0.835587,
+          "disc_score": 0.529685,
+          "quiz_weight": 0.682636
+        },
+        {
+          "relativePath": "contemporary-realism/contemporary-realism-23379.jpg",
+          "embedding_index": 121,
+          "rep_score": 0.843723,
+          "disc_score": 0.42032,
+          "quiz_weight": 0.632022
+        },
+        {
+          "relativePath": "contemporary-realism/contemporary-realism-24019.jpg",
+          "embedding_index": 122,
+          "rep_score": 0.845287,
+          "disc_score": 0.748405,
+          "quiz_weight": 0.796846
+        },
+        {
+          "relativePath": "contemporary-realism/contemporary-realism-25742.jpg",
+          "embedding_index": 123,
+          "rep_score": 0.842496,
+          "disc_score": 0.697493,
+          "quiz_weight": 0.769994
+        },
+        {
+          "relativePath": "contemporary-realism/contemporary-realism-27290.jpg",
+          "embedding_index": 124,
+          "rep_score": 0.794557,
+          "disc_score": 0.467626,
+          "quiz_weight": 0.631092
+        },
+        {
+          "relativePath": "contemporary-realism/contemporary-realism-27537.jpg",
+          "embedding_index": 125,
+          "rep_score": 0.845904,
+          "disc_score": 0.532877,
+          "quiz_weight": 0.689391
+        },
+        {
+          "relativePath": "contemporary-realism/contemporary-realism-29950.jpg",
+          "embedding_index": 126,
+          "rep_score": 0.872898,
+          "disc_score": 0.807665,
+          "quiz_weight": 0.840282
+        },
+        {
+          "relativePath": "contemporary-realism/contemporary-realism-33838.jpg",
+          "embedding_index": 127,
+          "rep_score": 0.849943,
+          "disc_score": 0.749483,
+          "quiz_weight": 0.799713
+        },
+        {
+          "relativePath": "contemporary-realism/contemporary-realism-39679.jpg",
+          "embedding_index": 128,
+          "rep_score": 0.846186,
+          "disc_score": 0.580903,
+          "quiz_weight": 0.713544
+        },
+        {
+          "relativePath": "contemporary-realism/contemporary-realism-45456.jpg",
+          "embedding_index": 129,
+          "rep_score": 0.834247,
+          "disc_score": 0.566996,
+          "quiz_weight": 0.700622
+        },
+        {
+          "relativePath": "contemporary-realism/contemporary-realism-45853.jpg",
+          "embedding_index": 130,
+          "rep_score": 0.83036,
+          "disc_score": 0.514198,
+          "quiz_weight": 0.672279
+        },
+        {
+          "relativePath": "contemporary-realism/contemporary-realism-53186.jpg",
+          "embedding_index": 131,
+          "rep_score": 0.83956,
+          "disc_score": 0.586268,
+          "quiz_weight": 0.712914
+        },
+        {
+          "relativePath": "contemporary-realism/contemporary-realism-53558.jpg",
+          "embedding_index": 132,
+          "rep_score": 0.857425,
+          "disc_score": 0.639741,
+          "quiz_weight": 0.748583
+        },
+        {
+          "relativePath": "contemporary-realism/contemporary-realism-57620.jpg",
+          "embedding_index": 133,
+          "rep_score": 0.777675,
+          "disc_score": 0.456492,
+          "quiz_weight": 0.617083
+        },
+        {
+          "relativePath": "contemporary-realism/contemporary-realism-60397.jpg",
+          "embedding_index": 134,
+          "rep_score": 0.861515,
+          "disc_score": 0.553681,
+          "quiz_weight": 0.707598
+        },
+        {
+          "relativePath": "contemporary-realism/contemporary-realism-60493.jpg",
+          "embedding_index": 135,
+          "rep_score": 0.860719,
+          "disc_score": 0.637386,
+          "quiz_weight": 0.749053
+        },
+        {
+          "relativePath": "contemporary-realism/contemporary-realism-61137.jpg",
+          "embedding_index": 136,
+          "rep_score": 0.866119,
+          "disc_score": 0.71355,
+          "quiz_weight": 0.789834
+        },
+        {
+          "relativePath": "contemporary-realism/contemporary-realism-68601.jpg",
+          "embedding_index": 137,
+          "rep_score": 0.883256,
+          "disc_score": 0.634096,
+          "quiz_weight": 0.758676
+        },
+        {
+          "relativePath": "contemporary-realism/contemporary-realism-71209.jpg",
+          "embedding_index": 138,
+          "rep_score": 0.855776,
+          "disc_score": 0.45664,
+          "quiz_weight": 0.656208
+        },
+        {
+          "relativePath": "contemporary-realism/contemporary-realism-73562.jpg",
+          "embedding_index": 139,
+          "rep_score": 0.846969,
+          "disc_score": 0.529391,
+          "quiz_weight": 0.68818
+        }
+      ]
+    },
+    {
+      "name": "cubism",
+      "images": [
+        {
+          "relativePath": "cubism/cubism-11960.jpg",
+          "embedding_index": 140,
+          "rep_score": 0.851576,
+          "disc_score": 0.525962,
+          "quiz_weight": 0.688769
+        },
+        {
+          "relativePath": "cubism/cubism-16982.jpg",
+          "embedding_index": 141,
+          "rep_score": 0.858438,
+          "disc_score": 0.604329,
+          "quiz_weight": 0.731383
+        },
+        {
+          "relativePath": "cubism/cubism-17052.jpg",
+          "embedding_index": 142,
+          "rep_score": 0.806364,
+          "disc_score": 0.254178,
+          "quiz_weight": 0.530271
+        },
+        {
+          "relativePath": "cubism/cubism-18749.jpg",
+          "embedding_index": 143,
+          "rep_score": 0.912104,
+          "disc_score": 0.554012,
+          "quiz_weight": 0.733058
+        },
+        {
+          "relativePath": "cubism/cubism-18945.jpg",
+          "embedding_index": 144,
+          "rep_score": 0.935253,
+          "disc_score": 0.521351,
+          "quiz_weight": 0.728302
+        },
+        {
+          "relativePath": "cubism/cubism-20932.jpg",
+          "embedding_index": 145,
+          "rep_score": 0.895306,
+          "disc_score": 0.433487,
+          "quiz_weight": 0.664396
+        },
+        {
+          "relativePath": "cubism/cubism-2429.jpg",
+          "embedding_index": 146,
+          "rep_score": 0.939979,
+          "disc_score": 0.60587,
+          "quiz_weight": 0.772925
+        },
+        {
+          "relativePath": "cubism/cubism-27987.jpg",
+          "embedding_index": 147,
+          "rep_score": 0.760808,
+          "disc_score": 0.173625,
+          "quiz_weight": 0.467217
+        },
+        {
+          "relativePath": "cubism/cubism-29618.jpg",
+          "embedding_index": 148,
+          "rep_score": 0.894063,
+          "disc_score": 0.525346,
+          "quiz_weight": 0.709704
+        },
+        {
+          "relativePath": "cubism/cubism-50326.jpg",
+          "embedding_index": 149,
+          "rep_score": 0.881485,
+          "disc_score": 0.547337,
+          "quiz_weight": 0.714411
+        },
+        {
+          "relativePath": "cubism/cubism-55326.jpg",
+          "embedding_index": 150,
+          "rep_score": 0.855515,
+          "disc_score": 0.510546,
+          "quiz_weight": 0.68303
+        },
+        {
+          "relativePath": "cubism/cubism-57579.jpg",
+          "embedding_index": 151,
+          "rep_score": 0.849083,
+          "disc_score": 0.504284,
+          "quiz_weight": 0.676684
+        },
+        {
+          "relativePath": "cubism/cubism-61514.jpg",
+          "embedding_index": 152,
+          "rep_score": 0.922286,
+          "disc_score": 0.508805,
+          "quiz_weight": 0.715545
+        },
+        {
+          "relativePath": "cubism/cubism-61521.jpg",
+          "embedding_index": 153,
+          "rep_score": 0.873905,
+          "disc_score": 0.533861,
+          "quiz_weight": 0.703883
+        },
+        {
+          "relativePath": "cubism/cubism-61691.jpg",
+          "embedding_index": 154,
+          "rep_score": 0.926015,
+          "disc_score": 0.426796,
+          "quiz_weight": 0.676406
+        },
+        {
+          "relativePath": "cubism/cubism-70337.jpg",
+          "embedding_index": 155,
+          "rep_score": 0.906956,
+          "disc_score": 0.605046,
+          "quiz_weight": 0.756001
+        },
+        {
+          "relativePath": "cubism/cubism-7432.jpg",
+          "embedding_index": 156,
+          "rep_score": 0.911554,
+          "disc_score": 0.556558,
+          "quiz_weight": 0.734056
+        },
+        {
+          "relativePath": "cubism/cubism-74602.jpg",
+          "embedding_index": 157,
+          "rep_score": 0.853344,
+          "disc_score": 0.485633,
+          "quiz_weight": 0.669488
+        },
+        {
+          "relativePath": "cubism/cubism-75327.jpg",
+          "embedding_index": 158,
+          "rep_score": 0.799577,
+          "disc_score": 0.400034,
+          "quiz_weight": 0.599805
+        },
+        {
+          "relativePath": "cubism/cubism-80958.jpg",
+          "embedding_index": 159,
+          "rep_score": 0.936467,
+          "disc_score": 0.570916,
+          "quiz_weight": 0.753691
+        }
+      ]
+    },
+    {
+      "name": "early-renaissance",
+      "images": [
+        {
+          "relativePath": "early-renaissance/early-renaissance-19413.jpg",
+          "embedding_index": 160,
+          "rep_score": 0.911808,
+          "disc_score": 0.597677,
+          "quiz_weight": 0.754742
+        },
+        {
+          "relativePath": "early-renaissance/early-renaissance-25963.jpg",
+          "embedding_index": 161,
+          "rep_score": 0.867321,
+          "disc_score": 0.592683,
+          "quiz_weight": 0.730002
+        },
+        {
+          "relativePath": "early-renaissance/early-renaissance-26144.jpg",
+          "embedding_index": 162,
+          "rep_score": 0.894598,
+          "disc_score": 0.625519,
+          "quiz_weight": 0.760059
+        },
+        {
+          "relativePath": "early-renaissance/early-renaissance-29660.jpg",
+          "embedding_index": 163,
+          "rep_score": 0.79183,
+          "disc_score": 0.331743,
+          "quiz_weight": 0.561787
+        },
+        {
+          "relativePath": "early-renaissance/early-renaissance-29916.jpg",
+          "embedding_index": 164,
+          "rep_score": 0.862125,
+          "disc_score": 0.544654,
+          "quiz_weight": 0.70339
+        },
+        {
+          "relativePath": "early-renaissance/early-renaissance-30452.jpg",
+          "embedding_index": 165,
+          "rep_score": 0.897388,
+          "disc_score": 0.598409,
+          "quiz_weight": 0.747899
+        },
+        {
+          "relativePath": "early-renaissance/early-renaissance-32563.jpg",
+          "embedding_index": 166,
+          "rep_score": 0.849676,
+          "disc_score": 0.515684,
+          "quiz_weight": 0.68268
+        },
+        {
+          "relativePath": "early-renaissance/early-renaissance-34080.jpg",
+          "embedding_index": 167,
+          "rep_score": 0.871156,
+          "disc_score": 0.593579,
+          "quiz_weight": 0.732367
+        },
+        {
+          "relativePath": "early-renaissance/early-renaissance-35073.jpg",
+          "embedding_index": 168,
+          "rep_score": 0.890757,
+          "disc_score": 0.619179,
+          "quiz_weight": 0.754968
+        },
+        {
+          "relativePath": "early-renaissance/early-renaissance-36982.jpg",
+          "embedding_index": 169,
+          "rep_score": 0.893516,
+          "disc_score": 0.639522,
+          "quiz_weight": 0.766519
+        },
+        {
+          "relativePath": "early-renaissance/early-renaissance-37190.jpg",
+          "embedding_index": 170,
+          "rep_score": 0.881817,
+          "disc_score": 0.568824,
+          "quiz_weight": 0.725321
+        },
+        {
+          "relativePath": "early-renaissance/early-renaissance-40617.jpg",
+          "embedding_index": 171,
+          "rep_score": 0.893054,
+          "disc_score": 0.622892,
+          "quiz_weight": 0.757973
+        },
+        {
+          "relativePath": "early-renaissance/early-renaissance-42889.jpg",
+          "embedding_index": 172,
+          "rep_score": 0.917527,
+          "disc_score": 0.543078,
+          "quiz_weight": 0.730303
+        },
+        {
+          "relativePath": "early-renaissance/early-renaissance-52078.jpg",
+          "embedding_index": 173,
+          "rep_score": 0.861429,
+          "disc_score": 0.536786,
+          "quiz_weight": 0.699107
+        },
+        {
+          "relativePath": "early-renaissance/early-renaissance-55624.jpg",
+          "embedding_index": 174,
+          "rep_score": 0.902041,
+          "disc_score": 0.55279,
+          "quiz_weight": 0.727415
+        },
+        {
+          "relativePath": "early-renaissance/early-renaissance-55680.jpg",
+          "embedding_index": 175,
+          "rep_score": 0.893509,
+          "disc_score": 0.588752,
+          "quiz_weight": 0.741131
+        },
+        {
+          "relativePath": "early-renaissance/early-renaissance-55881.jpg",
+          "embedding_index": 176,
+          "rep_score": 0.885023,
+          "disc_score": 0.652927,
+          "quiz_weight": 0.768975
+        },
+        {
+          "relativePath": "early-renaissance/early-renaissance-56037.jpg",
+          "embedding_index": 177,
+          "rep_score": 0.897269,
+          "disc_score": 0.599241,
+          "quiz_weight": 0.748255
+        },
+        {
+          "relativePath": "early-renaissance/early-renaissance-56780.jpg",
+          "embedding_index": 178,
+          "rep_score": 0.872664,
+          "disc_score": 0.556094,
+          "quiz_weight": 0.714379
+        },
+        {
+          "relativePath": "early-renaissance/early-renaissance-56798.jpg",
+          "embedding_index": 179,
+          "rep_score": 0.913106,
+          "disc_score": 0.636141,
+          "quiz_weight": 0.774624
+        }
+      ]
+    },
+    {
+      "name": "expressionism",
+      "images": [
+        {
+          "relativePath": "expressionism/expressionism-18877.jpg",
+          "embedding_index": 180,
+          "rep_score": 0.892769,
+          "disc_score": 0.617313,
+          "quiz_weight": 0.755041
+        },
+        {
+          "relativePath": "expressionism/expressionism-22554.jpg",
+          "embedding_index": 181,
+          "rep_score": 0.902069,
+          "disc_score": 0.649043,
+          "quiz_weight": 0.775556
+        },
+        {
+          "relativePath": "expressionism/expressionism-22751.jpg",
+          "embedding_index": 182,
+          "rep_score": 0.889153,
+          "disc_score": 0.650472,
+          "quiz_weight": 0.769813
+        },
+        {
+          "relativePath": "expressionism/expressionism-32864.jpg",
+          "embedding_index": 183,
+          "rep_score": 0.873655,
+          "disc_score": 0.672278,
+          "quiz_weight": 0.772966
+        },
+        {
+          "relativePath": "expressionism/expressionism-33237.jpg",
+          "embedding_index": 184,
+          "rep_score": 0.849658,
+          "disc_score": 0.472887,
+          "quiz_weight": 0.661272
+        },
+        {
+          "relativePath": "expressionism/expressionism-38253.jpg",
+          "embedding_index": 185,
+          "rep_score": 0.867336,
+          "disc_score": 0.51428,
+          "quiz_weight": 0.690808
+        },
+        {
+          "relativePath": "expressionism/expressionism-49303.jpg",
+          "embedding_index": 186,
+          "rep_score": 0.883477,
+          "disc_score": 0.562737,
+          "quiz_weight": 0.723107
+        },
+        {
+          "relativePath": "expressionism/expressionism-49721.jpg",
+          "embedding_index": 187,
+          "rep_score": 0.884904,
+          "disc_score": 0.627411,
+          "quiz_weight": 0.756158
+        },
+        {
+          "relativePath": "expressionism/expressionism-51712.jpg",
+          "embedding_index": 188,
+          "rep_score": 0.905059,
+          "disc_score": 0.667069,
+          "quiz_weight": 0.786064
+        },
+        {
+          "relativePath": "expressionism/expressionism-5277.jpg",
+          "embedding_index": 189,
+          "rep_score": 0.802806,
+          "disc_score": 0.323183,
+          "quiz_weight": 0.562995
+        },
+        {
+          "relativePath": "expressionism/expressionism-53515.jpg",
+          "embedding_index": 190,
+          "rep_score": 0.843806,
+          "disc_score": 0.408346,
+          "quiz_weight": 0.626076
+        },
+        {
+          "relativePath": "expressionism/expressionism-58294.jpg",
+          "embedding_index": 191,
+          "rep_score": 0.847346,
+          "disc_score": 0.439257,
+          "quiz_weight": 0.643302
+        },
+        {
+          "relativePath": "expressionism/expressionism-58447.jpg",
+          "embedding_index": 192,
+          "rep_score": 0.747613,
+          "disc_score": 0.297042,
+          "quiz_weight": 0.522327
+        },
+        {
+          "relativePath": "expressionism/expressionism-59012.jpg",
+          "embedding_index": 193,
+          "rep_score": 0.824572,
+          "disc_score": 0.37615,
+          "quiz_weight": 0.600361
+        },
+        {
+          "relativePath": "expressionism/expressionism-65261.jpg",
+          "embedding_index": 194,
+          "rep_score": 0.876918,
+          "disc_score": 0.563111,
+          "quiz_weight": 0.720015
+        },
+        {
+          "relativePath": "expressionism/expressionism-65819.jpg",
+          "embedding_index": 195,
+          "rep_score": 0.854286,
+          "disc_score": 0.516894,
+          "quiz_weight": 0.68559
+        },
+        {
+          "relativePath": "expressionism/expressionism-70746.jpg",
+          "embedding_index": 196,
+          "rep_score": 0.862243,
+          "disc_score": 0.425223,
+          "quiz_weight": 0.643733
+        },
+        {
+          "relativePath": "expressionism/expressionism-75814.jpg",
+          "embedding_index": 197,
+          "rep_score": 0.842559,
+          "disc_score": 0.697748,
+          "quiz_weight": 0.770153
+        },
+        {
+          "relativePath": "expressionism/expressionism-78805.jpg",
+          "embedding_index": 198,
+          "rep_score": 0.847513,
+          "disc_score": 0.429908,
+          "quiz_weight": 0.63871
+        },
+        {
+          "relativePath": "expressionism/expressionism-8190.jpg",
+          "embedding_index": 199,
+          "rep_score": 0.839421,
+          "disc_score": 0.59603,
+          "quiz_weight": 0.717726
+        }
+      ]
+    },
+    {
+      "name": "fauvism",
+      "images": [
+        {
+          "relativePath": "fauvism/fauvism-11930.jpg",
+          "embedding_index": 200,
+          "rep_score": 0.904929,
+          "disc_score": 0.532537,
+          "quiz_weight": 0.718733
+        },
+        {
+          "relativePath": "fauvism/fauvism-30516.jpg",
+          "embedding_index": 201,
+          "rep_score": 0.858878,
+          "disc_score": 0.580017,
+          "quiz_weight": 0.719448
+        },
+        {
+          "relativePath": "fauvism/fauvism-32718.jpg",
+          "embedding_index": 202,
+          "rep_score": 0.809293,
+          "disc_score": 0.491206,
+          "quiz_weight": 0.65025
+        },
+        {
+          "relativePath": "fauvism/fauvism-34779.jpg",
+          "embedding_index": 203,
+          "rep_score": 0.868956,
+          "disc_score": 0.463963,
+          "quiz_weight": 0.666459
+        },
+        {
+          "relativePath": "fauvism/fauvism-37039.jpg",
+          "embedding_index": 204,
+          "rep_score": 0.846804,
+          "disc_score": 0.594861,
+          "quiz_weight": 0.720833
+        },
+        {
+          "relativePath": "fauvism/fauvism-42559.jpg",
+          "embedding_index": 205,
+          "rep_score": 0.880724,
+          "disc_score": 0.449367,
+          "quiz_weight": 0.665045
+        },
+        {
+          "relativePath": "fauvism/fauvism-42747.jpg",
+          "embedding_index": 206,
+          "rep_score": 0.905118,
+          "disc_score": 0.62146,
+          "quiz_weight": 0.763289
+        },
+        {
+          "relativePath": "fauvism/fauvism-43763.jpg",
+          "embedding_index": 207,
+          "rep_score": 0.867279,
+          "disc_score": 0.523767,
+          "quiz_weight": 0.695523
+        },
+        {
+          "relativePath": "fauvism/fauvism-44343.jpg",
+          "embedding_index": 208,
+          "rep_score": 0.865663,
+          "disc_score": 0.612826,
+          "quiz_weight": 0.739245
+        },
+        {
+          "relativePath": "fauvism/fauvism-46064.jpg",
+          "embedding_index": 209,
+          "rep_score": 0.909646,
+          "disc_score": 0.621091,
+          "quiz_weight": 0.765369
+        },
+        {
+          "relativePath": "fauvism/fauvism-47390.jpg",
+          "embedding_index": 210,
+          "rep_score": 0.89788,
+          "disc_score": 0.576262,
+          "quiz_weight": 0.737071
+        },
+        {
+          "relativePath": "fauvism/fauvism-50439.jpg",
+          "embedding_index": 211,
+          "rep_score": 0.845407,
+          "disc_score": 0.416773,
+          "quiz_weight": 0.63109
+        },
+        {
+          "relativePath": "fauvism/fauvism-58101.jpg",
+          "embedding_index": 212,
+          "rep_score": 0.911111,
+          "disc_score": 0.529845,
+          "quiz_weight": 0.720478
+        },
+        {
+          "relativePath": "fauvism/fauvism-59144.jpg",
+          "embedding_index": 213,
+          "rep_score": 0.898453,
+          "disc_score": 0.593204,
+          "quiz_weight": 0.745828
+        },
+        {
+          "relativePath": "fauvism/fauvism-60836.jpg",
+          "embedding_index": 214,
+          "rep_score": 0.909014,
+          "disc_score": 0.58147,
+          "quiz_weight": 0.745242
+        },
+        {
+          "relativePath": "fauvism/fauvism-64000.jpg",
+          "embedding_index": 215,
+          "rep_score": 0.845891,
+          "disc_score": 0.422259,
+          "quiz_weight": 0.634075
+        },
+        {
+          "relativePath": "fauvism/fauvism-64210.jpg",
+          "embedding_index": 216,
+          "rep_score": 0.880492,
+          "disc_score": 0.513567,
+          "quiz_weight": 0.69703
+        },
+        {
+          "relativePath": "fauvism/fauvism-72106.jpg",
+          "embedding_index": 217,
+          "rep_score": 0.855843,
+          "disc_score": 0.48098,
+          "quiz_weight": 0.668411
+        },
+        {
+          "relativePath": "fauvism/fauvism-73806.jpg",
+          "embedding_index": 218,
+          "rep_score": 0.872318,
+          "disc_score": 0.479096,
+          "quiz_weight": 0.675707
+        },
+        {
+          "relativePath": "fauvism/fauvism-74757.jpg",
+          "embedding_index": 219,
+          "rep_score": 0.843732,
+          "disc_score": 0.482836,
+          "quiz_weight": 0.663284
+        }
+      ]
+    },
+    {
+      "name": "high-renaissance",
+      "images": [
+        {
+          "relativePath": "high-renaissance/high-renaissance-19278.jpg",
+          "embedding_index": 220,
+          "rep_score": 0.853564,
+          "disc_score": 0.427873,
+          "quiz_weight": 0.640718
+        },
+        {
+          "relativePath": "high-renaissance/high-renaissance-19853.jpg",
+          "embedding_index": 221,
+          "rep_score": 0.8852,
+          "disc_score": 0.445201,
+          "quiz_weight": 0.665201
+        },
+        {
+          "relativePath": "high-renaissance/high-renaissance-21661.jpg",
+          "embedding_index": 222,
+          "rep_score": 0.839455,
+          "disc_score": 0.498125,
+          "quiz_weight": 0.66879
+        },
+        {
+          "relativePath": "high-renaissance/high-renaissance-25663.jpg",
+          "embedding_index": 223,
+          "rep_score": 0.864625,
+          "disc_score": 0.494906,
+          "quiz_weight": 0.679766
+        },
+        {
+          "relativePath": "high-renaissance/high-renaissance-27464.jpg",
+          "embedding_index": 224,
+          "rep_score": 0.859789,
+          "disc_score": 0.48727,
+          "quiz_weight": 0.673529
+        },
+        {
+          "relativePath": "high-renaissance/high-renaissance-28916.jpg",
+          "embedding_index": 225,
+          "rep_score": 0.883499,
+          "disc_score": 0.409682,
+          "quiz_weight": 0.646591
+        },
+        {
+          "relativePath": "high-renaissance/high-renaissance-33742.jpg",
+          "embedding_index": 226,
+          "rep_score": 0.812372,
+          "disc_score": 0.518897,
+          "quiz_weight": 0.665635
+        },
+        {
+          "relativePath": "high-renaissance/high-renaissance-34272.jpg",
+          "embedding_index": 227,
+          "rep_score": 0.884279,
+          "disc_score": 0.433281,
+          "quiz_weight": 0.65878
+        },
+        {
+          "relativePath": "high-renaissance/high-renaissance-35573.jpg",
+          "embedding_index": 228,
+          "rep_score": 0.812529,
+          "disc_score": 0.37422,
+          "quiz_weight": 0.593375
+        },
+        {
+          "relativePath": "high-renaissance/high-renaissance-40766.jpg",
+          "embedding_index": 229,
+          "rep_score": 0.872259,
+          "disc_score": 0.561566,
+          "quiz_weight": 0.716913
+        },
+        {
+          "relativePath": "high-renaissance/high-renaissance-42955.jpg",
+          "embedding_index": 230,
+          "rep_score": 0.85642,
+          "disc_score": 0.421888,
+          "quiz_weight": 0.639154
+        },
+        {
+          "relativePath": "high-renaissance/high-renaissance-50301.jpg",
+          "embedding_index": 231,
+          "rep_score": 0.83073,
+          "disc_score": 0.415841,
+          "quiz_weight": 0.623286
+        },
+        {
+          "relativePath": "high-renaissance/high-renaissance-52847.jpg",
+          "embedding_index": 232,
+          "rep_score": 0.839007,
+          "disc_score": 0.325789,
+          "quiz_weight": 0.582398
+        },
+        {
+          "relativePath": "high-renaissance/high-renaissance-55630.jpg",
+          "embedding_index": 233,
+          "rep_score": 0.880029,
+          "disc_score": 0.565071,
+          "quiz_weight": 0.72255
+        },
+        {
+          "relativePath": "high-renaissance/high-renaissance-55690.jpg",
+          "embedding_index": 234,
+          "rep_score": 0.874817,
+          "disc_score": 0.450251,
+          "quiz_weight": 0.662534
+        },
+        {
+          "relativePath": "high-renaissance/high-renaissance-56918.jpg",
+          "embedding_index": 235,
+          "rep_score": 0.897778,
+          "disc_score": 0.468671,
+          "quiz_weight": 0.683225
+        },
+        {
+          "relativePath": "high-renaissance/high-renaissance-62287.jpg",
+          "embedding_index": 236,
+          "rep_score": 0.84486,
+          "disc_score": 0.545742,
+          "quiz_weight": 0.695301
+        },
+        {
+          "relativePath": "high-renaissance/high-renaissance-66298.jpg",
+          "embedding_index": 237,
+          "rep_score": 0.83626,
+          "disc_score": 0.487045,
+          "quiz_weight": 0.661652
+        },
+        {
+          "relativePath": "high-renaissance/high-renaissance-73636.jpg",
+          "embedding_index": 238,
+          "rep_score": 0.858767,
+          "disc_score": 0.535963,
+          "quiz_weight": 0.697365
+        },
+        {
+          "relativePath": "high-renaissance/high-renaissance-74014.jpg",
+          "embedding_index": 239,
+          "rep_score": 0.820781,
+          "disc_score": 0.54934,
+          "quiz_weight": 0.685061
+        }
+      ]
+    },
+    {
+      "name": "impressionism",
+      "images": [
+        {
+          "relativePath": "impressionism/impressionism-12554.jpg",
+          "embedding_index": 240,
+          "rep_score": 0.882109,
+          "disc_score": 0.648328,
+          "quiz_weight": 0.765218
+        },
+        {
+          "relativePath": "impressionism/impressionism-12596.jpg",
+          "embedding_index": 241,
+          "rep_score": 0.819347,
+          "disc_score": 0.449042,
+          "quiz_weight": 0.634195
+        },
+        {
+          "relativePath": "impressionism/impressionism-1584.jpg",
+          "embedding_index": 242,
+          "rep_score": 0.889952,
+          "disc_score": 0.599851,
+          "quiz_weight": 0.744902
+        },
+        {
+          "relativePath": "impressionism/impressionism-1595.jpg",
+          "embedding_index": 243,
+          "rep_score": 0.859126,
+          "disc_score": 0.620428,
+          "quiz_weight": 0.739777
+        },
+        {
+          "relativePath": "impressionism/impressionism-2008.jpg",
+          "embedding_index": 244,
+          "rep_score": 0.859125,
+          "disc_score": 0.597235,
+          "quiz_weight": 0.72818
+        },
+        {
+          "relativePath": "impressionism/impressionism-27488.jpg",
+          "embedding_index": 245,
+          "rep_score": 0.859634,
+          "disc_score": 0.527289,
+          "quiz_weight": 0.693461
+        },
+        {
+          "relativePath": "impressionism/impressionism-35131.jpg",
+          "embedding_index": 246,
+          "rep_score": 0.866243,
+          "disc_score": 0.48835,
+          "quiz_weight": 0.677297
+        },
+        {
+          "relativePath": "impressionism/impressionism-3563.jpg",
+          "embedding_index": 247,
+          "rep_score": 0.87499,
+          "disc_score": 0.525238,
+          "quiz_weight": 0.700114
+        },
+        {
+          "relativePath": "impressionism/impressionism-4047.jpg",
+          "embedding_index": 248,
+          "rep_score": 0.816024,
+          "disc_score": 0.445692,
+          "quiz_weight": 0.630858
+        },
+        {
+          "relativePath": "impressionism/impressionism-44707.jpg",
+          "embedding_index": 249,
+          "rep_score": 0.860321,
+          "disc_score": 0.415538,
+          "quiz_weight": 0.637929
+        },
+        {
+          "relativePath": "impressionism/impressionism-48804.jpg",
+          "embedding_index": 250,
+          "rep_score": 0.863103,
+          "disc_score": 0.515751,
+          "quiz_weight": 0.689427
+        },
+        {
+          "relativePath": "impressionism/impressionism-54939.jpg",
+          "embedding_index": 251,
+          "rep_score": 0.881108,
+          "disc_score": 0.612808,
+          "quiz_weight": 0.746958
+        },
+        {
+          "relativePath": "impressionism/impressionism-5564.jpg",
+          "embedding_index": 252,
+          "rep_score": 0.875466,
+          "disc_score": 0.563796,
+          "quiz_weight": 0.719631
+        },
+        {
+          "relativePath": "impressionism/impressionism-59000.jpg",
+          "embedding_index": 253,
+          "rep_score": 0.858891,
+          "disc_score": 0.424391,
+          "quiz_weight": 0.641641
+        },
+        {
+          "relativePath": "impressionism/impressionism-60543.jpg",
+          "embedding_index": 254,
+          "rep_score": 0.84973,
+          "disc_score": 0.64246,
+          "quiz_weight": 0.746095
+        },
+        {
+          "relativePath": "impressionism/impressionism-6822.jpg",
+          "embedding_index": 255,
+          "rep_score": 0.919571,
+          "disc_score": 0.560199,
+          "quiz_weight": 0.739885
+        },
+        {
+          "relativePath": "impressionism/impressionism-73135.jpg",
+          "embedding_index": 256,
+          "rep_score": 0.709929,
+          "disc_score": 0.41334,
+          "quiz_weight": 0.561634
+        },
+        {
+          "relativePath": "impressionism/impressionism-7523.jpg",
+          "embedding_index": 257,
+          "rep_score": 0.854348,
+          "disc_score": 0.578806,
+          "quiz_weight": 0.716577
+        },
+        {
+          "relativePath": "impressionism/impressionism-75914.jpg",
+          "embedding_index": 258,
+          "rep_score": 0.836958,
+          "disc_score": 0.500746,
+          "quiz_weight": 0.668852
+        },
+        {
+          "relativePath": "impressionism/impressionism-9511.jpg",
+          "embedding_index": 259,
+          "rep_score": 0.843657,
+          "disc_score": 0.504512,
+          "quiz_weight": 0.674085
+        }
+      ]
+    },
+    {
+      "name": "mannerism-late-renaissance",
+      "images": [
+        {
+          "relativePath": "mannerism-late-renaissance/mannerism-late-renaissance-20144.jpg",
+          "embedding_index": 260,
+          "rep_score": 0.89258,
+          "disc_score": 0.592915,
+          "quiz_weight": 0.742748
+        },
+        {
+          "relativePath": "mannerism-late-renaissance/mannerism-late-renaissance-34887.jpg",
+          "embedding_index": 261,
+          "rep_score": 0.83792,
+          "disc_score": 0.351909,
+          "quiz_weight": 0.594914
+        },
+        {
+          "relativePath": "mannerism-late-renaissance/mannerism-late-renaissance-35147.jpg",
+          "embedding_index": 262,
+          "rep_score": 0.893063,
+          "disc_score": 0.588559,
+          "quiz_weight": 0.740811
+        },
+        {
+          "relativePath": "mannerism-late-renaissance/mannerism-late-renaissance-38977.jpg",
+          "embedding_index": 263,
+          "rep_score": 0.87827,
+          "disc_score": 0.572976,
+          "quiz_weight": 0.725623
+        },
+        {
+          "relativePath": "mannerism-late-renaissance/mannerism-late-renaissance-39126.jpg",
+          "embedding_index": 264,
+          "rep_score": 0.85864,
+          "disc_score": 0.532353,
+          "quiz_weight": 0.695497
+        },
+        {
+          "relativePath": "mannerism-late-renaissance/mannerism-late-renaissance-44082.jpg",
+          "embedding_index": 265,
+          "rep_score": 0.923594,
+          "disc_score": 0.572521,
+          "quiz_weight": 0.748058
+        },
+        {
+          "relativePath": "mannerism-late-renaissance/mannerism-late-renaissance-44263.jpg",
+          "embedding_index": 266,
+          "rep_score": 0.862185,
+          "disc_score": 0.44466,
+          "quiz_weight": 0.653423
+        },
+        {
+          "relativePath": "mannerism-late-renaissance/mannerism-late-renaissance-45215.jpg",
+          "embedding_index": 267,
+          "rep_score": 0.849769,
+          "disc_score": 0.506243,
+          "quiz_weight": 0.678006
+        },
+        {
+          "relativePath": "mannerism-late-renaissance/mannerism-late-renaissance-49582.jpg",
+          "embedding_index": 268,
+          "rep_score": 0.927616,
+          "disc_score": 0.628047,
+          "quiz_weight": 0.777831
+        },
+        {
+          "relativePath": "mannerism-late-renaissance/mannerism-late-renaissance-52042.jpg",
+          "embedding_index": 269,
+          "rep_score": 0.814321,
+          "disc_score": 0.407539,
+          "quiz_weight": 0.61093
+        },
+        {
+          "relativePath": "mannerism-late-renaissance/mannerism-late-renaissance-56075.jpg",
+          "embedding_index": 270,
+          "rep_score": 0.900406,
+          "disc_score": 0.577395,
+          "quiz_weight": 0.738901
+        },
+        {
+          "relativePath": "mannerism-late-renaissance/mannerism-late-renaissance-56155.jpg",
+          "embedding_index": 271,
+          "rep_score": 0.896911,
+          "disc_score": 0.534093,
+          "quiz_weight": 0.715502
+        },
+        {
+          "relativePath": "mannerism-late-renaissance/mannerism-late-renaissance-56362.jpg",
+          "embedding_index": 272,
+          "rep_score": 0.878722,
+          "disc_score": 0.542171,
+          "quiz_weight": 0.710447
+        },
+        {
+          "relativePath": "mannerism-late-renaissance/mannerism-late-renaissance-56819.jpg",
+          "embedding_index": 273,
+          "rep_score": 0.913911,
+          "disc_score": 0.580177,
+          "quiz_weight": 0.747044
+        },
+        {
+          "relativePath": "mannerism-late-renaissance/mannerism-late-renaissance-64035.jpg",
+          "embedding_index": 274,
+          "rep_score": 0.799982,
+          "disc_score": 0.381596,
+          "quiz_weight": 0.590789
+        },
+        {
+          "relativePath": "mannerism-late-renaissance/mannerism-late-renaissance-73242.jpg",
+          "embedding_index": 275,
+          "rep_score": 0.922277,
+          "disc_score": 0.629652,
+          "quiz_weight": 0.775965
+        },
+        {
+          "relativePath": "mannerism-late-renaissance/mannerism-late-renaissance-73892.jpg",
+          "embedding_index": 276,
+          "rep_score": 0.886641,
+          "disc_score": 0.560039,
+          "quiz_weight": 0.72334
+        },
+        {
+          "relativePath": "mannerism-late-renaissance/mannerism-late-renaissance-75848.jpg",
+          "embedding_index": 277,
+          "rep_score": 0.873198,
+          "disc_score": 0.574387,
+          "quiz_weight": 0.723792
+        },
+        {
+          "relativePath": "mannerism-late-renaissance/mannerism-late-renaissance-75864.jpg",
+          "embedding_index": 278,
+          "rep_score": 0.894944,
+          "disc_score": 0.525352,
+          "quiz_weight": 0.710148
+        },
+        {
+          "relativePath": "mannerism-late-renaissance/mannerism-late-renaissance-78493.jpg",
+          "embedding_index": 279,
+          "rep_score": 0.86729,
+          "disc_score": 0.50935,
+          "quiz_weight": 0.68832
+        }
+      ]
+    },
+    {
+      "name": "minimalism",
+      "images": [
+        {
+          "relativePath": "minimalism/minimalism-19251.jpg",
+          "embedding_index": 280,
+          "rep_score": 0.891703,
+          "disc_score": 0.659684,
+          "quiz_weight": 0.775693
+        },
+        {
+          "relativePath": "minimalism/minimalism-29197.jpg",
+          "embedding_index": 281,
+          "rep_score": 0.771232,
+          "disc_score": 0.655711,
+          "quiz_weight": 0.713472
+        },
+        {
+          "relativePath": "minimalism/minimalism-35623.jpg",
+          "embedding_index": 282,
+          "rep_score": 0.839818,
+          "disc_score": 0.751042,
+          "quiz_weight": 0.79543
+        },
+        {
+          "relativePath": "minimalism/minimalism-38029.jpg",
+          "embedding_index": 283,
+          "rep_score": 0.921779,
+          "disc_score": 0.589913,
+          "quiz_weight": 0.755846
+        },
+        {
+          "relativePath": "minimalism/minimalism-39566.jpg",
+          "embedding_index": 284,
+          "rep_score": 0.840541,
+          "disc_score": 0.613641,
+          "quiz_weight": 0.727091
+        },
+        {
+          "relativePath": "minimalism/minimalism-43038.jpg",
+          "embedding_index": 285,
+          "rep_score": 0.905101,
+          "disc_score": 0.485984,
+          "quiz_weight": 0.695543
+        },
+        {
+          "relativePath": "minimalism/minimalism-47474.jpg",
+          "embedding_index": 286,
+          "rep_score": 0.858224,
+          "disc_score": 0.627862,
+          "quiz_weight": 0.743043
+        },
+        {
+          "relativePath": "minimalism/minimalism-48553.jpg",
+          "embedding_index": 287,
+          "rep_score": 0.915564,
+          "disc_score": 0.684711,
+          "quiz_weight": 0.800137
+        },
+        {
+          "relativePath": "minimalism/minimalism-49161.jpg",
+          "embedding_index": 288,
+          "rep_score": 0.873229,
+          "disc_score": 0.541584,
+          "quiz_weight": 0.707407
+        },
+        {
+          "relativePath": "minimalism/minimalism-52651.jpg",
+          "embedding_index": 289,
+          "rep_score": 0.837947,
+          "disc_score": 0.657365,
+          "quiz_weight": 0.747656
+        },
+        {
+          "relativePath": "minimalism/minimalism-66333.jpg",
+          "embedding_index": 290,
+          "rep_score": 0.882444,
+          "disc_score": 0.517516,
+          "quiz_weight": 0.69998
+        },
+        {
+          "relativePath": "minimalism/minimalism-66781.jpg",
+          "embedding_index": 291,
+          "rep_score": 0.881437,
+          "disc_score": 0.606509,
+          "quiz_weight": 0.743973
+        },
+        {
+          "relativePath": "minimalism/minimalism-66926.jpg",
+          "embedding_index": 292,
+          "rep_score": 0.891172,
+          "disc_score": 0.555148,
+          "quiz_weight": 0.72316
+        },
+        {
+          "relativePath": "minimalism/minimalism-67272.jpg",
+          "embedding_index": 293,
+          "rep_score": 0.904379,
+          "disc_score": 0.697396,
+          "quiz_weight": 0.800887
+        },
+        {
+          "relativePath": "minimalism/minimalism-67284.jpg",
+          "embedding_index": 294,
+          "rep_score": 0.869918,
+          "disc_score": 0.588095,
+          "quiz_weight": 0.729007
+        },
+        {
+          "relativePath": "minimalism/minimalism-67458.jpg",
+          "embedding_index": 295,
+          "rep_score": 0.892908,
+          "disc_score": 0.609251,
+          "quiz_weight": 0.75108
+        },
+        {
+          "relativePath": "minimalism/minimalism-69026.jpg",
+          "embedding_index": 296,
+          "rep_score": 0.87297,
+          "disc_score": 0.622853,
+          "quiz_weight": 0.747912
+        },
+        {
+          "relativePath": "minimalism/minimalism-69744.jpg",
+          "embedding_index": 297,
+          "rep_score": 0.876895,
+          "disc_score": 0.659061,
+          "quiz_weight": 0.767978
+        },
+        {
+          "relativePath": "minimalism/minimalism-77281.jpg",
+          "embedding_index": 298,
+          "rep_score": 0.848773,
+          "disc_score": 0.605423,
+          "quiz_weight": 0.727098
+        },
+        {
+          "relativePath": "minimalism/minimalism-81174.jpg",
+          "embedding_index": 299,
+          "rep_score": 0.839127,
+          "disc_score": 0.628723,
+          "quiz_weight": 0.733925
+        }
+      ]
+    },
+    {
+      "name": "naive-art-primitivism",
+      "images": [
+        {
+          "relativePath": "naive-art-primitivism/naive-art-primitivism-11010.jpg",
+          "embedding_index": 300,
+          "rep_score": 0.90024,
+          "disc_score": 0.473046,
+          "quiz_weight": 0.686643
+        },
+        {
+          "relativePath": "naive-art-primitivism/naive-art-primitivism-15655.jpg",
+          "embedding_index": 301,
+          "rep_score": 0.821003,
+          "disc_score": 0.472337,
+          "quiz_weight": 0.64667
+        },
+        {
+          "relativePath": "naive-art-primitivism/naive-art-primitivism-15729.jpg",
+          "embedding_index": 302,
+          "rep_score": 0.891826,
+          "disc_score": 0.566291,
+          "quiz_weight": 0.729058
+        },
+        {
+          "relativePath": "naive-art-primitivism/naive-art-primitivism-2000.jpg",
+          "embedding_index": 303,
+          "rep_score": 0.866957,
+          "disc_score": 0.395591,
+          "quiz_weight": 0.631274
+        },
+        {
+          "relativePath": "naive-art-primitivism/naive-art-primitivism-26173.jpg",
+          "embedding_index": 304,
+          "rep_score": 0.820468,
+          "disc_score": 0.346955,
+          "quiz_weight": 0.583712
+        },
+        {
+          "relativePath": "naive-art-primitivism/naive-art-primitivism-3226.jpg",
+          "embedding_index": 305,
+          "rep_score": 0.887188,
+          "disc_score": 0.549399,
+          "quiz_weight": 0.718294
+        },
+        {
+          "relativePath": "naive-art-primitivism/naive-art-primitivism-36727.jpg",
+          "embedding_index": 306,
+          "rep_score": 0.829726,
+          "disc_score": 0.588781,
+          "quiz_weight": 0.709254
+        },
+        {
+          "relativePath": "naive-art-primitivism/naive-art-primitivism-4357.jpg",
+          "embedding_index": 307,
+          "rep_score": 0.887209,
+          "disc_score": 0.609914,
+          "quiz_weight": 0.748561
+        },
+        {
+          "relativePath": "naive-art-primitivism/naive-art-primitivism-4571.jpg",
+          "embedding_index": 308,
+          "rep_score": 0.873521,
+          "disc_score": 0.459887,
+          "quiz_weight": 0.666704
+        },
+        {
+          "relativePath": "naive-art-primitivism/naive-art-primitivism-45841.jpg",
+          "embedding_index": 309,
+          "rep_score": 0.810359,
+          "disc_score": 0.57485,
+          "quiz_weight": 0.692605
+        },
+        {
+          "relativePath": "naive-art-primitivism/naive-art-primitivism-53904.jpg",
+          "embedding_index": 310,
+          "rep_score": 0.850752,
+          "disc_score": 0.589774,
+          "quiz_weight": 0.720263
+        },
+        {
+          "relativePath": "naive-art-primitivism/naive-art-primitivism-59363.jpg",
+          "embedding_index": 311,
+          "rep_score": 0.81732,
+          "disc_score": 0.352456,
+          "quiz_weight": 0.584888
+        },
+        {
+          "relativePath": "naive-art-primitivism/naive-art-primitivism-62268.jpg",
+          "embedding_index": 312,
+          "rep_score": 0.902512,
+          "disc_score": 0.613594,
+          "quiz_weight": 0.758053
+        },
+        {
+          "relativePath": "naive-art-primitivism/naive-art-primitivism-62455.jpg",
+          "embedding_index": 313,
+          "rep_score": 0.851194,
+          "disc_score": 0.596613,
+          "quiz_weight": 0.723903
+        },
+        {
+          "relativePath": "naive-art-primitivism/naive-art-primitivism-7329.jpg",
+          "embedding_index": 314,
+          "rep_score": 0.900418,
+          "disc_score": 0.665791,
+          "quiz_weight": 0.783104
+        },
+        {
+          "relativePath": "naive-art-primitivism/naive-art-primitivism-74153.jpg",
+          "embedding_index": 315,
+          "rep_score": 0.849971,
+          "disc_score": 0.581487,
+          "quiz_weight": 0.715729
+        },
+        {
+          "relativePath": "naive-art-primitivism/naive-art-primitivism-7421.jpg",
+          "embedding_index": 316,
+          "rep_score": 0.807882,
+          "disc_score": 0.559526,
+          "quiz_weight": 0.683704
+        },
+        {
+          "relativePath": "naive-art-primitivism/naive-art-primitivism-77333.jpg",
+          "embedding_index": 317,
+          "rep_score": 0.82857,
+          "disc_score": 0.487561,
+          "quiz_weight": 0.658065
+        },
+        {
+          "relativePath": "naive-art-primitivism/naive-art-primitivism-81381.jpg",
+          "embedding_index": 318,
+          "rep_score": 0.842113,
+          "disc_score": 0.465292,
+          "quiz_weight": 0.653703
+        },
+        {
+          "relativePath": "naive-art-primitivism/naive-art-primitivism-9548.jpg",
+          "embedding_index": 319,
+          "rep_score": 0.875692,
+          "disc_score": 0.550968,
+          "quiz_weight": 0.71333
+        }
+      ]
+    },
+    {
+      "name": "new-realism",
+      "images": [
+        {
+          "relativePath": "new-realism/new-realism-20681.jpg",
+          "embedding_index": 320,
+          "rep_score": 0.831978,
+          "disc_score": 0.543424,
+          "quiz_weight": 0.687701
+        },
+        {
+          "relativePath": "new-realism/new-realism-24974.jpg",
+          "embedding_index": 321,
+          "rep_score": 0.888455,
+          "disc_score": 0.702264,
+          "quiz_weight": 0.795359
+        },
+        {
+          "relativePath": "new-realism/new-realism-26823.jpg",
+          "embedding_index": 322,
+          "rep_score": 0.866408,
+          "disc_score": 0.630119,
+          "quiz_weight": 0.748263
+        },
+        {
+          "relativePath": "new-realism/new-realism-30070.jpg",
+          "embedding_index": 323,
+          "rep_score": 0.886944,
+          "disc_score": 0.708182,
+          "quiz_weight": 0.797563
+        },
+        {
+          "relativePath": "new-realism/new-realism-30877.jpg",
+          "embedding_index": 324,
+          "rep_score": 0.842439,
+          "disc_score": 0.520663,
+          "quiz_weight": 0.681551
+        },
+        {
+          "relativePath": "new-realism/new-realism-31010.jpg",
+          "embedding_index": 325,
+          "rep_score": 0.872487,
+          "disc_score": 0.485634,
+          "quiz_weight": 0.67906
+        },
+        {
+          "relativePath": "new-realism/new-realism-34682.jpg",
+          "embedding_index": 326,
+          "rep_score": 0.867938,
+          "disc_score": 0.629667,
+          "quiz_weight": 0.748803
+        },
+        {
+          "relativePath": "new-realism/new-realism-37610.jpg",
+          "embedding_index": 327,
+          "rep_score": 0.86939,
+          "disc_score": 0.625223,
+          "quiz_weight": 0.747307
+        },
+        {
+          "relativePath": "new-realism/new-realism-38018.jpg",
+          "embedding_index": 328,
+          "rep_score": 0.816845,
+          "disc_score": 0.418082,
+          "quiz_weight": 0.617464
+        },
+        {
+          "relativePath": "new-realism/new-realism-39658.jpg",
+          "embedding_index": 329,
+          "rep_score": 0.813008,
+          "disc_score": 0.500855,
+          "quiz_weight": 0.656932
+        },
+        {
+          "relativePath": "new-realism/new-realism-40455.jpg",
+          "embedding_index": 330,
+          "rep_score": 0.891941,
+          "disc_score": 0.64365,
+          "quiz_weight": 0.767795
+        },
+        {
+          "relativePath": "new-realism/new-realism-44403.jpg",
+          "embedding_index": 331,
+          "rep_score": 0.878726,
+          "disc_score": 0.539862,
+          "quiz_weight": 0.709294
+        },
+        {
+          "relativePath": "new-realism/new-realism-46253.jpg",
+          "embedding_index": 332,
+          "rep_score": 0.862654,
+          "disc_score": 0.597426,
+          "quiz_weight": 0.73004
+        },
+        {
+          "relativePath": "new-realism/new-realism-52207.jpg",
+          "embedding_index": 333,
+          "rep_score": 0.873136,
+          "disc_score": 0.619829,
+          "quiz_weight": 0.746483
+        },
+        {
+          "relativePath": "new-realism/new-realism-52249.jpg",
+          "embedding_index": 334,
+          "rep_score": 0.855921,
+          "disc_score": 0.466146,
+          "quiz_weight": 0.661034
+        },
+        {
+          "relativePath": "new-realism/new-realism-55402.jpg",
+          "embedding_index": 335,
+          "rep_score": 0.897775,
+          "disc_score": 0.605643,
+          "quiz_weight": 0.751709
+        },
+        {
+          "relativePath": "new-realism/new-realism-57844.jpg",
+          "embedding_index": 336,
+          "rep_score": 0.864396,
+          "disc_score": 0.589916,
+          "quiz_weight": 0.727156
+        },
+        {
+          "relativePath": "new-realism/new-realism-59700.jpg",
+          "embedding_index": 337,
+          "rep_score": 0.829678,
+          "disc_score": 0.506902,
+          "quiz_weight": 0.66829
+        },
+        {
+          "relativePath": "new-realism/new-realism-60121.jpg",
+          "embedding_index": 338,
+          "rep_score": 0.875129,
+          "disc_score": 0.428404,
+          "quiz_weight": 0.651766
+        },
+        {
+          "relativePath": "new-realism/new-realism-65797.jpg",
+          "embedding_index": 339,
+          "rep_score": 0.839574,
+          "disc_score": 0.440301,
+          "quiz_weight": 0.639938
+        }
+      ]
+    },
+    {
+      "name": "northern-renaissance",
+      "images": [
+        {
+          "relativePath": "northern-renaissance/northern-renaissance-18001.jpg",
+          "embedding_index": 340,
+          "rep_score": 0.853694,
+          "disc_score": 0.469952,
+          "quiz_weight": 0.661823
+        },
+        {
+          "relativePath": "northern-renaissance/northern-renaissance-18067.jpg",
+          "embedding_index": 341,
+          "rep_score": 0.857996,
+          "disc_score": 0.556027,
+          "quiz_weight": 0.707012
+        },
+        {
+          "relativePath": "northern-renaissance/northern-renaissance-19272.jpg",
+          "embedding_index": 342,
+          "rep_score": 0.868822,
+          "disc_score": 0.622921,
+          "quiz_weight": 0.745871
+        },
+        {
+          "relativePath": "northern-renaissance/northern-renaissance-22046.jpg",
+          "embedding_index": 343,
+          "rep_score": 0.871081,
+          "disc_score": 0.57912,
+          "quiz_weight": 0.725101
+        },
+        {
+          "relativePath": "northern-renaissance/northern-renaissance-29029.jpg",
+          "embedding_index": 344,
+          "rep_score": 0.842063,
+          "disc_score": 0.62425,
+          "quiz_weight": 0.733156
+        },
+        {
+          "relativePath": "northern-renaissance/northern-renaissance-32723.jpg",
+          "embedding_index": 345,
+          "rep_score": 0.839722,
+          "disc_score": 0.485458,
+          "quiz_weight": 0.66259
+        },
+        {
+          "relativePath": "northern-renaissance/northern-renaissance-35946.jpg",
+          "embedding_index": 346,
+          "rep_score": 0.866693,
+          "disc_score": 0.544578,
+          "quiz_weight": 0.705636
+        },
+        {
+          "relativePath": "northern-renaissance/northern-renaissance-40354.jpg",
+          "embedding_index": 347,
+          "rep_score": 0.878428,
+          "disc_score": 0.579535,
+          "quiz_weight": 0.728982
+        },
+        {
+          "relativePath": "northern-renaissance/northern-renaissance-46056.jpg",
+          "embedding_index": 348,
+          "rep_score": 0.849329,
+          "disc_score": 0.630679,
+          "quiz_weight": 0.740004
+        },
+        {
+          "relativePath": "northern-renaissance/northern-renaissance-46670.jpg",
+          "embedding_index": 349,
+          "rep_score": 0.86606,
+          "disc_score": 0.509727,
+          "quiz_weight": 0.687893
+        },
+        {
+          "relativePath": "northern-renaissance/northern-renaissance-51784.jpg",
+          "embedding_index": 350,
+          "rep_score": 0.870611,
+          "disc_score": 0.47358,
+          "quiz_weight": 0.672095
+        },
+        {
+          "relativePath": "northern-renaissance/northern-renaissance-56426.jpg",
+          "embedding_index": 351,
+          "rep_score": 0.863456,
+          "disc_score": 0.563592,
+          "quiz_weight": 0.713524
+        },
+        {
+          "relativePath": "northern-renaissance/northern-renaissance-56948.jpg",
+          "embedding_index": 352,
+          "rep_score": 0.866128,
+          "disc_score": 0.558325,
+          "quiz_weight": 0.712226
+        },
+        {
+          "relativePath": "northern-renaissance/northern-renaissance-66027.jpg",
+          "embedding_index": 353,
+          "rep_score": 0.883941,
+          "disc_score": 0.645729,
+          "quiz_weight": 0.764835
+        },
+        {
+          "relativePath": "northern-renaissance/northern-renaissance-71943.jpg",
+          "embedding_index": 354,
+          "rep_score": 0.833369,
+          "disc_score": 0.668341,
+          "quiz_weight": 0.750855
+        },
+        {
+          "relativePath": "northern-renaissance/northern-renaissance-7641.jpg",
+          "embedding_index": 355,
+          "rep_score": 0.874301,
+          "disc_score": 0.472247,
+          "quiz_weight": 0.673274
+        },
+        {
+          "relativePath": "northern-renaissance/northern-renaissance-7726.jpg",
+          "embedding_index": 356,
+          "rep_score": 0.870706,
+          "disc_score": 0.503562,
+          "quiz_weight": 0.687134
+        },
+        {
+          "relativePath": "northern-renaissance/northern-renaissance-81102.jpg",
+          "embedding_index": 357,
+          "rep_score": 0.867404,
+          "disc_score": 0.54855,
+          "quiz_weight": 0.707977
+        },
+        {
+          "relativePath": "northern-renaissance/northern-renaissance-8452.jpg",
+          "embedding_index": 358,
+          "rep_score": 0.858067,
+          "disc_score": 0.563492,
+          "quiz_weight": 0.71078
+        },
+        {
+          "relativePath": "northern-renaissance/northern-renaissance-8694.jpg",
+          "embedding_index": 359,
+          "rep_score": 0.833685,
+          "disc_score": 0.546349,
+          "quiz_weight": 0.690017
+        }
+      ]
+    },
+    {
+      "name": "pointillism",
+      "images": [
+        {
+          "relativePath": "pointillism/pointillism-12702.jpg",
+          "embedding_index": 360,
+          "rep_score": 0.859785,
+          "disc_score": 0.692655,
+          "quiz_weight": 0.77622
+        },
+        {
+          "relativePath": "pointillism/pointillism-26768.jpg",
+          "embedding_index": 361,
+          "rep_score": 0.858182,
+          "disc_score": 0.438814,
+          "quiz_weight": 0.648498
+        },
+        {
+          "relativePath": "pointillism/pointillism-28761.jpg",
+          "embedding_index": 362,
+          "rep_score": 0.88929,
+          "disc_score": 0.529955,
+          "quiz_weight": 0.709623
+        },
+        {
+          "relativePath": "pointillism/pointillism-3338.jpg",
+          "embedding_index": 363,
+          "rep_score": 0.880024,
+          "disc_score": 0.599064,
+          "quiz_weight": 0.739544
+        },
+        {
+          "relativePath": "pointillism/pointillism-34862.jpg",
+          "embedding_index": 364,
+          "rep_score": 0.875377,
+          "disc_score": 0.543675,
+          "quiz_weight": 0.709526
+        },
+        {
+          "relativePath": "pointillism/pointillism-42135.jpg",
+          "embedding_index": 365,
+          "rep_score": 0.907872,
+          "disc_score": 0.718159,
+          "quiz_weight": 0.813016
+        },
+        {
+          "relativePath": "pointillism/pointillism-43090.jpg",
+          "embedding_index": 366,
+          "rep_score": 0.916901,
+          "disc_score": 0.659255,
+          "quiz_weight": 0.788078
+        },
+        {
+          "relativePath": "pointillism/pointillism-50635.jpg",
+          "embedding_index": 367,
+          "rep_score": 0.882621,
+          "disc_score": 0.608674,
+          "quiz_weight": 0.745648
+        },
+        {
+          "relativePath": "pointillism/pointillism-54557.jpg",
+          "embedding_index": 368,
+          "rep_score": 0.853095,
+          "disc_score": 0.6392,
+          "quiz_weight": 0.746148
+        },
+        {
+          "relativePath": "pointillism/pointillism-54749.jpg",
+          "embedding_index": 369,
+          "rep_score": 0.868708,
+          "disc_score": 0.458981,
+          "quiz_weight": 0.663844
+        },
+        {
+          "relativePath": "pointillism/pointillism-55254.jpg",
+          "embedding_index": 370,
+          "rep_score": 0.912862,
+          "disc_score": 0.657645,
+          "quiz_weight": 0.785254
+        },
+        {
+          "relativePath": "pointillism/pointillism-57429.jpg",
+          "embedding_index": 371,
+          "rep_score": 0.861918,
+          "disc_score": 0.545773,
+          "quiz_weight": 0.703846
+        },
+        {
+          "relativePath": "pointillism/pointillism-57436.jpg",
+          "embedding_index": 372,
+          "rep_score": 0.906277,
+          "disc_score": 0.643189,
+          "quiz_weight": 0.774733
+        },
+        {
+          "relativePath": "pointillism/pointillism-58831.jpg",
+          "embedding_index": 373,
+          "rep_score": 0.86649,
+          "disc_score": 0.520664,
+          "quiz_weight": 0.693577
+        },
+        {
+          "relativePath": "pointillism/pointillism-58933.jpg",
+          "embedding_index": 374,
+          "rep_score": 0.885163,
+          "disc_score": 0.60291,
+          "quiz_weight": 0.744036
+        },
+        {
+          "relativePath": "pointillism/pointillism-59572.jpg",
+          "embedding_index": 375,
+          "rep_score": 0.872268,
+          "disc_score": 0.664184,
+          "quiz_weight": 0.768226
+        },
+        {
+          "relativePath": "pointillism/pointillism-62140.jpg",
+          "embedding_index": 376,
+          "rep_score": 0.881961,
+          "disc_score": 0.512061,
+          "quiz_weight": 0.697011
+        },
+        {
+          "relativePath": "pointillism/pointillism-63296.jpg",
+          "embedding_index": 377,
+          "rep_score": 0.857909,
+          "disc_score": 0.626505,
+          "quiz_weight": 0.742207
+        },
+        {
+          "relativePath": "pointillism/pointillism-65102.jpg",
+          "embedding_index": 378,
+          "rep_score": 0.767231,
+          "disc_score": 0.393897,
+          "quiz_weight": 0.580564
+        },
+        {
+          "relativePath": "pointillism/pointillism-8304.jpg",
+          "embedding_index": 379,
+          "rep_score": 0.89812,
+          "disc_score": 0.571079,
+          "quiz_weight": 0.7346
+        }
+      ]
+    },
+    {
+      "name": "pop-art",
+      "images": [
+        {
+          "relativePath": "pop-art/pop-art-24427.jpg",
+          "embedding_index": 380,
+          "rep_score": 0.887659,
+          "disc_score": 0.641472,
+          "quiz_weight": 0.764566
+        },
+        {
+          "relativePath": "pop-art/pop-art-27667.jpg",
+          "embedding_index": 381,
+          "rep_score": 0.862607,
+          "disc_score": 0.54104,
+          "quiz_weight": 0.701823
+        },
+        {
+          "relativePath": "pop-art/pop-art-28248.jpg",
+          "embedding_index": 382,
+          "rep_score": 0.812005,
+          "disc_score": 0.711962,
+          "quiz_weight": 0.761984
+        },
+        {
+          "relativePath": "pop-art/pop-art-37937.jpg",
+          "embedding_index": 383,
+          "rep_score": 0.880403,
+          "disc_score": 0.490116,
+          "quiz_weight": 0.685259
+        },
+        {
+          "relativePath": "pop-art/pop-art-38386.jpg",
+          "embedding_index": 384,
+          "rep_score": 0.883559,
+          "disc_score": 0.476022,
+          "quiz_weight": 0.679791
+        },
+        {
+          "relativePath": "pop-art/pop-art-44473.jpg",
+          "embedding_index": 385,
+          "rep_score": 0.777438,
+          "disc_score": 0.497414,
+          "quiz_weight": 0.637426
+        },
+        {
+          "relativePath": "pop-art/pop-art-47986.jpg",
+          "embedding_index": 386,
+          "rep_score": 0.806778,
+          "disc_score": 0.470872,
+          "quiz_weight": 0.638825
+        },
+        {
+          "relativePath": "pop-art/pop-art-61707.jpg",
+          "embedding_index": 387,
+          "rep_score": 0.777055,
+          "disc_score": 0.587886,
+          "quiz_weight": 0.682471
+        },
+        {
+          "relativePath": "pop-art/pop-art-68380.jpg",
+          "embedding_index": 388,
+          "rep_score": 0.777734,
+          "disc_score": 0.663461,
+          "quiz_weight": 0.720597
+        },
+        {
+          "relativePath": "pop-art/pop-art-69568.jpg",
+          "embedding_index": 389,
+          "rep_score": 0.75499,
+          "disc_score": 0.702503,
+          "quiz_weight": 0.728746
+        },
+        {
+          "relativePath": "pop-art/pop-art-70653.jpg",
+          "embedding_index": 390,
+          "rep_score": 0.878891,
+          "disc_score": 0.550403,
+          "quiz_weight": 0.714647
+        },
+        {
+          "relativePath": "pop-art/pop-art-72187.jpg",
+          "embedding_index": 391,
+          "rep_score": 0.842179,
+          "disc_score": 0.571358,
+          "quiz_weight": 0.706769
+        },
+        {
+          "relativePath": "pop-art/pop-art-73354.jpg",
+          "embedding_index": 392,
+          "rep_score": 0.841621,
+          "disc_score": 0.576478,
+          "quiz_weight": 0.709049
+        },
+        {
+          "relativePath": "pop-art/pop-art-75872.jpg",
+          "embedding_index": 393,
+          "rep_score": 0.858895,
+          "disc_score": 0.62358,
+          "quiz_weight": 0.741238
+        },
+        {
+          "relativePath": "pop-art/pop-art-80715.jpg",
+          "embedding_index": 394,
+          "rep_score": 0.82672,
+          "disc_score": 0.578451,
+          "quiz_weight": 0.702585
+        },
+        {
+          "relativePath": "pop-art/pop-art-80721.jpg",
+          "embedding_index": 395,
+          "rep_score": 0.777755,
+          "disc_score": 0.721982,
+          "quiz_weight": 0.749869
+        },
+        {
+          "relativePath": "pop-art/pop-art-80775.jpg",
+          "embedding_index": 396,
+          "rep_score": 0.852009,
+          "disc_score": 0.459666,
+          "quiz_weight": 0.655838
+        },
+        {
+          "relativePath": "pop-art/pop-art-80795.jpg",
+          "embedding_index": 397,
+          "rep_score": 0.795259,
+          "disc_score": 0.304964,
+          "quiz_weight": 0.550112
+        },
+        {
+          "relativePath": "pop-art/pop-art-80824.jpg",
+          "embedding_index": 398,
+          "rep_score": 0.823855,
+          "disc_score": 0.677393,
+          "quiz_weight": 0.750624
+        },
+        {
+          "relativePath": "pop-art/pop-art-80825.jpg",
+          "embedding_index": 399,
+          "rep_score": 0.895576,
+          "disc_score": 0.658389,
+          "quiz_weight": 0.776982
+        }
+      ]
+    },
+    {
+      "name": "post-impressionism",
+      "images": [
+        {
+          "relativePath": "post-impressionism/post-impressionism-10024.jpg",
+          "embedding_index": 400,
+          "rep_score": 0.912106,
+          "disc_score": 0.606563,
+          "quiz_weight": 0.759334
+        },
+        {
+          "relativePath": "post-impressionism/post-impressionism-12138.jpg",
+          "embedding_index": 401,
+          "rep_score": 0.892848,
+          "disc_score": 0.581107,
+          "quiz_weight": 0.736977
+        },
+        {
+          "relativePath": "post-impressionism/post-impressionism-14248.jpg",
+          "embedding_index": 402,
+          "rep_score": 0.869668,
+          "disc_score": 0.493319,
+          "quiz_weight": 0.681494
+        },
+        {
+          "relativePath": "post-impressionism/post-impressionism-15580.jpg",
+          "embedding_index": 403,
+          "rep_score": 0.854281,
+          "disc_score": 0.361484,
+          "quiz_weight": 0.607883
+        },
+        {
+          "relativePath": "post-impressionism/post-impressionism-2216.jpg",
+          "embedding_index": 404,
+          "rep_score": 0.84412,
+          "disc_score": 0.499384,
+          "quiz_weight": 0.671752
+        },
+        {
+          "relativePath": "post-impressionism/post-impressionism-25267.jpg",
+          "embedding_index": 405,
+          "rep_score": 0.799893,
+          "disc_score": 0.44833,
+          "quiz_weight": 0.624111
+        },
+        {
+          "relativePath": "post-impressionism/post-impressionism-29410.jpg",
+          "embedding_index": 406,
+          "rep_score": 0.855427,
+          "disc_score": 0.501233,
+          "quiz_weight": 0.67833
+        },
+        {
+          "relativePath": "post-impressionism/post-impressionism-31411.jpg",
+          "embedding_index": 407,
+          "rep_score": 0.900162,
+          "disc_score": 0.624338,
+          "quiz_weight": 0.76225
+        },
+        {
+          "relativePath": "post-impressionism/post-impressionism-31763.jpg",
+          "embedding_index": 408,
+          "rep_score": 0.866893,
+          "disc_score": 0.587558,
+          "quiz_weight": 0.727225
+        },
+        {
+          "relativePath": "post-impressionism/post-impressionism-32789.jpg",
+          "embedding_index": 409,
+          "rep_score": 0.848777,
+          "disc_score": 0.426651,
+          "quiz_weight": 0.637714
+        },
+        {
+          "relativePath": "post-impressionism/post-impressionism-34816.jpg",
+          "embedding_index": 410,
+          "rep_score": 0.877071,
+          "disc_score": 0.539352,
+          "quiz_weight": 0.708211
+        },
+        {
+          "relativePath": "post-impressionism/post-impressionism-38974.jpg",
+          "embedding_index": 411,
+          "rep_score": 0.848788,
+          "disc_score": 0.427143,
+          "quiz_weight": 0.637965
+        },
+        {
+          "relativePath": "post-impressionism/post-impressionism-42354.jpg",
+          "embedding_index": 412,
+          "rep_score": 0.821509,
+          "disc_score": 0.437838,
+          "quiz_weight": 0.629674
+        },
+        {
+          "relativePath": "post-impressionism/post-impressionism-42397.jpg",
+          "embedding_index": 413,
+          "rep_score": 0.846757,
+          "disc_score": 0.526906,
+          "quiz_weight": 0.686831
+        },
+        {
+          "relativePath": "post-impressionism/post-impressionism-44217.jpg",
+          "embedding_index": 414,
+          "rep_score": 0.921311,
+          "disc_score": 0.61296,
+          "quiz_weight": 0.767135
+        },
+        {
+          "relativePath": "post-impressionism/post-impressionism-49273.jpg",
+          "embedding_index": 415,
+          "rep_score": 0.875626,
+          "disc_score": 0.615053,
+          "quiz_weight": 0.74534
+        },
+        {
+          "relativePath": "post-impressionism/post-impressionism-51598.jpg",
+          "embedding_index": 416,
+          "rep_score": 0.887103,
+          "disc_score": 0.530525,
+          "quiz_weight": 0.708814
+        },
+        {
+          "relativePath": "post-impressionism/post-impressionism-58685.jpg",
+          "embedding_index": 417,
+          "rep_score": 0.846406,
+          "disc_score": 0.482933,
+          "quiz_weight": 0.66467
+        },
+        {
+          "relativePath": "post-impressionism/post-impressionism-631.jpg",
+          "embedding_index": 418,
+          "rep_score": 0.821348,
+          "disc_score": 0.491902,
+          "quiz_weight": 0.656625
+        },
+        {
+          "relativePath": "post-impressionism/post-impressionism-837.jpg",
+          "embedding_index": 419,
+          "rep_score": 0.848193,
+          "disc_score": 0.482615,
+          "quiz_weight": 0.665404
+        }
+      ]
+    },
+    {
+      "name": "realism",
+      "images": [
+        {
+          "relativePath": "realism/realism-11121.jpg",
+          "embedding_index": 420,
+          "rep_score": 0.856551,
+          "disc_score": 0.52061,
+          "quiz_weight": 0.688581
+        },
+        {
+          "relativePath": "realism/realism-12666.jpg",
+          "embedding_index": 421,
+          "rep_score": 0.830088,
+          "disc_score": 0.497246,
+          "quiz_weight": 0.663667
+        },
+        {
+          "relativePath": "realism/realism-16530.jpg",
+          "embedding_index": 422,
+          "rep_score": 0.820404,
+          "disc_score": 0.423358,
+          "quiz_weight": 0.621881
+        },
+        {
+          "relativePath": "realism/realism-1674.jpg",
+          "embedding_index": 423,
+          "rep_score": 0.83892,
+          "disc_score": 0.466366,
+          "quiz_weight": 0.652643
+        },
+        {
+          "relativePath": "realism/realism-17899.jpg",
+          "embedding_index": 424,
+          "rep_score": 0.796099,
+          "disc_score": 0.464242,
+          "quiz_weight": 0.63017
+        },
+        {
+          "relativePath": "realism/realism-18230.jpg",
+          "embedding_index": 425,
+          "rep_score": 0.872999,
+          "disc_score": 0.621399,
+          "quiz_weight": 0.747199
+        },
+        {
+          "relativePath": "realism/realism-20217.jpg",
+          "embedding_index": 426,
+          "rep_score": 0.884114,
+          "disc_score": 0.536642,
+          "quiz_weight": 0.710378
+        },
+        {
+          "relativePath": "realism/realism-26107.jpg",
+          "embedding_index": 427,
+          "rep_score": 0.839932,
+          "disc_score": 0.563326,
+          "quiz_weight": 0.701629
+        },
+        {
+          "relativePath": "realism/realism-33117.jpg",
+          "embedding_index": 428,
+          "rep_score": 0.841149,
+          "disc_score": 0.616574,
+          "quiz_weight": 0.728861
+        },
+        {
+          "relativePath": "realism/realism-42012.jpg",
+          "embedding_index": 429,
+          "rep_score": 0.875239,
+          "disc_score": 0.489697,
+          "quiz_weight": 0.682468
+        },
+        {
+          "relativePath": "realism/realism-42907.jpg",
+          "embedding_index": 430,
+          "rep_score": 0.870025,
+          "disc_score": 0.504632,
+          "quiz_weight": 0.687329
+        },
+        {
+          "relativePath": "realism/realism-453.jpg",
+          "embedding_index": 431,
+          "rep_score": 0.850703,
+          "disc_score": 0.565343,
+          "quiz_weight": 0.708023
+        },
+        {
+          "relativePath": "realism/realism-5028.jpg",
+          "embedding_index": 432,
+          "rep_score": 0.830035,
+          "disc_score": 0.516574,
+          "quiz_weight": 0.673304
+        },
+        {
+          "relativePath": "realism/realism-50487.jpg",
+          "embedding_index": 433,
+          "rep_score": 0.787907,
+          "disc_score": 0.439887,
+          "quiz_weight": 0.613897
+        },
+        {
+          "relativePath": "realism/realism-50551.jpg",
+          "embedding_index": 434,
+          "rep_score": 0.835554,
+          "disc_score": 0.589894,
+          "quiz_weight": 0.712724
+        },
+        {
+          "relativePath": "realism/realism-58221.jpg",
+          "embedding_index": 435,
+          "rep_score": 0.8313,
+          "disc_score": 0.460041,
+          "quiz_weight": 0.645671
+        },
+        {
+          "relativePath": "realism/realism-64666.jpg",
+          "embedding_index": 436,
+          "rep_score": 0.839084,
+          "disc_score": 0.38429,
+          "quiz_weight": 0.611687
+        },
+        {
+          "relativePath": "realism/realism-65165.jpg",
+          "embedding_index": 437,
+          "rep_score": 0.857041,
+          "disc_score": 0.598991,
+          "quiz_weight": 0.728016
+        },
+        {
+          "relativePath": "realism/realism-76664.jpg",
+          "embedding_index": 438,
+          "rep_score": 0.843703,
+          "disc_score": 0.48273,
+          "quiz_weight": 0.663216
+        },
+        {
+          "relativePath": "realism/realism-7739.jpg",
+          "embedding_index": 439,
+          "rep_score": 0.863599,
+          "disc_score": 0.707108,
+          "quiz_weight": 0.785353
+        }
+      ]
+    },
+    {
+      "name": "rococo",
+      "images": [
+        {
+          "relativePath": "rococo/rococo-22146.jpg",
+          "embedding_index": 440,
+          "rep_score": 0.896137,
+          "disc_score": 0.841538,
+          "quiz_weight": 0.868838
+        },
+        {
+          "relativePath": "rococo/rococo-23999.jpg",
+          "embedding_index": 441,
+          "rep_score": 0.882742,
+          "disc_score": 0.530909,
+          "quiz_weight": 0.706826
+        },
+        {
+          "relativePath": "rococo/rococo-28524.jpg",
+          "embedding_index": 442,
+          "rep_score": 0.914862,
+          "disc_score": 0.838611,
+          "quiz_weight": 0.876737
+        },
+        {
+          "relativePath": "rococo/rococo-36228.jpg",
+          "embedding_index": 443,
+          "rep_score": 0.854816,
+          "disc_score": 0.508278,
+          "quiz_weight": 0.681547
+        },
+        {
+          "relativePath": "rococo/rococo-38359.jpg",
+          "embedding_index": 444,
+          "rep_score": 0.853432,
+          "disc_score": 0.5644,
+          "quiz_weight": 0.708916
+        },
+        {
+          "relativePath": "rococo/rococo-38952.jpg",
+          "embedding_index": 445,
+          "rep_score": 0.870949,
+          "disc_score": 0.617692,
+          "quiz_weight": 0.74432
+        },
+        {
+          "relativePath": "rococo/rococo-43036.jpg",
+          "embedding_index": 446,
+          "rep_score": 0.905419,
+          "disc_score": 0.795245,
+          "quiz_weight": 0.850332
+        },
+        {
+          "relativePath": "rococo/rococo-43873.jpg",
+          "embedding_index": 447,
+          "rep_score": 0.870974,
+          "disc_score": 0.723677,
+          "quiz_weight": 0.797325
+        },
+        {
+          "relativePath": "rococo/rococo-45721.jpg",
+          "embedding_index": 448,
+          "rep_score": 0.902443,
+          "disc_score": 0.75257,
+          "quiz_weight": 0.827507
+        },
+        {
+          "relativePath": "rococo/rococo-49672.jpg",
+          "embedding_index": 449,
+          "rep_score": 0.861833,
+          "disc_score": 0.698286,
+          "quiz_weight": 0.780059
+        },
+        {
+          "relativePath": "rococo/rococo-50568.jpg",
+          "embedding_index": 450,
+          "rep_score": 0.802686,
+          "disc_score": 0.501398,
+          "quiz_weight": 0.652042
+        },
+        {
+          "relativePath": "rococo/rococo-51786.jpg",
+          "embedding_index": 451,
+          "rep_score": 0.810641,
+          "disc_score": 0.600745,
+          "quiz_weight": 0.705693
+        },
+        {
+          "relativePath": "rococo/rococo-63200.jpg",
+          "embedding_index": 452,
+          "rep_score": 0.895992,
+          "disc_score": 0.803873,
+          "quiz_weight": 0.849932
+        },
+        {
+          "relativePath": "rococo/rococo-64541.jpg",
+          "embedding_index": 453,
+          "rep_score": 0.886403,
+          "disc_score": 0.80036,
+          "quiz_weight": 0.843382
+        },
+        {
+          "relativePath": "rococo/rococo-65257.jpg",
+          "embedding_index": 454,
+          "rep_score": 0.888953,
+          "disc_score": 0.73423,
+          "quiz_weight": 0.811591
+        },
+        {
+          "relativePath": "rococo/rococo-65398.jpg",
+          "embedding_index": 455,
+          "rep_score": 0.924016,
+          "disc_score": 0.760876,
+          "quiz_weight": 0.842446
+        },
+        {
+          "relativePath": "rococo/rococo-65632.jpg",
+          "embedding_index": 456,
+          "rep_score": 0.897931,
+          "disc_score": 0.795642,
+          "quiz_weight": 0.846786
+        },
+        {
+          "relativePath": "rococo/rococo-69347.jpg",
+          "embedding_index": 457,
+          "rep_score": 0.797692,
+          "disc_score": 0.364717,
+          "quiz_weight": 0.581205
+        },
+        {
+          "relativePath": "rococo/rococo-74094.jpg",
+          "embedding_index": 458,
+          "rep_score": 0.805506,
+          "disc_score": 0.327369,
+          "quiz_weight": 0.566438
+        },
+        {
+          "relativePath": "rococo/rococo-74573.jpg",
+          "embedding_index": 459,
+          "rep_score": 0.797165,
+          "disc_score": 0.462902,
+          "quiz_weight": 0.630034
+        }
+      ]
+    },
+    {
+      "name": "romanticism",
+      "images": [
+        {
+          "relativePath": "romanticism/romanticism-1671.jpg",
+          "embedding_index": 460,
+          "rep_score": 0.876022,
+          "disc_score": 0.559515,
+          "quiz_weight": 0.717769
+        },
+        {
+          "relativePath": "romanticism/romanticism-19667.jpg",
+          "embedding_index": 461,
+          "rep_score": 0.831238,
+          "disc_score": 0.531453,
+          "quiz_weight": 0.681345
+        },
+        {
+          "relativePath": "romanticism/romanticism-26250.jpg",
+          "embedding_index": 462,
+          "rep_score": 0.799509,
+          "disc_score": 0.479766,
+          "quiz_weight": 0.639638
+        },
+        {
+          "relativePath": "romanticism/romanticism-31544.jpg",
+          "embedding_index": 463,
+          "rep_score": 0.762953,
+          "disc_score": 0.248899,
+          "quiz_weight": 0.505926
+        },
+        {
+          "relativePath": "romanticism/romanticism-33267.jpg",
+          "embedding_index": 464,
+          "rep_score": 0.857551,
+          "disc_score": 0.526722,
+          "quiz_weight": 0.692136
+        },
+        {
+          "relativePath": "romanticism/romanticism-34979.jpg",
+          "embedding_index": 465,
+          "rep_score": 0.817229,
+          "disc_score": 0.385652,
+          "quiz_weight": 0.601441
+        },
+        {
+          "relativePath": "romanticism/romanticism-38444.jpg",
+          "embedding_index": 466,
+          "rep_score": 0.828592,
+          "disc_score": 0.548029,
+          "quiz_weight": 0.688311
+        },
+        {
+          "relativePath": "romanticism/romanticism-43968.jpg",
+          "embedding_index": 467,
+          "rep_score": 0.821372,
+          "disc_score": 0.663918,
+          "quiz_weight": 0.742645
+        },
+        {
+          "relativePath": "romanticism/romanticism-44766.jpg",
+          "embedding_index": 468,
+          "rep_score": 0.800612,
+          "disc_score": 0.530962,
+          "quiz_weight": 0.665787
+        },
+        {
+          "relativePath": "romanticism/romanticism-45818.jpg",
+          "embedding_index": 469,
+          "rep_score": 0.866491,
+          "disc_score": 0.523772,
+          "quiz_weight": 0.695132
+        },
+        {
+          "relativePath": "romanticism/romanticism-53949.jpg",
+          "embedding_index": 470,
+          "rep_score": 0.832921,
+          "disc_score": 0.593846,
+          "quiz_weight": 0.713384
+        },
+        {
+          "relativePath": "romanticism/romanticism-54246.jpg",
+          "embedding_index": 471,
+          "rep_score": 0.832016,
+          "disc_score": 0.610121,
+          "quiz_weight": 0.721068
+        },
+        {
+          "relativePath": "romanticism/romanticism-55711.jpg",
+          "embedding_index": 472,
+          "rep_score": 0.842585,
+          "disc_score": 0.291491,
+          "quiz_weight": 0.567038
+        },
+        {
+          "relativePath": "romanticism/romanticism-56980.jpg",
+          "embedding_index": 473,
+          "rep_score": 0.869885,
+          "disc_score": 0.462277,
+          "quiz_weight": 0.666081
+        },
+        {
+          "relativePath": "romanticism/romanticism-62208.jpg",
+          "embedding_index": 474,
+          "rep_score": 0.863009,
+          "disc_score": 0.473162,
+          "quiz_weight": 0.668085
+        },
+        {
+          "relativePath": "romanticism/romanticism-64717.jpg",
+          "embedding_index": 475,
+          "rep_score": 0.873962,
+          "disc_score": 0.565593,
+          "quiz_weight": 0.719777
+        },
+        {
+          "relativePath": "romanticism/romanticism-70121.jpg",
+          "embedding_index": 476,
+          "rep_score": 0.775219,
+          "disc_score": 0.58971,
+          "quiz_weight": 0.682465
+        },
+        {
+          "relativePath": "romanticism/romanticism-76072.jpg",
+          "embedding_index": 477,
+          "rep_score": 0.868455,
+          "disc_score": 0.605192,
+          "quiz_weight": 0.736824
+        },
+        {
+          "relativePath": "romanticism/romanticism-76164.jpg",
+          "embedding_index": 478,
+          "rep_score": 0.815594,
+          "disc_score": 0.49295,
+          "quiz_weight": 0.654272
+        },
+        {
+          "relativePath": "romanticism/romanticism-9195.jpg",
+          "embedding_index": 479,
+          "rep_score": 0.853937,
+          "disc_score": 0.606599,
+          "quiz_weight": 0.730268
+        }
+      ]
+    },
+    {
+      "name": "symbolism",
+      "images": [
+        {
+          "relativePath": "symbolism/symbolism-16488.jpg",
+          "embedding_index": 480,
+          "rep_score": 0.832765,
+          "disc_score": 0.534658,
+          "quiz_weight": 0.683712
+        },
+        {
+          "relativePath": "symbolism/symbolism-3499.jpg",
+          "embedding_index": 481,
+          "rep_score": 0.82884,
+          "disc_score": 0.386255,
+          "quiz_weight": 0.607548
+        },
+        {
+          "relativePath": "symbolism/symbolism-36353.jpg",
+          "embedding_index": 482,
+          "rep_score": 0.857221,
+          "disc_score": 0.449248,
+          "quiz_weight": 0.653235
+        },
+        {
+          "relativePath": "symbolism/symbolism-45648.jpg",
+          "embedding_index": 483,
+          "rep_score": 0.819151,
+          "disc_score": 0.47136,
+          "quiz_weight": 0.645256
+        },
+        {
+          "relativePath": "symbolism/symbolism-49351.jpg",
+          "embedding_index": 484,
+          "rep_score": 0.819279,
+          "disc_score": 0.469269,
+          "quiz_weight": 0.644274
+        },
+        {
+          "relativePath": "symbolism/symbolism-53967.jpg",
+          "embedding_index": 485,
+          "rep_score": 0.832827,
+          "disc_score": 0.518808,
+          "quiz_weight": 0.675818
+        },
+        {
+          "relativePath": "symbolism/symbolism-54552.jpg",
+          "embedding_index": 486,
+          "rep_score": 0.881627,
+          "disc_score": 0.526531,
+          "quiz_weight": 0.704079
+        },
+        {
+          "relativePath": "symbolism/symbolism-54657.jpg",
+          "embedding_index": 487,
+          "rep_score": 0.843703,
+          "disc_score": 0.565038,
+          "quiz_weight": 0.704371
+        },
+        {
+          "relativePath": "symbolism/symbolism-55618.jpg",
+          "embedding_index": 488,
+          "rep_score": 0.854024,
+          "disc_score": 0.466243,
+          "quiz_weight": 0.660133
+        },
+        {
+          "relativePath": "symbolism/symbolism-587.jpg",
+          "embedding_index": 489,
+          "rep_score": 0.857826,
+          "disc_score": 0.504392,
+          "quiz_weight": 0.681109
+        },
+        {
+          "relativePath": "symbolism/symbolism-62340.jpg",
+          "embedding_index": 490,
+          "rep_score": 0.856483,
+          "disc_score": 0.464912,
+          "quiz_weight": 0.660697
+        },
+        {
+          "relativePath": "symbolism/symbolism-64374.jpg",
+          "embedding_index": 491,
+          "rep_score": 0.770217,
+          "disc_score": 0.337566,
+          "quiz_weight": 0.553891
+        },
+        {
+          "relativePath": "symbolism/symbolism-68750.jpg",
+          "embedding_index": 492,
+          "rep_score": 0.852121,
+          "disc_score": 0.572921,
+          "quiz_weight": 0.712521
+        },
+        {
+          "relativePath": "symbolism/symbolism-72115.jpg",
+          "embedding_index": 493,
+          "rep_score": 0.80415,
+          "disc_score": 0.511675,
+          "quiz_weight": 0.657912
+        },
+        {
+          "relativePath": "symbolism/symbolism-73718.jpg",
+          "embedding_index": 494,
+          "rep_score": 0.846521,
+          "disc_score": 0.494715,
+          "quiz_weight": 0.670618
+        },
+        {
+          "relativePath": "symbolism/symbolism-75109.jpg",
+          "embedding_index": 495,
+          "rep_score": 0.806577,
+          "disc_score": 0.397217,
+          "quiz_weight": 0.601897
+        },
+        {
+          "relativePath": "symbolism/symbolism-76810.jpg",
+          "embedding_index": 496,
+          "rep_score": 0.825317,
+          "disc_score": 0.567523,
+          "quiz_weight": 0.69642
+        },
+        {
+          "relativePath": "symbolism/symbolism-76836.jpg",
+          "embedding_index": 497,
+          "rep_score": 0.859773,
+          "disc_score": 0.557251,
+          "quiz_weight": 0.708512
+        },
+        {
+          "relativePath": "symbolism/symbolism-79742.jpg",
+          "embedding_index": 498,
+          "rep_score": 0.867527,
+          "disc_score": 0.471195,
+          "quiz_weight": 0.669361
+        },
+        {
+          "relativePath": "symbolism/symbolism-9976.jpg",
+          "embedding_index": 499,
+          "rep_score": 0.858985,
+          "disc_score": 0.550016,
+          "quiz_weight": 0.7045
+        }
+      ]
+    },
+    {
+      "name": "synthetic-cubism",
+      "images": [
+        {
+          "relativePath": "synthetic-cubism/synthetic-cubism-12436.jpg",
+          "embedding_index": 500,
+          "rep_score": 0.916215,
+          "disc_score": 0.592608,
+          "quiz_weight": 0.754412
+        },
+        {
+          "relativePath": "synthetic-cubism/synthetic-cubism-23273.jpg",
+          "embedding_index": 501,
+          "rep_score": 0.955514,
+          "disc_score": 0.603741,
+          "quiz_weight": 0.779627
+        },
+        {
+          "relativePath": "synthetic-cubism/synthetic-cubism-23377.jpg",
+          "embedding_index": 502,
+          "rep_score": 0.950685,
+          "disc_score": 0.499077,
+          "quiz_weight": 0.724881
+        },
+        {
+          "relativePath": "synthetic-cubism/synthetic-cubism-23439.jpg",
+          "embedding_index": 503,
+          "rep_score": 0.94685,
+          "disc_score": 0.520178,
+          "quiz_weight": 0.733514
+        },
+        {
+          "relativePath": "synthetic-cubism/synthetic-cubism-28228.jpg",
+          "embedding_index": 504,
+          "rep_score": 0.946643,
+          "disc_score": 0.625043,
+          "quiz_weight": 0.785843
+        },
+        {
+          "relativePath": "synthetic-cubism/synthetic-cubism-28542.jpg",
+          "embedding_index": 505,
+          "rep_score": 0.92123,
+          "disc_score": 0.524752,
+          "quiz_weight": 0.722991
+        },
+        {
+          "relativePath": "synthetic-cubism/synthetic-cubism-30173.jpg",
+          "embedding_index": 506,
+          "rep_score": 0.947041,
+          "disc_score": 0.561241,
+          "quiz_weight": 0.754141
+        },
+        {
+          "relativePath": "synthetic-cubism/synthetic-cubism-35247.jpg",
+          "embedding_index": 507,
+          "rep_score": 0.948411,
+          "disc_score": 0.540721,
+          "quiz_weight": 0.744566
+        },
+        {
+          "relativePath": "synthetic-cubism/synthetic-cubism-36552.jpg",
+          "embedding_index": 508,
+          "rep_score": 0.943816,
+          "disc_score": 0.536826,
+          "quiz_weight": 0.740321
+        },
+        {
+          "relativePath": "synthetic-cubism/synthetic-cubism-42201.jpg",
+          "embedding_index": 509,
+          "rep_score": 0.932534,
+          "disc_score": 0.586479,
+          "quiz_weight": 0.759506
+        },
+        {
+          "relativePath": "synthetic-cubism/synthetic-cubism-43289.jpg",
+          "embedding_index": 510,
+          "rep_score": 0.889892,
+          "disc_score": 0.626504,
+          "quiz_weight": 0.758198
+        },
+        {
+          "relativePath": "synthetic-cubism/synthetic-cubism-45449.jpg",
+          "embedding_index": 511,
+          "rep_score": 0.929278,
+          "disc_score": 0.585921,
+          "quiz_weight": 0.757599
+        },
+        {
+          "relativePath": "synthetic-cubism/synthetic-cubism-45893.jpg",
+          "embedding_index": 512,
+          "rep_score": 0.948924,
+          "disc_score": 0.52212,
+          "quiz_weight": 0.735522
+        },
+        {
+          "relativePath": "synthetic-cubism/synthetic-cubism-48788.jpg",
+          "embedding_index": 513,
+          "rep_score": 0.942229,
+          "disc_score": 0.574783,
+          "quiz_weight": 0.758506
+        },
+        {
+          "relativePath": "synthetic-cubism/synthetic-cubism-50879.jpg",
+          "embedding_index": 514,
+          "rep_score": 0.948187,
+          "disc_score": 0.574242,
+          "quiz_weight": 0.761214
+        },
+        {
+          "relativePath": "synthetic-cubism/synthetic-cubism-5600.jpg",
+          "embedding_index": 515,
+          "rep_score": 0.924669,
+          "disc_score": 0.602023,
+          "quiz_weight": 0.763346
+        },
+        {
+          "relativePath": "synthetic-cubism/synthetic-cubism-61601.jpg",
+          "embedding_index": 516,
+          "rep_score": 0.944601,
+          "disc_score": 0.630716,
+          "quiz_weight": 0.787658
+        },
+        {
+          "relativePath": "synthetic-cubism/synthetic-cubism-61807.jpg",
+          "embedding_index": 517,
+          "rep_score": 0.934338,
+          "disc_score": 0.665748,
+          "quiz_weight": 0.800043
+        },
+        {
+          "relativePath": "synthetic-cubism/synthetic-cubism-61842.jpg",
+          "embedding_index": 518,
+          "rep_score": 0.866888,
+          "disc_score": 0.557387,
+          "quiz_weight": 0.712138
+        },
+        {
+          "relativePath": "synthetic-cubism/synthetic-cubism-6867.jpg",
+          "embedding_index": 519,
+          "rep_score": 0.939502,
+          "disc_score": 0.565909,
+          "quiz_weight": 0.752706
+        }
+      ]
+    },
+    {
+      "name": "ukiyo-e",
+      "images": [
+        {
+          "relativePath": "ukiyo-e/ukiyo-e-21202.jpg",
+          "embedding_index": 520,
+          "rep_score": 0.940898,
+          "disc_score": 0.836606,
+          "quiz_weight": 0.888752
+        },
+        {
+          "relativePath": "ukiyo-e/ukiyo-e-22267.jpg",
+          "embedding_index": 521,
+          "rep_score": 0.927247,
+          "disc_score": 0.854287,
+          "quiz_weight": 0.890767
+        },
+        {
+          "relativePath": "ukiyo-e/ukiyo-e-23812.jpg",
+          "embedding_index": 522,
+          "rep_score": 0.895808,
+          "disc_score": 0.795042,
+          "quiz_weight": 0.845425
+        },
+        {
+          "relativePath": "ukiyo-e/ukiyo-e-27817.jpg",
+          "embedding_index": 523,
+          "rep_score": 0.90513,
+          "disc_score": 0.67195,
+          "quiz_weight": 0.78854
+        },
+        {
+          "relativePath": "ukiyo-e/ukiyo-e-30112.jpg",
+          "embedding_index": 524,
+          "rep_score": 0.903268,
+          "disc_score": 0.735294,
+          "quiz_weight": 0.819281
+        },
+        {
+          "relativePath": "ukiyo-e/ukiyo-e-48480.jpg",
+          "embedding_index": 525,
+          "rep_score": 0.921568,
+          "disc_score": 0.736498,
+          "quiz_weight": 0.829033
+        },
+        {
+          "relativePath": "ukiyo-e/ukiyo-e-52633.jpg",
+          "embedding_index": 526,
+          "rep_score": 0.93751,
+          "disc_score": 0.820768,
+          "quiz_weight": 0.879139
+        },
+        {
+          "relativePath": "ukiyo-e/ukiyo-e-54200.jpg",
+          "embedding_index": 527,
+          "rep_score": 0.903734,
+          "disc_score": 0.797179,
+          "quiz_weight": 0.850457
+        },
+        {
+          "relativePath": "ukiyo-e/ukiyo-e-54463.jpg",
+          "embedding_index": 528,
+          "rep_score": 0.931855,
+          "disc_score": 0.783815,
+          "quiz_weight": 0.857835
+        },
+        {
+          "relativePath": "ukiyo-e/ukiyo-e-55446.jpg",
+          "embedding_index": 529,
+          "rep_score": 0.909134,
+          "disc_score": 0.729732,
+          "quiz_weight": 0.819433
+        },
+        {
+          "relativePath": "ukiyo-e/ukiyo-e-61323.jpg",
+          "embedding_index": 530,
+          "rep_score": 0.871289,
+          "disc_score": 0.75705,
+          "quiz_weight": 0.814169
+        },
+        {
+          "relativePath": "ukiyo-e/ukiyo-e-63496.jpg",
+          "embedding_index": 531,
+          "rep_score": 0.943204,
+          "disc_score": 0.862614,
+          "quiz_weight": 0.902909
+        },
+        {
+          "relativePath": "ukiyo-e/ukiyo-e-64585.jpg",
+          "embedding_index": 532,
+          "rep_score": 0.896742,
+          "disc_score": 0.785641,
+          "quiz_weight": 0.841191
+        },
+        {
+          "relativePath": "ukiyo-e/ukiyo-e-69780.jpg",
+          "embedding_index": 533,
+          "rep_score": 0.926429,
+          "disc_score": 0.794991,
+          "quiz_weight": 0.86071
+        },
+        {
+          "relativePath": "ukiyo-e/ukiyo-e-70842.jpg",
+          "embedding_index": 534,
+          "rep_score": 0.924847,
+          "disc_score": 0.842328,
+          "quiz_weight": 0.883587
+        },
+        {
+          "relativePath": "ukiyo-e/ukiyo-e-75062.jpg",
+          "embedding_index": 535,
+          "rep_score": 0.895506,
+          "disc_score": 0.748384,
+          "quiz_weight": 0.821945
+        },
+        {
+          "relativePath": "ukiyo-e/ukiyo-e-75723.jpg",
+          "embedding_index": 536,
+          "rep_score": 0.858949,
+          "disc_score": 0.667903,
+          "quiz_weight": 0.763426
+        },
+        {
+          "relativePath": "ukiyo-e/ukiyo-e-79258.jpg",
+          "embedding_index": 537,
+          "rep_score": 0.874456,
+          "disc_score": 0.817434,
+          "quiz_weight": 0.845945
+        },
+        {
+          "relativePath": "ukiyo-e/ukiyo-e-79269.jpg",
+          "embedding_index": 538,
+          "rep_score": 0.887547,
+          "disc_score": 0.737044,
+          "quiz_weight": 0.812295
+        },
+        {
+          "relativePath": "ukiyo-e/ukiyo-e-79351.jpg",
+          "embedding_index": 539,
+          "rep_score": 0.928893,
+          "disc_score": 0.729925,
+          "quiz_weight": 0.829409
+        }
+      ]
+    }
+  ],
+  "schema_version": 1,
+  "embedding_store": {
+    "format": "npy",
+    "path": "quiz_clip_embeddings.npy",
+    "dim": 512,
+    "clip_model": "ViT-B-32::laion2b_s34b_b79k",
+    "image_root_used": "/content/quiz_images"
+  }
+}
