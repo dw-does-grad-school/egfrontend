@@ -1,6 +1,7 @@
 import SplashIntro from "@/components/effects/SplashIntro";
 import Image from "next/image";
 import Link from "next/link";
+import { SignedIn, SignedOut } from "@clerk/nextjs";
 
 export default function Home() {
   return (
@@ -32,12 +33,12 @@ export default function Home() {
                 Experience curated collections of modern and contemporary art in an immersive digital environment.
               </p>
               <div className="flex gap-4">
-                <button className="bg-white px-8 py-3 text-sm font-light tracking-widest text-black hover:bg-zinc-100 transition-colors">
+                <Link href="/visit" className="bg-white px-8 py-3 text-sm font-light tracking-widest text-black hover:bg-zinc-100 transition-colors">
                   EXPLORE NOW
-                </button>
-                <button className="border border-white px-8 py-3 text-sm font-light tracking-widest text-white hover:bg-white hover:text-black transition-colors">
+                </Link>
+                <Link href="/collections" className="border border-white px-8 py-3 text-sm font-light tracking-widest text-white hover:bg-white hover:text-black transition-colors">
                   LEARN MORE
-                </button>
+                </Link>
               </div>
             </div>
           </div>
@@ -61,7 +62,7 @@ export default function Home() {
               <div className="group cursor-pointer bg-white">
                 <div className="aspect-[4/3] overflow-hidden bg-zinc-200 relative">
                   <Image
-                    src="/quiz_details/quiz_images/color-field-painting/color-field-painting-68129.jpg"
+                    src="/quiz_details/quiz_images/color-field-painting/color-field-painting-20441.jpg"
                     alt="Abstract Expressions Exhibition"
                     fill
                     className="object-cover transition-transform duration-500 group-hover:scale-105"
@@ -187,9 +188,9 @@ export default function Home() {
             </div>
 
             <div className="mt-12 text-center">
-              <button className="border border-black px-10 py-3 text-sm font-light tracking-widest text-black hover:bg-black hover:text-white transition-colors">
+                <Link href="/collections" className="inline-block border border-black px-10 py-3 text-sm font-light tracking-widest text-black hover:bg-black hover:text-white transition-colors">
                 EXPLORE COLLECTION
-              </button>
+                </Link>
             </div>
           </div>
         </section>
@@ -217,14 +218,29 @@ export default function Home() {
               </div>
 
               <div className="flex flex-col justify-center">
-                <div className="space-y-4">
-                  <button className="w-full bg-white py-4 text-sm font-light tracking-widest text-black hover:bg-zinc-100 transition-colors">
-                    BOOK A TOUR
-                  </button>
-                  <button className="w-full border border-white py-4 text-sm font-light tracking-widest text-white hover:bg-white hover:text-black transition-colors">
-                    BECOME A MEMBER
-                  </button>
-                </div>
+                <SignedIn>
+                  <div className="space-y-4">
+                    <p className="text-lg font-light text-zinc-300">
+                      Discover art tailored to your taste with our personalized curation quiz.
+                    </p>
+                    <Link href="/taste-quiz" className="block w-full bg-white py-4 text-center text-sm font-light tracking-widest text-black hover:bg-zinc-100 transition-colors">
+                      TAKE THE TASTE QUIZ
+                    </Link>
+                  </div>
+                </SignedIn>
+                <SignedOut>
+                  <div className="space-y-4">
+                    <p className="text-lg font-light text-zinc-300">
+                      Sign in to take our custom curation quiz
+                    </p>
+                    <Link href="/sign-in" className="block w-full bg-white py-4 text-center text-sm font-light tracking-widest text-black hover:bg-zinc-100 transition-colors">
+                      SIGN IN
+                    </Link>
+                    <Link href="/sign-up" className="block w-full border border-white py-4 text-center text-sm font-light tracking-widest text-white hover:bg-white hover:text-black transition-colors">
+                      REGISTER TODAY
+                    </Link>
+                  </div>
+                </SignedOut>
               </div>
             </div>
           </div>
@@ -245,23 +261,23 @@ export default function Home() {
                 <ul className="space-y-2 text-sm font-light text-zinc-700">
                   <li><Link href="/exhibits" className="hover:text-black transition-colors">Exhibitions</Link></li>
                   <li><Link href="/profile" className="hover:text-black transition-colors">Collection</Link></li>
-                  <li><Link href="#" className="hover:text-black transition-colors">Artists</Link></li>
+                  <li><Link href="/coming-soon" className="hover:text-black transition-colors">Artists</Link></li>
                 </ul>
               </div>
               <div>
                 <h4 className="mb-3 text-xs font-light tracking-widest text-zinc-500">VISIT</h4>
                 <ul className="space-y-2 text-sm font-light text-zinc-700">
-                  <li><Link href="#" className="hover:text-black transition-colors">Plan Your Visit</Link></li>
-                  <li><Link href="#" className="hover:text-black transition-colors">Accessibility</Link></li>
-                  <li><Link href="#" className="hover:text-black transition-colors">Group Tours</Link></li>
+                  <li><Link href="/coming-soon" className="hover:text-black transition-colors">Plan Your Visit</Link></li>
+                  <li><Link href="/coming-soon" className="hover:text-black transition-colors">Accessibility</Link></li>
+                  <li><Link href="/coming-soon" className="hover:text-black transition-colors">Group Tours</Link></li>
                 </ul>
               </div>
               <div>
                 <h4 className="mb-3 text-xs font-light tracking-widest text-zinc-500">CONNECT</h4>
                 <ul className="space-y-2 text-sm font-light text-zinc-700">
-                  <li><Link href="#" className="hover:text-black transition-colors">Newsletter</Link></li>
-                  <li><Link href="#" className="hover:text-black transition-colors">Social Media</Link></li>
-                  <li><Link href="#" className="hover:text-black transition-colors">Contact</Link></li>
+                  <li><Link href="/coming-soon" className="hover:text-black transition-colors">Newsletter</Link></li>
+                  <li><Link href="/coming-soon" className="hover:text-black transition-colors">Social Media</Link></li>
+                  <li><Link href="/coming-soon" className="hover:text-black transition-colors">Contact</Link></li>
                 </ul>
               </div>
             </div>

@@ -3,6 +3,8 @@
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
+const SPLASH_SHOWN_KEY = "splashIntroShown";
+
 // =====================
 // MOMA-INSPIRED SPLASH
 // =====================
@@ -13,9 +15,22 @@ export default function SplashIntro({
   duration?: number; 
   children: React.ReactNode;
 }) {
-  const [show, setShow] = useState(true);
+  const [show, setShow] = useState(false);
 
   useEffect(() => {
+    // Check if splash has already been shown this session
+    const hasShown = sessionStorage.getItem(SPLASH_SHOWN_KEY);
+    
+    if (hasShown) {
+      // Already shown this session, don't show again
+      setShow(false);
+      return;
+    }
+    
+    // First time this session, show the splash
+    setShow(true);
+    sessionStorage.setItem(SPLASH_SHOWN_KEY, "true");
+    
     const timer = setTimeout(() => setShow(false), duration);
     return () => clearTimeout(timer);
   }, [duration]);
