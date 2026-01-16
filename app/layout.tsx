@@ -24,6 +24,9 @@ const dmSans = DM_Sans({
 export const metadata: Metadata = {
   title: "Echo",
   description: "Your personal art curator",
+  icons: {
+    icon: "/general/echo_logo.png",
+  },
 };
 
 export default function RootLayout({

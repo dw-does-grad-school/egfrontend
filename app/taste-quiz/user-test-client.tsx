@@ -319,13 +319,13 @@ export default function UserTestClient({ manifest }: { manifest: Manifest }) {
 
   // ---------- UI ----------
   return (
-    <div className="space-y-4">
+    <div className="space-y-6">
       {/* Header bar (subtle explainability always visible) */}
-      <div className="rounded-2xl border border-neutral-200 bg-white p-4 shadow-sm">
-        <div className="flex flex-wrap items-start justify-between gap-3">
+      <div className="rounded-lg border border-zinc-200 bg-white p-6">
+        <div className="flex flex-wrap items-start justify-between gap-4">
           <div>
-            <div className="text-sm font-medium text-neutral-900">Taste Test</div>
-            <div className="mt-1 text-sm text-neutral-600">
+            <div className="text-base font-medium text-black">Taste Test</div>
+            <div className="mt-2 text-sm leading-relaxed text-zinc-700">
               Inputs influence the recommender as priors: mood + color guide tone; style + selections shape your taste profile.
               <InlineInfo text="Prototype: mood/color are captured and surfaced for analysis; embeddings-based retrieval comes next." />
             </div>
@@ -333,14 +333,14 @@ export default function UserTestClient({ manifest }: { manifest: Manifest }) {
 
           <div className="flex items-center gap-2">
             {step === "quiz" && (
-              <div className="text-sm text-neutral-700">
-                <span className="font-mono">{qIndex + 1}</span>{" "}
-                <span className="text-neutral-400">/</span>{" "}
-                <span className="font-mono">{level === "l3" ? cfg.questions : cfg.questions}</span>
+              <div className="text-base text-zinc-800">
+                <span className="font-mono font-medium">{qIndex + 1}</span>{" "}
+                <span className="text-zinc-400">/</span>{" "}
+                <span className="font-mono font-medium">{level === "l3" ? cfg.questions : cfg.questions}</span>
               </div>
             )}
             <button
-              className="rounded-xl border border-neutral-200 px-3 py-2 text-sm hover:bg-neutral-50"
+              className="border border-zinc-200 px-4 py-2 text-base hover:bg-zinc-50 transition-colors"
               onClick={() =>
                 downloadJson("echogallery_user_test_state.json", {
                   step,
@@ -363,27 +363,27 @@ export default function UserTestClient({ manifest }: { manifest: Manifest }) {
       {/* Step screens */}
       {step === "level" && (
         <Card>
-          <h2 className="text-lg font-semibold">Select a quiz level</h2>
-          <p className="mt-1 text-sm text-neutral-600">
+          <h2 className="text-2xl font-light tracking-tight text-black">Select a quiz level</h2>
+          <p className="mt-2 text-base leading-relaxed text-zinc-700">
             Level affects question count and how heavily results update your baseline taste profile.
             <InlineInfo text="We store a baseline_update_weight so the backend can blend this run into your long-term profile." />
           </p>
 
-          <div className="mt-4 grid gap-3 md:grid-cols-3">
+          <div className="mt-6 grid gap-4 md:grid-cols-3">
             {(["l1", "l2", "l3"] as Level[]).map((k) => (
               <button
                 key={k}
                 onClick={() => setLevel(k)}
-                className={`rounded-2xl border p-4 text-left transition ${
-                  level === k ? "border-neutral-900" : "border-neutral-200 hover:bg-neutral-50"
+                className={`border p-5 text-left transition-colors ${
+                  level === k ? "border-black bg-zinc-50" : "border-zinc-200 hover:bg-zinc-50"
                 }`}
               >
-                <div className="text-sm font-semibold">{LEVELS[k].label}</div>
-                <div className="mt-1 text-xs text-neutral-600">{LEVELS[k].desc}</div>
-                <div className="mt-3 text-xs text-neutral-500">
-                  Questions: <span className="font-mono">{LEVELS[k].questions === 80 ? "40–80" : LEVELS[k].questions}</span>
+                <div className="text-base font-normal text-black">{LEVELS[k].label}</div>
+                <div className="mt-2 text-sm leading-relaxed text-zinc-700">{LEVELS[k].desc}</div>
+                <div className="mt-4 text-xs text-zinc-600">
+                  Questions: <span className="font-mono font-medium">{LEVELS[k].questions === 80 ? "40–80" : LEVELS[k].questions}</span>
                   <br />
-                  Profile weight: <span className="font-mono">{LEVELS[k].baselineUpdateWeight}</span>
+                  Profile weight: <span className="font-mono font-medium">{LEVELS[k].baselineUpdateWeight}</span>
                 </div>
               </button>
             ))}
@@ -400,20 +400,20 @@ export default function UserTestClient({ manifest }: { manifest: Manifest }) {
 
       {step === "mood" && (
         <Card>
-          <h2 className="text-lg font-semibold">1) Mood</h2>
-          <p className="mt-1 text-sm text-neutral-600">
+          <h2 className="text-2xl font-light tracking-tight text-black">1) Mood</h2>
+          <p className="mt-2 text-base leading-relaxed text-zinc-700">
             Select up to 3. Used to bias recommendations toward tone and pacing.
             <InlineInfo text="Subtle influence: mood becomes a prior. It should never fully override your taste profile." />
           </p>
 
-          <div className="mt-4 grid gap-2 sm:grid-cols-2 md:grid-cols-4">
+          <div className="mt-6 grid gap-3 sm:grid-cols-2 md:grid-cols-4">
             {MOODS.map((m) => {
               const active = moods.includes(m);
               return (
                 <button
                   key={m}
-                  className={`rounded-xl border px-3 py-2 text-sm transition ${
-                    active ? "border-neutral-900 bg-neutral-900 text-white" : "border-neutral-200 hover:bg-neutral-50"
+                  className={`border px-4 py-3 text-base transition-colors ${
+                    active ? "border-black bg-black text-white font-medium" : "border-zinc-200 hover:bg-zinc-50 text-black"
                   }`}
                   onClick={() => {
                     setMoods((prev) => {
@@ -435,20 +435,20 @@ export default function UserTestClient({ manifest }: { manifest: Manifest }) {
 
       {step === "color" && (
         <Card>
-          <h2 className="text-lg font-semibold">2) Color</h2>
-          <p className="mt-1 text-sm text-neutral-600">
+          <h2 className="text-2xl font-light tracking-tight text-black">2) Color</h2>
+          <p className="mt-2 text-base leading-relaxed text-zinc-700">
             Select up to 3. Used to bias recommendations toward palette and atmosphere.
             <InlineInfo text="Prototype: we record your palette picks; later this can influence reranking using color features or captions." />
           </p>
 
-          <div className="mt-4 grid grid-cols-2 gap-2 sm:grid-cols-5">
+          <div className="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-5">
             {COLORS.map((c) => {
               const active = colors.includes(c.name);
               return (
                 <button
                   key={c.name}
-                  className={`rounded-2xl border p-3 text-left transition ${
-                    active ? "border-neutral-900" : "border-neutral-200 hover:bg-neutral-50"
+                  className={`border p-4 text-left transition-colors ${
+                    active ? "border-black bg-zinc-50" : "border-zinc-200 hover:bg-zinc-50"
                   }`}
                   onClick={() => {
                     setColors((prev) => {
@@ -459,8 +459,8 @@ export default function UserTestClient({ manifest }: { manifest: Manifest }) {
                   }}
                 >
                   <div className="flex items-center gap-3">
-                    <div className="h-8 w-8 rounded-xl border border-neutral-200" style={{ background: c.hex }} />
-                    <div className="text-sm font-medium">{c.name}</div>
+                    <div className="h-8 w-8 border border-zinc-200" style={{ background: c.hex }} />
+                    <div className="text-base text-black">{c.name}</div>
                   </div>
                 </button>
               );
@@ -473,24 +473,24 @@ export default function UserTestClient({ manifest }: { manifest: Manifest }) {
 
       {step === "style" && (
         <Card>
-          <h2 className="text-lg font-semibold">3) Styles</h2>
-          <p className="mt-1 text-sm text-neutral-600">
+          <h2 className="text-2xl font-light tracking-tight text-black">3) Styles</h2>
+          <p className="mt-2 text-base leading-relaxed text-zinc-700">
             Choose styles to focus the quiz.
             <InlineInfo
               text={`L1 requires exactly 2 styles; L2 requires exactly 4; L3 is unlimited (min 1). The quiz will sample images from your selection.`}
             />
           </p>
 
-          <div className="mt-3 text-xs text-neutral-600">
-            Selected: <span className="font-mono">{pickedStyles.length}</span>{" "}
+          <div className="mt-4 text-sm text-zinc-700">
+            Selected: <span className="font-mono font-medium">{pickedStyles.length}</span>{" "}
             {cfg.stylePickRule.exact != null && (
               <>
-                · Required: <span className="font-mono">{cfg.stylePickRule.exact}</span>
+                · Required: <span className="font-mono font-medium">{cfg.stylePickRule.exact}</span>
               </>
             )}
           </div>
 
-          <div className="mt-4 grid gap-2 sm:grid-cols-2 md:grid-cols-3">
+          <div className="mt-6 grid gap-3 sm:grid-cols-2 md:grid-cols-3">
             {styles.map((s) => {
               const active = pickedStyles.includes(s);
               const locked =
@@ -509,8 +509,8 @@ export default function UserTestClient({ manifest }: { manifest: Manifest }) {
                       return [...prev, s];
                     });
                   }}
-                  className={`rounded-xl border px-3 py-2 text-left text-sm transition ${
-                    active ? "border-neutral-900 bg-neutral-900 text-white" : "border-neutral-200 hover:bg-neutral-50"
+                  className={`border px-4 py-3 text-left text-base transition-colors ${
+                    active ? "border-black bg-black text-white font-medium" : "border-zinc-200 hover:bg-zinc-50 text-black"
                   } ${locked ? "opacity-50" : ""}`}
                 >
                   {s}
@@ -539,20 +539,20 @@ export default function UserTestClient({ manifest }: { manifest: Manifest }) {
 
       {step === "quiz" && currentPair && (
         <Card>
-          <div className="flex flex-wrap items-start justify-between gap-3">
+          <div className="flex flex-wrap items-start justify-between gap-4">
             <div>
-              <div className="text-sm font-medium text-neutral-900">
+              <div className="text-base font-medium text-black">
                 Pairwise preference
                 <InlineInfo text="Choosing an image increases its style score and decreases the other style score, weighted by quiz_weight." />
               </div>
-              <div className="mt-1 text-xs text-neutral-600">
+              <div className="mt-2 text-sm text-zinc-700">
                 Click the image you prefer. The system learns from relative choices (more stable than likes alone).
               </div>
             </div>
 
             {level === "l3" && cfg.showEarlyFinishAt && qIndex + 1 >= cfg.showEarlyFinishAt && (
               <button
-                className="rounded-xl border border-neutral-200 px-3 py-2 text-sm hover:bg-neutral-50"
+                className="border border-zinc-200 px-4 py-2 text-base hover:bg-zinc-50 transition-colors"
                 onClick={finishEarlyL3}
               >
                 Finish now (40+)
@@ -560,7 +560,7 @@ export default function UserTestClient({ manifest }: { manifest: Manifest }) {
             )}
           </div>
 
-          <div className="mt-4 grid gap-3 md:grid-cols-2">
+          <div className="mt-6 grid gap-4 md:grid-cols-2">
             <ChoiceCard
               key={`L-${qIndex}-${currentPair.left.embedding_index}`}
               label={currentPair.left.style}
@@ -583,7 +583,7 @@ export default function UserTestClient({ manifest }: { manifest: Manifest }) {
                 initial={{ opacity: 0, y: 6 }}
                 animate={{ opacity: 1, y: 0 }}
                 exit={{ opacity: 0, y: 6 }}
-                className="mt-3 text-xs text-neutral-600"
+                className="mt-4 text-sm text-zinc-700"
               >
                 {lastWhy}
               </motion.div>
@@ -593,17 +593,17 @@ export default function UserTestClient({ manifest }: { manifest: Manifest }) {
       )}
 
       {step === "results" && results && (
-        <div className="space-y-4">
+        <div className="space-y-6">
           <Card>
-            <div className="flex flex-wrap items-start justify-between gap-3">
+            <div className="flex flex-wrap items-start justify-between gap-4">
               <div>
-                <div className="text-lg font-semibold">Results</div>
-                <div className="mt-1 text-sm text-neutral-600">
-                  Level: <span className="font-mono">{results.level}</span> · Answers:{" "}
-                  <span className="font-mono">{results.questions_answered}</span> · Baseline update weight:{" "}
-                  <span className="font-mono">{results.baseline_update_weight}</span>
+                <div className="text-2xl font-light tracking-tight text-black">Results</div>
+                <div className="mt-2 text-base text-zinc-700">
+                  Level: <span className="font-mono font-medium">{results.level}</span> · Answers:{" "}
+                  <span className="font-mono font-medium">{results.questions_answered}</span> · Baseline update weight:{" "}
+                  <span className="font-mono font-medium">{results.baseline_update_weight}</span>
                 </div>
-                <div className="mt-2 text-xs text-neutral-600">
+                <div className="mt-2 text-sm text-zinc-700">
                   Mood: <span className="font-mono">{results.moods.join(", ")}</span> · Colors:{" "}
                   <span className="font-mono">{results.colors.join(", ")}</span>
                 </div>
@@ -611,13 +611,13 @@ export default function UserTestClient({ manifest }: { manifest: Manifest }) {
 
               <div className="flex gap-2">
                 <button
-                  className="rounded-xl border border-neutral-200 px-3 py-2 text-sm hover:bg-neutral-50"
+                  className="border border-zinc-200 px-4 py-2 text-base hover:bg-zinc-50 transition-colors"
                   onClick={() => downloadJson("echogallery_user_test_results.json", results)}
                 >
                   Export results JSON
                 </button>
                 <button
-                  className="rounded-xl bg-neutral-900 px-3 py-2 text-sm font-medium text-white hover:bg-neutral-800"
+                  className="bg-black px-4 py-2 text-base font-medium text-white hover:bg-zinc-800 transition-colors"
                   onClick={() => {
                     setStep("level");
                     setQIndex(0);
@@ -637,30 +637,30 @@ export default function UserTestClient({ manifest }: { manifest: Manifest }) {
 
           {results.styles.map((s) => (
             <Card key={s.name}>
-              <div className="flex flex-wrap items-center justify-between gap-3">
+              <div className="flex flex-wrap items-center justify-between gap-4">
                 <div>
-                  <div className="text-base font-semibold">{s.name}</div>
-                  <div className="mt-1 text-sm text-neutral-600">
-                    score: <span className="font-mono">{(s.score * 100).toFixed(1)}%</span> · raw:{" "}
-                    <span className="font-mono">{s.raw.toFixed(3)}</span>
+                  <div className="text-xl font-normal text-black">{s.name}</div>
+                  <div className="mt-2 text-base text-zinc-700">
+                    score: <span className="font-mono font-medium">{(s.score * 100).toFixed(1)}%</span> · raw:{" "}
+                    <span className="font-mono font-medium">{s.raw.toFixed(3)}</span>
                   </div>
                 </div>
 
                 <div className="w-56">
-                  <div className="h-2 w-full rounded-full bg-neutral-100">
-                    <div className="h-2 rounded-full bg-neutral-900" style={{ width: `${Math.max(1, s.score * 100)}%` }} />
+                  <div className="h-2 w-full bg-zinc-100">
+                    <div className="h-2 bg-black" style={{ width: `${Math.max(1, s.score * 100)}%` }} />
                   </div>
                 </div>
               </div>
 
-              <div className="mt-4 grid gap-4 md:grid-cols-2">
+              <div className="mt-6 grid gap-4 md:grid-cols-2">
                 <ExplainBox
                   text={
-                    "This score is derived from your pairwise selections. Each pick adds the chosen image’s quiz_weight to its style and subtracts the other image’s quiz_weight from its style."
+                    "This score is derived from your pairwise selections. Each pick adds the chosen image's quiz_weight to its style and subtracts the other image's quiz_weight from its style."
                   }
                 />
 
-                <div className="space-y-3">
+                <div className="space-y-4">
                   <EvidenceStrip title="Top positive evidence" items={s.pos} />
                   <EvidenceStrip title="Top negative evidence" items={s.neg} />
                 </div>
@@ -676,15 +676,15 @@ export default function UserTestClient({ manifest }: { manifest: Manifest }) {
 /* ---------- UI building blocks ---------- */
 
 function Card({ children }: { children: React.ReactNode }) {
-  return <div className="rounded-2xl border border-neutral-200 bg-white p-4 shadow-sm">{children}</div>;
+  return <div className="border border-zinc-200 bg-white p-6">{children}</div>;
 }
 
 function InlineInfo({ text }: { text: string }) {
   return (
     <span className="ml-1 inline-flex items-center align-middle">
-      <span className="group relative inline-flex h-5 w-5 items-center justify-center rounded-full border border-neutral-200 text-[11px] text-neutral-600">
+      <span className="group relative inline-flex h-5 w-5 items-center justify-center border border-zinc-200 text-[11px] text-zinc-600">
         i
-        <span className="pointer-events-none absolute right-0 top-6 z-10 hidden w-72 rounded-xl border border-neutral-200 bg-white p-3 text-xs text-neutral-700 shadow-sm group-hover:block">
+        <span className="pointer-events-none absolute right-0 top-6 z-10 hidden w-72 border border-zinc-200 bg-white p-3 text-sm leading-relaxed text-zinc-700 shadow-sm group-hover:block">
           {text}
         </span>
       </span>
@@ -702,9 +702,9 @@ function FooterNav({
   onBack?: () => void;
 }) {
   return (
-    <div className="mt-6 flex items-center justify-between">
+    <div className="mt-8 flex items-center justify-between">
       {onBack ? (
-        <button className="rounded-xl border border-neutral-200 px-3 py-2 text-sm hover:bg-neutral-50" onClick={onBack}>
+        <button className="border border-zinc-200 px-5 py-2.5 text-base hover:bg-zinc-50 transition-colors" onClick={onBack}>
           Back
         </button>
       ) : (
@@ -712,8 +712,8 @@ function FooterNav({
       )}
 
       <button
-        className={`rounded-xl px-3 py-2 text-sm font-medium ${
-          canNext ? "bg-neutral-900 text-white hover:bg-neutral-800" : "bg-neutral-200 text-neutral-500"
+        className={`px-5 py-2.5 text-base font-medium transition-colors ${
+          canNext ? "bg-black text-white hover:bg-zinc-800" : "bg-zinc-200 text-zinc-500 cursor-not-allowed"
         }`}
         onClick={onNext}
         disabled={!canNext}
@@ -741,15 +741,15 @@ function ChoiceCard({
     <Wrapper
       onClick={onPick}
       whileTap={animate ? { scale: 0.985 } : undefined}
-      className="group overflow-hidden rounded-2xl border border-neutral-200 bg-white text-left hover:bg-neutral-50"
+      className="group overflow-hidden border border-zinc-200 bg-white text-left hover:bg-zinc-50 transition-colors"
     >
       <div className="relative aspect-[4/3] w-full">
         <Image src={src} alt={label} fill className="object-cover" sizes="(max-width: 768px) 100vw, 50vw" />
       </div>
 
-      <div className="flex items-center justify-between gap-2 p-3">
-        <div className="text-sm font-medium text-neutral-900">{label}</div>
-        <div className="text-xs text-neutral-500 opacity-0 transition group-hover:opacity-100">
+      <div className="flex items-center justify-between gap-2 p-4">
+        <div className="text-base font-medium text-black">{label}</div>
+        <div className="text-sm text-zinc-600 opacity-0 transition group-hover:opacity-100">
           Click to choose
         </div>
       </div>
@@ -759,11 +759,11 @@ function ChoiceCard({
 
 function ExplainBox({ text }: { text: string }) {
   return (
-    <div className="rounded-2xl border border-neutral-200 bg-neutral-50 p-4 text-sm text-neutral-700">
-      <div className="text-sm font-semibold text-neutral-900">Why this score?</div>
-      <div className="mt-2 leading-relaxed">{text}</div>
-      <div className="mt-2 text-xs text-neutral-600">
-        Subtle note: mood and color are stored as priors; this prototype’s style distribution is driven by pairwise choices.
+    <div className="border border-zinc-200 bg-zinc-50 p-5 text-sm text-zinc-700">
+      <div className="text-base font-medium text-black">Why this score?</div>
+      <div className="mt-3 leading-relaxed">{text}</div>
+      <div className="mt-3 text-sm text-zinc-600">
+        Subtle note: mood and color are stored as priors; this prototype's style distribution is driven by pairwise choices.
       </div>
     </div>
   );
@@ -778,18 +778,18 @@ function EvidenceStrip({
 }) {
   return (
     <div>
-      <div className="text-sm font-semibold">{title}</div>
+      <div className="text-base font-medium text-black">{title}</div>
       {items.length === 0 ? (
-        <div className="mt-1 text-sm text-neutral-600">No evidence captured.</div>
+        <div className="mt-2 text-sm text-zinc-700">No evidence captured.</div>
       ) : (
-        <div className="mt-2 grid grid-cols-5 gap-2">
+        <div className="mt-3 grid grid-cols-5 gap-2">
           {items.map((x, i) => (
-            <div key={`${x.rel}-${i}`} className="rounded-xl border border-neutral-200 bg-white p-2">
-              <div className="relative aspect-square w-full overflow-hidden rounded-lg">
+            <div key={`${x.rel}-${i}`} className="border border-zinc-200 bg-white p-2">
+              <div className="relative aspect-square w-full overflow-hidden">
                 <Image src={`${IMAGE_BASE}/${x.rel}`} alt={x.rel} fill className="object-cover" sizes="120px" />
               </div>
-              <div className="mt-2 text-[11px] text-neutral-700">
-                <div className="font-mono">Δ {x.delta.toFixed(2)}</div>
+              <div className="mt-2 text-xs text-zinc-700">
+                <div className="font-mono font-medium">Δ {x.delta.toFixed(2)}</div>
               </div>
             </div>
           ))}

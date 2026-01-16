@@ -8,15 +8,20 @@ export default async function UserTestPage() {
   const manifest = JSON.parse(raw);
 
   return (
-    <div className="mx-auto max-w-5xl px-4 py-8">
-      <div className="mb-6">
-        <h1 className="text-2xl font-semibold">EchoGallery Taste Test (Prototype)</h1>
-        <p className="mt-1 text-sm text-neutral-600">
-          Rate images quickly. We’ll compute per-style scores and show why each score was produced.
-        </p>
-      </div>
+    <div className="min-h-screen bg-white">
+      <div className="mx-auto max-w-5xl px-6 py-12">
+        <div className="mb-8">
+          <p className="mb-2 text-xs font-light tracking-widest text-zinc-500">PROTOTYPE</p>
+          <h1 className="text-4xl font-light tracking-tight text-black">
+            Taste Test
+          </h1>
+          <p className="mt-3 text-sm font-light text-zinc-600">
+            Rate images quickly. We'll compute per-style scores and show why each score was produced.
+          </p>
+        </div>
 
-      <UserTestClient manifest={manifest} />
+        <UserTestClient manifest={manifest} />
+      </div>
     </div>
   );
 }
